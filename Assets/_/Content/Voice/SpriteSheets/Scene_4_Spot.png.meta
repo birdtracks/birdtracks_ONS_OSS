@@ -1,0 +1,2340 @@
+fileFormatVersion: 2
+guid: f8241dfdf263eaf4ea056d108a18f40a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Scene_4_Spot_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5336.1
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95481949f55c57d4ab6b1272c86aebaf
+      internalID: -891605884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_1
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 5336.1
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f523f58973c6894c932e5dde2258ef5
+      internalID: 793977182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_2
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 5336.1
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1814a785a5b83a849b42c162e622e559
+      internalID: 287286596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_3
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 5336.1
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12db862be88f9ec4b8f06528b4939963
+      internalID: 1686266263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_4
+      rect:
+        serializedVersion: 2
+        x: 2368
+        y: 5336.1
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4950d46da56a983499f60b3a4e1db988
+      internalID: 1349547319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_5
+      rect:
+        serializedVersion: 2
+        x: 2960
+        y: 5336.1
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc14dbe21a4b59141bd12eedbcbc5a54
+      internalID: -1445051122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_6
+      rect:
+        serializedVersion: 2
+        x: 3552
+        y: 5336.1
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f02f7e7777d2c64d85ef9ed77751f77
+      internalID: 913641449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_7
+      rect:
+        serializedVersion: 2
+        x: 4144
+        y: 5336.1
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851e8c182a081414fab64d26647512d8
+      internalID: -587105697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_8
+      rect:
+        serializedVersion: 2
+        x: 4736
+        y: 5336.1
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d42f43ad709ec42a0ddb0fad3377dc
+      internalID: -1398301121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_9
+      rect:
+        serializedVersion: 2
+        x: 5328
+        y: 5336.1
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e0cf77853487549b2e7d80e29021e1
+      internalID: 1416885530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4744.1
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36ca8ffb767d2947a245957acb14ea9
+      internalID: -150791875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_11
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 4744.1
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ad5a167efb76b4aae09a87bebf1b64
+      internalID: 1457905211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_12
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 4744.1
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474dea4c26c314746856a392c05b19cb
+      internalID: 1507695524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_13
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 4744.1
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b016215e976e5ea4f9374bef17acebda
+      internalID: -1691597540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_14
+      rect:
+        serializedVersion: 2
+        x: 2368
+        y: 4744.1
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8226712932017418501ab3e17ef8b2
+      internalID: -2119862702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_15
+      rect:
+        serializedVersion: 2
+        x: 2960
+        y: 4744.1
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60fe9a550f563ce41be753554a7b7cea
+      internalID: -1987923185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_16
+      rect:
+        serializedVersion: 2
+        x: 3552
+        y: 4744.1
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cab28bfa34127b47bd8da676e464ec1
+      internalID: 606157201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_17
+      rect:
+        serializedVersion: 2
+        x: 4144
+        y: 4744.1
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1990988aad63dc4e9c13b87ec98232e
+      internalID: -629703552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_18
+      rect:
+        serializedVersion: 2
+        x: 4736
+        y: 4744.1
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77596d206e3a73d449e3b870b76f94ee
+      internalID: 640602626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_19
+      rect:
+        serializedVersion: 2
+        x: 5328
+        y: 4744.1
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e375d85f5bc294f9a30dcd42485651
+      internalID: 42836252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4152.1
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53594fd5180cf74f9dce082fc428acc
+      internalID: 716820795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_21
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 4152.1
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4714c38eec7a6f341bbfdf89356ccda1
+      internalID: 1158428836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_22
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 4152.1
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87acfb9a5bc2c0647ab1bdeeab1aaf16
+      internalID: -1601147476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_23
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 4152.1
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a03e75f9ae29c439f2c2a2968cf205
+      internalID: 144918220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_24
+      rect:
+        serializedVersion: 2
+        x: 2368
+        y: 4152.1
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e031ede0c6b0ccb4cb1a620371c0a4f7
+      internalID: 901817793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_25
+      rect:
+        serializedVersion: 2
+        x: 2960
+        y: 4152.1
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f81991aadb348947956bcf6072600ff
+      internalID: 181250327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_26
+      rect:
+        serializedVersion: 2
+        x: 3552
+        y: 4152.1
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435fb10e11cb4ce49a9953fc3db0b38f
+      internalID: -2033719573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_27
+      rect:
+        serializedVersion: 2
+        x: 4144
+        y: 4152.1
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10706ffa0a05fbf4fa04cb14731c1589
+      internalID: 465177113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_28
+      rect:
+        serializedVersion: 2
+        x: 4736
+        y: 4152.1
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9fe3705dca3ac40a31f4f1e5f5e4fe
+      internalID: 349891178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_29
+      rect:
+        serializedVersion: 2
+        x: 5328
+        y: 4152.1
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d2fd1ecd2af1664b975c9fd8d281a2a
+      internalID: -1554738249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3560.1
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f2ad21622292249a84b77d1971d4d4
+      internalID: 486099176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_31
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 3560.1
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3fb20bb95f72e4f9e8040c8c76ff6b
+      internalID: 334126456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_32
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 3560.1
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30365770c3113464c9f9c1c81b604c58
+      internalID: 1907188182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_33
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 3560.1
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98be56746b918e24a81871094c906452
+      internalID: -815188659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_34
+      rect:
+        serializedVersion: 2
+        x: 2368
+        y: 3560.1
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 539d9df96288d0b4f89cef2593671502
+      internalID: 919084269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_35
+      rect:
+        serializedVersion: 2
+        x: 2960
+        y: 3560.1
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e7ae4dad1d30747a7095710107679b
+      internalID: -177098508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_36
+      rect:
+        serializedVersion: 2
+        x: 3552
+        y: 3560.1
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cce38c9581460e45a163c0f58e71e7b
+      internalID: 819395281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_37
+      rect:
+        serializedVersion: 2
+        x: 4144
+        y: 3560.1
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5c02c7c45bffe4e850ddff599a500d
+      internalID: -1272894671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_38
+      rect:
+        serializedVersion: 2
+        x: 4736
+        y: 3560.1
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf6680d458cb804785fba8c38686e10
+      internalID: 328128347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_39
+      rect:
+        serializedVersion: 2
+        x: 5328
+        y: 3560.1
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a0bd4f64a9c494aa30251193876be8
+      internalID: 2047764001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2968.1
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d0ba9ef907b0b49823aec0e8d464a6
+      internalID: -1005869451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_41
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 2968.1
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6131eb55c5ebed4091b06784bf44569
+      internalID: 970773182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_42
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 2968.1
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e39771e1e51ec64195093bed7adfbe8
+      internalID: 1171630603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_43
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 2968.1
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045284ec11cb5504593fcc07fbe978fc
+      internalID: -888167209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_44
+      rect:
+        serializedVersion: 2
+        x: 2368
+        y: 2968.1
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5b8173601dce347a6a3b6da58657a2
+      internalID: -267536720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_45
+      rect:
+        serializedVersion: 2
+        x: 2960
+        y: 2968.1
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5145e0b290de8c448176519ac283471
+      internalID: -694019201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_46
+      rect:
+        serializedVersion: 2
+        x: 3552
+        y: 2968.1
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c38d4046a28a04298a51ce8384bae0
+      internalID: 1642837238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_47
+      rect:
+        serializedVersion: 2
+        x: 4144
+        y: 2968.1
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e406ab02a20f14d859bee88ee50350
+      internalID: 1367997777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_48
+      rect:
+        serializedVersion: 2
+        x: 4736
+        y: 2968.1
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c4b63726560694eb45381597d4f31c
+      internalID: 974924935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_49
+      rect:
+        serializedVersion: 2
+        x: 5328
+        y: 2968.1
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1238eb37ddaaf64e8a546beb1563d77
+      internalID: -146987752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2376.1
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9d55262c4ebcf4793c465f7f1d7db6
+      internalID: 1068258768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_51
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 2376.1
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b6265b250045c1448b485ef6362a327
+      internalID: 1444104410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_52
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 2376.1
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a2448f1b73cfa43981551e41c50570
+      internalID: -752755890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_53
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 2376.1
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9970f50da5c699247be2efe1017b510c
+      internalID: -321513660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_54
+      rect:
+        serializedVersion: 2
+        x: 2368
+        y: 2376.1
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507c1acbb18cf714ea812c3163c61223
+      internalID: -121523270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_55
+      rect:
+        serializedVersion: 2
+        x: 2960
+        y: 2376.1
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff750de4cc44aa34dbdcfccde65a452f
+      internalID: 1319397976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_56
+      rect:
+        serializedVersion: 2
+        x: 3552
+        y: 2376.1
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e02c2e89881cea4da26236f2c953af7
+      internalID: -94274526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_57
+      rect:
+        serializedVersion: 2
+        x: 4144
+        y: 2376.1
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6cca64e338ff849a004a02000a77b5
+      internalID: -1237482689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_58
+      rect:
+        serializedVersion: 2
+        x: 4736
+        y: 2376.1
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35bf85dfc5a56184a9a9ac55627c18e2
+      internalID: -1771314729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_59
+      rect:
+        serializedVersion: 2
+        x: 5328
+        y: 2376.1
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7714f044754f6b74bb626cd33ec599cc
+      internalID: 2144424648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1784.1
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9243ea160232dc34d84a8d262efa09b2
+      internalID: -887290130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_61
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1784.1
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76749e9349dccc4fb51ecaca02c0a9c
+      internalID: -1196818851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_62
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 1784.1
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5062331295308ed4fb9a047cd8e89290
+      internalID: 1079592022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_63
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 1784.1
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f7aead0f8bc7748960c1ed9950b3c4
+      internalID: -400441995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_64
+      rect:
+        serializedVersion: 2
+        x: 2368
+        y: 1784.1
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3924bff69c370324080b2b5d5a0c54eb
+      internalID: 956526539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_65
+      rect:
+        serializedVersion: 2
+        x: 2960
+        y: 1784.1
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f2e87713849704786311c6566ee4ca
+      internalID: -253412957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_66
+      rect:
+        serializedVersion: 2
+        x: 3552
+        y: 1784.1
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c417aab7b060544b8748ce821ad2116
+      internalID: -103778706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_67
+      rect:
+        serializedVersion: 2
+        x: 4144
+        y: 1784.1
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd20a5a20fe92d42b75b6ef3e2b50dd
+      internalID: -855816614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_68
+      rect:
+        serializedVersion: 2
+        x: 4736
+        y: 1784.1
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5d8c39e49bd58468fe54c02a07344b
+      internalID: -1214853812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_69
+      rect:
+        serializedVersion: 2
+        x: 5328
+        y: 1784.1
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d76d567be827248b250528ef1e5ae4
+      internalID: -2139372170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1192.1
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56808985e3daaa4e9cf6a8326a5c5ae
+      internalID: 1592751208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_71
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1192.1
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5985c840b960e6b4d8e3e9d0de0798a3
+      internalID: 326602286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_72
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 1192.1
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83488bd92231b3d4ebad827c3a15c067
+      internalID: 1572613439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_73
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 1192.1
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9dbfbacbbbdaa47b47c76370e26bc1
+      internalID: 125388975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_74
+      rect:
+        serializedVersion: 2
+        x: 2368
+        y: 1192.1
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b8b3468f9f8e142a6a05b6308d3039
+      internalID: 1439975517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_75
+      rect:
+        serializedVersion: 2
+        x: 2960
+        y: 1192.1
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2db56978c326c74384eb31538b3c0b1
+      internalID: -1065967176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_76
+      rect:
+        serializedVersion: 2
+        x: 3552
+        y: 1192.1
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74b8ffb06b4d684885da908ccbf4af9
+      internalID: -2104865729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_77
+      rect:
+        serializedVersion: 2
+        x: 4144
+        y: 1192.1
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208ee76a52e8eb847bed697c4755c48b
+      internalID: 1915471680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_78
+      rect:
+        serializedVersion: 2
+        x: 4736
+        y: 1192.1
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f14fcc32e20d6e47ad28c379eada113
+      internalID: -544652634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_79
+      rect:
+        serializedVersion: 2
+        x: 5328
+        y: 1192.1
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813924609394c8544aea350df76cc95b
+      internalID: 1754942954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600.1
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93cd9dc1ae30a04d90de0a2a803b923
+      internalID: -480122204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_81
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 600.1
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e49ca574d7b434eabbb47b247d1173
+      internalID: -2135548213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_82
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 600.1
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700b3aef4767bb949818fbd8e11fb97c
+      internalID: -1027211780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_83
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 600.1
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03d3effe2995e242b56c9de72e185ca
+      internalID: -542230092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_84
+      rect:
+        serializedVersion: 2
+        x: 2368
+        y: 600.1
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba59f00c6d2f724d8bb20c05ac02b48
+      internalID: -1142494313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_85
+      rect:
+        serializedVersion: 2
+        x: 2960
+        y: 600.1
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce5cb33d85cf5b4986d5982376942fa
+      internalID: 571121216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_86
+      rect:
+        serializedVersion: 2
+        x: 3552
+        y: 600.1
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec94564a0c254647a7ffa67c6dc33ba
+      internalID: -51294630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_87
+      rect:
+        serializedVersion: 2
+        x: 4144
+        y: 600.1
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640fc314d9a84ad43b535067b7c90cee
+      internalID: 19757455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_88
+      rect:
+        serializedVersion: 2
+        x: 4736
+        y: 600.1
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139af9e77fe278340911e00fa86d5aa1
+      internalID: -210122400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_89
+      rect:
+        serializedVersion: 2
+        x: 5328
+        y: 600.1
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac4c493ab52ed74d99d67db97961f18
+      internalID: -1662896818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8.099976
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb1631f9bf477541bc7aa8d98716799
+      internalID: 2096945008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_91
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 8.099976
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08357c79bc02b9645a98a7d0e1dadcab
+      internalID: 1373344764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_92
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 8.099976
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53be41d3dcdbe2340b2267630e0e527d
+      internalID: -1777069908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_93
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 8.099976
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22efda20bd04044eaa47b7a87413671
+      internalID: -1863839118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_94
+      rect:
+        serializedVersion: 2
+        x: 2368
+        y: 8.099976
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38757aab3d081904ca36e7329780c44e
+      internalID: -103522991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_95
+      rect:
+        serializedVersion: 2
+        x: 2960
+        y: 8.099976
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc8b467f8ab6ba4b9f5aac0d4a843d4
+      internalID: 873431028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_96
+      rect:
+        serializedVersion: 2
+        x: 3552
+        y: 8.099976
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6f58ed6f2fc40409e8028d0aa5954d
+      internalID: -1158265684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_97
+      rect:
+        serializedVersion: 2
+        x: 4144
+        y: 8.099976
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9985b998e0ce3c44684e38c21d1a2f26
+      internalID: -823672476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_98
+      rect:
+        serializedVersion: 2
+        x: 4736
+        y: 8.099976
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1d959e4d4550b49bc0f2f3368b0564
+      internalID: -443714995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Spot_99
+      rect:
+        serializedVersion: 2
+        x: 5328
+        y: 8.099976
+        width: 592.9
+        height: 592.9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d0b6a767db2614983335e1b5d793e8
+      internalID: -843352377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 0372caa65730d7343a9aa9f2e9909d28
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Scene_4_Spot_0: -891605884
+      Scene_4_Spot_1: 793977182
+      Scene_4_Spot_10: -150791875
+      Scene_4_Spot_11: 1457905211
+      Scene_4_Spot_12: 1507695524
+      Scene_4_Spot_13: -1691597540
+      Scene_4_Spot_14: -2119862702
+      Scene_4_Spot_15: -1987923185
+      Scene_4_Spot_16: 606157201
+      Scene_4_Spot_17: -629703552
+      Scene_4_Spot_18: 640602626
+      Scene_4_Spot_19: 42836252
+      Scene_4_Spot_2: 287286596
+      Scene_4_Spot_20: 716820795
+      Scene_4_Spot_21: 1158428836
+      Scene_4_Spot_22: -1601147476
+      Scene_4_Spot_23: 144918220
+      Scene_4_Spot_24: 901817793
+      Scene_4_Spot_25: 181250327
+      Scene_4_Spot_26: -2033719573
+      Scene_4_Spot_27: 465177113
+      Scene_4_Spot_28: 349891178
+      Scene_4_Spot_29: -1554738249
+      Scene_4_Spot_3: 1686266263
+      Scene_4_Spot_30: 486099176
+      Scene_4_Spot_31: 334126456
+      Scene_4_Spot_32: 1907188182
+      Scene_4_Spot_33: -815188659
+      Scene_4_Spot_34: 919084269
+      Scene_4_Spot_35: -177098508
+      Scene_4_Spot_36: 819395281
+      Scene_4_Spot_37: -1272894671
+      Scene_4_Spot_38: 328128347
+      Scene_4_Spot_39: 2047764001
+      Scene_4_Spot_4: 1349547319
+      Scene_4_Spot_40: -1005869451
+      Scene_4_Spot_41: 970773182
+      Scene_4_Spot_42: 1171630603
+      Scene_4_Spot_43: -888167209
+      Scene_4_Spot_44: -267536720
+      Scene_4_Spot_45: -694019201
+      Scene_4_Spot_46: 1642837238
+      Scene_4_Spot_47: 1367997777
+      Scene_4_Spot_48: 974924935
+      Scene_4_Spot_49: -146987752
+      Scene_4_Spot_5: -1445051122
+      Scene_4_Spot_50: 1068258768
+      Scene_4_Spot_51: 1444104410
+      Scene_4_Spot_52: -752755890
+      Scene_4_Spot_53: -321513660
+      Scene_4_Spot_54: -121523270
+      Scene_4_Spot_55: 1319397976
+      Scene_4_Spot_56: -94274526
+      Scene_4_Spot_57: -1237482689
+      Scene_4_Spot_58: -1771314729
+      Scene_4_Spot_59: 2144424648
+      Scene_4_Spot_6: 913641449
+      Scene_4_Spot_60: -887290130
+      Scene_4_Spot_61: -1196818851
+      Scene_4_Spot_62: 1079592022
+      Scene_4_Spot_63: -400441995
+      Scene_4_Spot_64: 956526539
+      Scene_4_Spot_65: -253412957
+      Scene_4_Spot_66: -103778706
+      Scene_4_Spot_67: -855816614
+      Scene_4_Spot_68: -1214853812
+      Scene_4_Spot_69: -2139372170
+      Scene_4_Spot_7: -587105697
+      Scene_4_Spot_70: 1592751208
+      Scene_4_Spot_71: 326602286
+      Scene_4_Spot_72: 1572613439
+      Scene_4_Spot_73: 125388975
+      Scene_4_Spot_74: 1439975517
+      Scene_4_Spot_75: -1065967176
+      Scene_4_Spot_76: -2104865729
+      Scene_4_Spot_77: 1915471680
+      Scene_4_Spot_78: -544652634
+      Scene_4_Spot_79: 1754942954
+      Scene_4_Spot_8: -1398301121
+      Scene_4_Spot_80: -480122204
+      Scene_4_Spot_81: -2135548213
+      Scene_4_Spot_82: -1027211780
+      Scene_4_Spot_83: -542230092
+      Scene_4_Spot_84: -1142494313
+      Scene_4_Spot_85: 571121216
+      Scene_4_Spot_86: -51294630
+      Scene_4_Spot_87: 19757455
+      Scene_4_Spot_88: -210122400
+      Scene_4_Spot_89: -1662896818
+      Scene_4_Spot_9: 1416885530
+      Scene_4_Spot_90: 2096945008
+      Scene_4_Spot_91: 1373344764
+      Scene_4_Spot_92: -1777069908
+      Scene_4_Spot_93: -1863839118
+      Scene_4_Spot_94: -103522991
+      Scene_4_Spot_95: 873431028
+      Scene_4_Spot_96: -1158265684
+      Scene_4_Spot_97: -823672476
+      Scene_4_Spot_98: -443714995
+      Scene_4_Spot_99: -843352377
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

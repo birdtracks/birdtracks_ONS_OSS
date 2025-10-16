@@ -1,0 +1,1134 @@
+fileFormatVersion: 2
+guid: aaa1f6af6082dd4408ba1a745c39db33
+importerOverride:
+  nativeImporterType: 2089858483
+  scriptedImporterType:
+    serializedVersion: 2
+    Hash: b10b55a1aa6a1aa32521bc0cab59632e
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: Squirrel1_Ear1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3811
+      y: 1836
+      width: 242
+      height: 251
+    spriteID: e23da99414719f34b9cf4d9c3a1d9b00
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3811, y: 1836}
+    spritePosition: {x: 1468, y: 2298}
+  - name: Squirrel1_Head
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1189
+      y: 1730
+      width: 969
+      height: 843
+    spriteID: d774b74575b6f9444a376726d0d8deac
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1189, y: 1730}
+    spritePosition: {x: 1420, y: 1623}
+  - name: Squirrel1_Lid1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2244
+      y: 3744
+      width: 163
+      height: 193
+    spriteID: 77bcfd9e8143f00489ce35b74f325d05
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2244, y: 3744}
+    spritePosition: {x: 2203, y: 2004}
+  - name: Squirrel1_Lid2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2244
+      y: 3945
+      width: 161
+      height: 138
+    spriteID: 31f0af1a5b6262540b670b846f417120
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2244, y: 3945}
+    spritePosition: {x: 2217, y: 1902}
+  - name: Squirrel1_Lid3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3321
+      y: 3790
+      width: 300
+      height: 266
+    spriteID: bd1636b5310aa4c4582a3a3b85b34157
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3321, y: 3790}
+    spritePosition: {x: 1703, y: 1990}
+  - name: Squirrel1_Lid4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2061
+      y: 2581
+      width: 282
+      height: 189
+    spriteID: 98fe44c6070314743aeeba2904b5a338
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2061, y: 2581}
+    spritePosition: {x: 1703, y: 1850}
+  - name: Squirrel1_Pupil1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3128
+      y: 3711
+      width: 177
+      height: 313
+    spriteID: 5cbc62ff63ee9c64cbb20d518c9b5526
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 858, y: 1797}
+    spritePosition: {x: 2270, y: 1914}
+  - name: Squirrel1_Pupil2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3811
+      y: 1522
+      width: 227
+      height: 306
+    spriteID: b44d4765698a6854d95cb60feec3d78b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2024, y: -384}
+    spritePosition: {x: 1787, y: 1906}
+  - name: Squirrel1_EyeWhite
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3321
+      y: 2969
+      width: 688
+      height: 397
+    spriteID: 2aa43285a48816e4da8a759a01d3961b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3321, y: 2969}
+    spritePosition: {x: 1692, y: 1857}
+  - name: Squirrel1_Ear2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3811
+      y: 2095
+      width: 216
+      height: 224
+    spriteID: acd29c093d80ee34899aa9e34f78c202
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3811, y: 2095}
+    spritePosition: {x: 2114, y: 2309}
+  - name: Squirrel1_Arm1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1189
+      y: 3524
+      width: 619
+      height: 498
+    spriteID: 4ca91c46e5e22fc4da2ac8a0885f00c2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1189, y: 3524}
+    spritePosition: {x: 1535, y: 1081}
+  - name: Squirrel1_Arm2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3774
+      y: 2346
+      width: 279
+      height: 581
+    spriteID: 90d2d5b56a3da38488f45bd66a4ef28e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3774, y: 2346}
+    spritePosition: {x: 2114, y: 1131}
+  - name: Squirrel1_Leg1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1189
+      y: 2581
+      width: 864
+      height: 935
+    spriteID: 82161a00a5fa147418d1872e8d59ec28
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1189, y: 2581}
+    spritePosition: {x: 1098, y: 190}
+  - name: Squirrel1_Body
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1189
+      y: 4
+      width: 1257
+      height: 1718
+    spriteID: 5cab8c23a742a624184d2af32c04ca1c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1189, y: 4}
+    spritePosition: {x: 1044, y: 260}
+  - name: Squirrel1_Leg2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3321
+      y: 1522
+      width: 482
+      height: 816
+    spriteID: df3cdbd1a258b6f49a2377f5324c1a87
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3321, y: 1522}
+    spritePosition: {x: 1955, y: 279}
+  - name: Squirrel1_Tail
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 1177
+      height: 2078
+    spriteID: 05f5bad843b4f744ab693c25281f0757
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+    spritePosition: {x: 332, y: 433}
+  - name: Squirrel2_Ear1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3899
+      y: 3790
+      width: 164
+      height: 247
+    spriteID: 093ce9de52f821a4f9d9cce6699b0359
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3899, y: 3790}
+    spritePosition: {x: 2934, y: 2011}
+  - name: Squirrel2_Head
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2454
+      y: 2354
+      width: 733
+      height: 779
+    spriteID: ed63a4604f752d74fa3c40a1ae787b9a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2454, y: 2354}
+    spritePosition: {x: 2546, y: 1329}
+  - name: Squirrel2_Lid1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2828
+      y: 3711
+      width: 292
+      height: 314
+    spriteID: 695211e87e2e3e0479b4033ea0b01c25
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2828, y: 3711}
+    spritePosition: {x: 2654, y: 1577}
+  - name: Squirrel2_Lid2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3629
+      y: 3790
+      width: 262
+      height: 272
+    spriteID: 53690d029df1bda48bf8df83b6cb77a0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3629, y: 3790}
+    spritePosition: {x: 2743, y: 1542}
+  - name: Squirrel2_Pupil
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2244
+      y: 3524
+      width: 185
+      height: 212
+    spriteID: 24b06d2f9fd4c5e4b9cd0fa90713f5e2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -465, y: 1997}
+    spritePosition: {x: 2709, y: 1527}
+  - name: Squirrel2_EyeWhite
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2454
+      y: 3711
+      width: 366
+      height: 324
+    spriteID: 675d0b18226931a4f8de86590289fefe
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -202, y: 2165}
+    spritePosition: {x: 2656, y: 1546}
+  - name: Squirrel2_Ear2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1816
+      y: 3940
+      width: 130
+      height: 126
+    spriteID: 2b32b0584159b9244a4476ea73643e3c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1816, y: 3940}
+    spritePosition: {x: 2622, y: 1966}
+  - name: Squirrel2_Arm1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2454
+      y: 3141
+      width: 828
+      height: 562
+    spriteID: cec52753773de8d4baafece08a86f886
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2454, y: 3141}
+    spritePosition: {x: 2655, y: 865}
+  - name: Squirrel2_Leg1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2454
+      y: 1522
+      width: 859
+      height: 824
+    spriteID: 7b111188f9b25f44fb96069375669ece
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2454, y: 1522}
+    spritePosition: {x: 3422, y: 230}
+  - name: Squirrel2_Food
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1816
+      y: 3524
+      width: 420
+      height: 408
+    spriteID: 3b20fd132fc69994ba08e204efa23d73
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1816, y: 3524}
+    spritePosition: {x: 2450, y: 855}
+  - name: Squirrel2_Body
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2454
+      y: 4
+      width: 1343
+      height: 1510
+    spriteID: 2b57be8644421ba448f7ece756e0c6c1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2454, y: 4}
+    spritePosition: {x: 2941, y: 319}
+  - name: Squirrel2_Arm2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3321
+      y: 3374
+      width: 652
+      height: 408
+    spriteID: 3c2aed345f12e0b479806d495ca87416
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3321, y: 3374}
+    spritePosition: {x: 2646, y: 1013}
+  - name: Squirrel2_Leg2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3321
+      y: 2346
+      width: 445
+      height: 615
+    spriteID: 7afd3208ca507c947b092ea2ff508b56
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3321, y: 2346}
+    spritePosition: {x: 2929, y: 300}
+  - name: Squirrel2_Tail
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2090
+      width: 1103
+      height: 1775
+    spriteID: d0123d00b90c31a498f871328f86b2ba
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 2090}
+    spritePosition: {x: 3768, y: 442}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  sharedRigSpriteImportData: []
+  sharedRigCharacterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Android
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  mosaicLayers: 1
+  characterMode: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  layerMappingOption: 2
+  generatePhysicsShape: 0
+  paperDollMode: 0
+  keepDupilcateSpriteName: 1
+  skeletonAssetReferenceID: 
+  pipeline: {instanceID: 0}
+  pipelineVersion: 
+  padding: 4
+  spriteSizeExpand: 0
+  spriteCategoryList:
+    categories: []
+  spritePackingTag: 
+  resliceFromLayer: 0
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: Squirrel1
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: f5314ae01ad42584b9f1b4377cd9f3b5
+    layerID: 59
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Squirrel1_Ear1
+    spriteName: Squirrel1_Ear1
+    isGroup: 0
+    parentIndex: 0
+    spriteID: e23da99414719f34b9cf4d9c3a1d9b00
+    layerID: 58
+    mosaicPosition: {x: 3811, y: 1836}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Squirrel1_Head
+    spriteName: Squirrel1_Head
+    isGroup: 0
+    parentIndex: 0
+    spriteID: d774b74575b6f9444a376726d0d8deac
+    layerID: 54
+    mosaicPosition: {x: 1189, y: 1730}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Squirrel1_Lid1
+    spriteName: Squirrel1_Lid1
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 77bcfd9e8143f00489ce35b74f325d05
+    layerID: 50
+    mosaicPosition: {x: 2244, y: 3744}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Squirrel1_Lid2
+    spriteName: Squirrel1_Lid2
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 31f0af1a5b6262540b670b846f417120
+    layerID: 46
+    mosaicPosition: {x: 2244, y: 3945}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Squirrel1_Lid3
+    spriteName: Squirrel1_Lid3
+    isGroup: 0
+    parentIndex: 0
+    spriteID: bd1636b5310aa4c4582a3a3b85b34157
+    layerID: 42
+    mosaicPosition: {x: 3321, y: 3790}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Squirrel1_Lid4
+    spriteName: Squirrel1_Lid4
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 98fe44c6070314743aeeba2904b5a338
+    layerID: 38
+    mosaicPosition: {x: 2061, y: 2581}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Squirrel1_Pupil1
+    spriteName: Squirrel1_Pupil1
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 5cbc62ff63ee9c64cbb20d518c9b5526
+    layerID: 34
+    mosaicPosition: {x: 3128, y: 3711}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Squirrel1_Pupil2
+    spriteName: Squirrel1_Pupil2
+    isGroup: 0
+    parentIndex: 0
+    spriteID: b44d4765698a6854d95cb60feec3d78b
+    layerID: 32
+    mosaicPosition: {x: 3811, y: 1522}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Squirrel1_EyeWhite
+    spriteName: Squirrel1_EyeWhite
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 2aa43285a48816e4da8a759a01d3961b
+    layerID: 33
+    mosaicPosition: {x: 3321, y: 2969}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Squirrel1_Ear2
+    spriteName: Squirrel1_Ear2
+    isGroup: 0
+    parentIndex: 0
+    spriteID: acd29c093d80ee34899aa9e34f78c202
+    layerID: 30
+    mosaicPosition: {x: 3811, y: 2095}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Squirrel1_Arm1
+    spriteName: Squirrel1_Arm1
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 4ca91c46e5e22fc4da2ac8a0885f00c2
+    layerID: 22
+    mosaicPosition: {x: 1189, y: 3524}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Squirrel1_Arm2
+    spriteName: Squirrel1_Arm2
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 90d2d5b56a3da38488f45bd66a4ef28e
+    layerID: 26
+    mosaicPosition: {x: 3774, y: 2346}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Squirrel1_Leg1
+    spriteName: Squirrel1_Leg1
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 82161a00a5fa147418d1872e8d59ec28
+    layerID: 18
+    mosaicPosition: {x: 1189, y: 2581}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Squirrel1_Body
+    spriteName: Squirrel1_Body
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 5cab8c23a742a624184d2af32c04ca1c
+    layerID: 14
+    mosaicPosition: {x: 1189, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Squirrel1_Leg2
+    spriteName: Squirrel1_Leg2
+    isGroup: 0
+    parentIndex: 0
+    spriteID: df3cdbd1a258b6f49a2377f5324c1a87
+    layerID: 10
+    mosaicPosition: {x: 3321, y: 1522}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Squirrel1_Tail
+    spriteName: Squirrel1_Tail
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 05f5bad843b4f744ab693c25281f0757
+    layerID: 6
+    mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Squirrel2
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 14bf47e9e7d4df741891ec92358c11c0
+    layerID: 111
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Squirrel2_Ear1
+    spriteName: Squirrel2_Ear1
+    isGroup: 0
+    parentIndex: 17
+    spriteID: 093ce9de52f821a4f9d9cce6699b0359
+    layerID: 110
+    mosaicPosition: {x: 3899, y: 3790}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Squirrel2_Head
+    spriteName: Squirrel2_Head
+    isGroup: 0
+    parentIndex: 17
+    spriteID: ed63a4604f752d74fa3c40a1ae787b9a
+    layerID: 106
+    mosaicPosition: {x: 2454, y: 2354}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Squirrel2_Lid1
+    spriteName: Squirrel2_Lid1
+    isGroup: 0
+    parentIndex: 17
+    spriteID: 695211e87e2e3e0479b4033ea0b01c25
+    layerID: 102
+    mosaicPosition: {x: 2828, y: 3711}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Squirrel2_Lid2
+    spriteName: Squirrel2_Lid2
+    isGroup: 0
+    parentIndex: 17
+    spriteID: 53690d029df1bda48bf8df83b6cb77a0
+    layerID: 98
+    mosaicPosition: {x: 3629, y: 3790}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Squirrel2_Pupil
+    spriteName: Squirrel2_Pupil
+    isGroup: 0
+    parentIndex: 17
+    spriteID: 24b06d2f9fd4c5e4b9cd0fa90713f5e2
+    layerID: 94
+    mosaicPosition: {x: 2244, y: 3524}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Squirrel2_EyeWhite
+    spriteName: Squirrel2_EyeWhite
+    isGroup: 0
+    parentIndex: 17
+    spriteID: 675d0b18226931a4f8de86590289fefe
+    layerID: 93
+    mosaicPosition: {x: 2454, y: 3711}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Squirrel2_Ear2
+    spriteName: Squirrel2_Ear2
+    isGroup: 0
+    parentIndex: 17
+    spriteID: 2b32b0584159b9244a4476ea73643e3c
+    layerID: 92
+    mosaicPosition: {x: 1816, y: 3940}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Squirrel2_Arm1
+    spriteName: Squirrel2_Arm1
+    isGroup: 0
+    parentIndex: 17
+    spriteID: cec52753773de8d4baafece08a86f886
+    layerID: 88
+    mosaicPosition: {x: 2454, y: 3141}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Squirrel2_Leg1
+    spriteName: Squirrel2_Leg1
+    isGroup: 0
+    parentIndex: 17
+    spriteID: 7b111188f9b25f44fb96069375669ece
+    layerID: 84
+    mosaicPosition: {x: 2454, y: 1522}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Squirrel2_Food
+    spriteName: Squirrel2_Food
+    isGroup: 0
+    parentIndex: 17
+    spriteID: 3b20fd132fc69994ba08e204efa23d73
+    layerID: 80
+    mosaicPosition: {x: 1816, y: 3524}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Squirrel2_Body
+    spriteName: Squirrel2_Body
+    isGroup: 0
+    parentIndex: 17
+    spriteID: 2b57be8644421ba448f7ece756e0c6c1
+    layerID: 76
+    mosaicPosition: {x: 2454, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Squirrel2_Arm2
+    spriteName: Squirrel2_Arm2
+    isGroup: 0
+    parentIndex: 17
+    spriteID: 3c2aed345f12e0b479806d495ca87416
+    layerID: 72
+    mosaicPosition: {x: 3321, y: 3374}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Squirrel2_Leg2
+    spriteName: Squirrel2_Leg2
+    isGroup: 0
+    parentIndex: 17
+    spriteID: 7afd3208ca507c947b092ea2ff508b56
+    layerID: 68
+    mosaicPosition: {x: 3321, y: 2346}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Squirrel2_Tail
+    spriteName: Squirrel2_Tail
+    isGroup: 0
+    parentIndex: 17
+    spriteID: d0123d00b90c31a498f871328f86b2ba
+    layerID: 64
+    mosaicPosition: {x: 4, y: 2090}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  sharedRigPSDLayers: []
+  pSDLayerImportSetting: []
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  spriteSizeExpandChanged: 0
+  generateGOHierarchy: 0
+  textureAssetName: 
+  prefabAssetName: 
+  spriteLibAssetName: 
+  skeletonAssetName: 
+  secondarySpriteTextures: []

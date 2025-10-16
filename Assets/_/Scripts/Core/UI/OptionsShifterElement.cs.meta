@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 74ddec3323f94424c993011c988698cd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_OptionPrefab: {fileID: 4340681412925109438, guid: 9a510609e7ce2514684357505aa4755e,
+      type: 3}
+  - m_OptionsContainer: {instanceID: 0}
+  - m_SelectionContainer: {instanceID: 0}
+  - m_ShiftButton: {instanceID: 0}
+  - m_OrderUpButton: {instanceID: 0}
+  - m_OrderDownButton: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

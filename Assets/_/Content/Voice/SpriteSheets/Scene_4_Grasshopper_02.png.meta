@@ -1,0 +1,3308 @@
+fileFormatVersion: 2
+guid: 10d3dd5eecb914f45a53d502bd07e9fe
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5434.9165
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957b1760d7076fb46915ab5ae25b705d
+      internalID: 149498648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_1
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 5434.9165
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51eeabe73909274418ace111ef79d017
+      internalID: 1592752289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_2
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 5434.9165
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f362e2548a1cb440a654f96b276258e
+      internalID: 1690323328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_3
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 5434.9165
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210b9fb70af7727449743c63a2524958
+      internalID: -1571764364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_4
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 5434.9165
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 472101ee92bbdc449a026a7304dc4998
+      internalID: -226443520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_5
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 5434.9165
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d9ac9685f079643a2b1645fd806411
+      internalID: -514427569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_6
+      rect:
+        serializedVersion: 2
+        x: 2964
+        y: 5434.9165
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84216b5733f2007428eb2a893fb74c86
+      internalID: 1948785994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_7
+      rect:
+        serializedVersion: 2
+        x: 3458
+        y: 5434.9165
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4100c0e92f388a9449906baf9af3077d
+      internalID: -525109941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_8
+      rect:
+        serializedVersion: 2
+        x: 3952
+        y: 5434.9165
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea20a19e7da9d641995da8098a0185f
+      internalID: -1317405991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_9
+      rect:
+        serializedVersion: 2
+        x: 4446
+        y: 5434.9165
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d8f6804b8d31c40918e85f21418d8f
+      internalID: -1753643942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_10
+      rect:
+        serializedVersion: 2
+        x: 4940
+        y: 5434.9165
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8b8687e83a69241b57e8a83e5dd083
+      internalID: -2002474763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_11
+      rect:
+        serializedVersion: 2
+        x: 5434
+        y: 5434.9165
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377476970ea3c104a81cf79a685112d1
+      internalID: 1157466699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4940.9165
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0535d39c05e9a0349a96aa2232c35fad
+      internalID: 2093340278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_13
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 4940.9165
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ac8317cd4dec74b9c863c8a4fe0f52
+      internalID: -584600889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_14
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 4940.9165
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04c3dfa0f8cfc845858f0c59f75157d
+      internalID: -108325101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_15
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 4940.9165
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aac2b80deb7cd543a360f7cc88e91df
+      internalID: -830184392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_16
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 4940.9165
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe0617951a17fa46a3f2bce8d9f7582
+      internalID: -1144658273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_17
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 4940.9165
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea285639309926343abc862ab68ba035
+      internalID: 1396952609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_18
+      rect:
+        serializedVersion: 2
+        x: 2964
+        y: 4940.9165
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25320711ee244484385d2af21ad0d0ab
+      internalID: 523795242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_19
+      rect:
+        serializedVersion: 2
+        x: 3458
+        y: 4940.9165
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b9f2ef7e8f930449be588030398680
+      internalID: -1083310512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_20
+      rect:
+        serializedVersion: 2
+        x: 3952
+        y: 4940.9165
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f32f1fb389997148ad7b478e430b31e
+      internalID: 1217176244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_21
+      rect:
+        serializedVersion: 2
+        x: 4446
+        y: 4940.9165
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18cc8c55540e7cf48a014320200be428
+      internalID: -1590237438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_22
+      rect:
+        serializedVersion: 2
+        x: 4940
+        y: 4940.9165
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9b26fc9af4ded4c99d8af413b3d96a
+      internalID: 937326730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_23
+      rect:
+        serializedVersion: 2
+        x: 5434
+        y: 4940.9165
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51afcb0bc8a22a9428cdce5906fd20a5
+      internalID: 797190623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4446.9165
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c34364564d1ae2458759f703fb4c7a7
+      internalID: -364631173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_25
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 4446.9165
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba83f3181fa699b42818e99d5e660517
+      internalID: -1704183023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_26
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 4446.9165
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dcecf2109254ef4bae887f6e64c2295
+      internalID: 985596276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_27
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 4446.9165
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3bf8e6437e7b0f42838ae9ec8dcb6fb
+      internalID: -57589238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_28
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 4446.9165
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3609d17d1f781c24f924cb421c1dddf0
+      internalID: 984587692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_29
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 4446.9165
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329d5915b448d1e43a4ec1648a98fc66
+      internalID: -1585510629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_30
+      rect:
+        serializedVersion: 2
+        x: 2964
+        y: 4446.9165
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea49322699f0f124d8b8f9553a55ef1e
+      internalID: 1787785493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_31
+      rect:
+        serializedVersion: 2
+        x: 3458
+        y: 4446.9165
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5b2a5b82d91814d9c9b9336dae1cbd
+      internalID: -1089091381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_32
+      rect:
+        serializedVersion: 2
+        x: 3952
+        y: 4446.9165
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c657fde8b2342b048a82f6a96b8e993a
+      internalID: 1006368849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_33
+      rect:
+        serializedVersion: 2
+        x: 4446
+        y: 4446.9165
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908f586e3548af048b1f9bef22ccc535
+      internalID: -1048456452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_34
+      rect:
+        serializedVersion: 2
+        x: 4940
+        y: 4446.9165
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98cf4a5ea7855354c9fc02be9655aeef
+      internalID: 1279159482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_35
+      rect:
+        serializedVersion: 2
+        x: 5434
+        y: 4446.9165
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a63a9b1a0e6d44988960724760af7c
+      internalID: -866421350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3952.9167
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3410aa21481a8ae4898b19e23c8e1865
+      internalID: 819868368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_37
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 3952.9167
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3970281075e3e04c9053d1ea6b5bf27
+      internalID: -1209599452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_38
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 3952.9167
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c9ea97cd3559545b9e503ba793919a
+      internalID: -205131431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_39
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 3952.9167
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaffd6908a9ee0a419bbc2466ca41e66
+      internalID: 1399622861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_40
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 3952.9167
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a90941319d068a341a17617653f72e6f
+      internalID: 690160867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_41
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 3952.9167
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e2223dd14466845a14c0e8b8ec0280
+      internalID: -1147787329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_42
+      rect:
+        serializedVersion: 2
+        x: 2964
+        y: 3952.9167
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852e359cbfbddce4e9f590a7978c03c9
+      internalID: 890087836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_43
+      rect:
+        serializedVersion: 2
+        x: 3458
+        y: 3952.9167
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e327199311686141ae726a09103386d
+      internalID: 2077513474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_44
+      rect:
+        serializedVersion: 2
+        x: 3952
+        y: 3952.9167
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720c6be5144c8d2448a5605cc7897457
+      internalID: -1903870590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_45
+      rect:
+        serializedVersion: 2
+        x: 4446
+        y: 3952.9167
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e19e8d746660b1d40a23bf6dfea2b36d
+      internalID: 1627116847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_46
+      rect:
+        serializedVersion: 2
+        x: 4940
+        y: 3952.9167
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a4b726212929f4fab4b4f369e74025
+      internalID: 1656346537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_47
+      rect:
+        serializedVersion: 2
+        x: 5434
+        y: 3952.9167
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db9e2a6ebadf5f4ca3bdcb48f134c6f
+      internalID: 2145121953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3458.9167
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df5033f9f23bd3d47954ef5c460bf24e
+      internalID: -347939919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_49
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 3458.9167
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7af22313dbf968438afc216f76a80fa
+      internalID: -1197221899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_50
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 3458.9167
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e04ae04ef26e240926087d42f86315
+      internalID: -1530922288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_51
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 3458.9167
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8a2eedf2e7b9f4fb887810cd87dfb7
+      internalID: 1064823566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_52
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 3458.9167
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54446e7f318516046a4ca6b525407f43
+      internalID: 2013428622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_53
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 3458.9167
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeca0870423e5aa4d88a15a597155ada
+      internalID: 1430497442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_54
+      rect:
+        serializedVersion: 2
+        x: 2964
+        y: 3458.9167
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e343f95976ecc304e98b4397a9735360
+      internalID: -138071763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_55
+      rect:
+        serializedVersion: 2
+        x: 3458
+        y: 3458.9167
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2fc38d038e03a14ca9563d2d135abf8
+      internalID: 1382187713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_56
+      rect:
+        serializedVersion: 2
+        x: 3952
+        y: 3458.9167
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b319b71d93d480a4195b624c847f1807
+      internalID: -1795059877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_57
+      rect:
+        serializedVersion: 2
+        x: 4446
+        y: 3458.9167
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1860f7e1918874aa40d1f1daa12572
+      internalID: 799730970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_58
+      rect:
+        serializedVersion: 2
+        x: 4940
+        y: 3458.9167
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193a8445c4860464e9e912b1ec51efb0
+      internalID: 307713321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_59
+      rect:
+        serializedVersion: 2
+        x: 5434
+        y: 3458.9167
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa2c6862c2af77488b3cb888011e9dc
+      internalID: 654974741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2964.9167
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 304ad70ad3abe2242abb73255c4d387d
+      internalID: 73216117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_61
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 2964.9167
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a1e10596267f64191a38bed92dd87f
+      internalID: 673153240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_62
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 2964.9167
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c35bbc1b74f444abd6325478de2c0a
+      internalID: -84193881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_63
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 2964.9167
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33780be1ea087b14390afbd6a2ea683a
+      internalID: -2025211692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_64
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 2964.9167
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150d956f0e588ee409f439d122b03bab
+      internalID: -151645161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_65
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 2964.9167
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983c189ca36bf294099d6a68f14aefa4
+      internalID: 1410952040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_66
+      rect:
+        serializedVersion: 2
+        x: 2964
+        y: 2964.9167
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e09419b21b9dda4eba80a624e1c6eec
+      internalID: -1131927539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_67
+      rect:
+        serializedVersion: 2
+        x: 3458
+        y: 2964.9167
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65043bd0dd6f0524f9372b46c35bdac6
+      internalID: -547008668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_68
+      rect:
+        serializedVersion: 2
+        x: 3952
+        y: 2964.9167
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1edfaf49ed51328429507cdf16ca2d8b
+      internalID: -1922917344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_69
+      rect:
+        serializedVersion: 2
+        x: 4446
+        y: 2964.9167
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3626aa6307b35134381b1e7790954d4b
+      internalID: -766031391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_70
+      rect:
+        serializedVersion: 2
+        x: 4940
+        y: 2964.9167
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2707a28caf2ad4d8bc3c64125ee6c7
+      internalID: 764474881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_71
+      rect:
+        serializedVersion: 2
+        x: 5434
+        y: 2964.9167
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5668e7035d0c4fe4a9b6baffcb194df7
+      internalID: -297699110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2470.9167
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05bc9300ca2c2d4f89a424510147316
+      internalID: 73649980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_73
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 2470.9167
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7d01e1b7a7b6441ba57a864c3904a2
+      internalID: 306768813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_74
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 2470.9167
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a344553e17d30a4d8b1c5006f2f7289
+      internalID: 259601025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_75
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 2470.9167
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1159df66ffe60646b49912e881fd99a
+      internalID: -703829050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_76
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 2470.9167
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1668fdf16dec71645b0c77c4bd0dbfe6
+      internalID: 1927268633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_77
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 2470.9167
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ccf9d8b8c5d3044e939bf664d1f3fd4
+      internalID: -1664353329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_78
+      rect:
+        serializedVersion: 2
+        x: 2964
+        y: 2470.9167
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5175d5e2a68b6ed429ea30f62ea9801d
+      internalID: -278164309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_79
+      rect:
+        serializedVersion: 2
+        x: 3458
+        y: 2470.9167
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ab0062d2e7c094398726298c935308
+      internalID: -862505473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_80
+      rect:
+        serializedVersion: 2
+        x: 3952
+        y: 2470.9167
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5502ed32e02c346b39879e44425a41
+      internalID: 1336929687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_81
+      rect:
+        serializedVersion: 2
+        x: 4446
+        y: 2470.9167
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3aa9c979164894ea55438858fa58c0
+      internalID: 1509747441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_82
+      rect:
+        serializedVersion: 2
+        x: 4940
+        y: 2470.9167
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1022c917b02f6694688e313d48090146
+      internalID: -1560937684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_83
+      rect:
+        serializedVersion: 2
+        x: 5434
+        y: 2470.9167
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7eeb2e52c2efb47bec399e289312dd
+      internalID: 166139261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1976.9166
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d7ac86f861c39488a51a53637447a3
+      internalID: -1366937808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_85
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1976.9166
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d1bb46af81aa949abec1cfb0e189ca
+      internalID: 1150316379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_86
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 1976.9166
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d201ff87e572f49bbe269fe513c293
+      internalID: 445995801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_87
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 1976.9166
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360588f6e4f8ce345b6cab6cdda1eb5a
+      internalID: -170385955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_88
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 1976.9166
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef624bcc7e022e047a84e8dd2512c13c
+      internalID: -641158032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_89
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 1976.9166
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad0cf6aa475256489c196b59efc60a0
+      internalID: 1097384519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_90
+      rect:
+        serializedVersion: 2
+        x: 2964
+        y: 1976.9166
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f126dd4f0fe0fcd4499cbf5714021643
+      internalID: 1260133558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_91
+      rect:
+        serializedVersion: 2
+        x: 3458
+        y: 1976.9166
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea7ec13421c53aa40b19c3c1f0108a7f
+      internalID: -1285578117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_92
+      rect:
+        serializedVersion: 2
+        x: 3952
+        y: 1976.9166
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6f62f3078fe62498d997c31f1e88ec
+      internalID: 269692976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_93
+      rect:
+        serializedVersion: 2
+        x: 4446
+        y: 1976.9166
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2388274af3340b0408738873914b19ce
+      internalID: 1387908324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_94
+      rect:
+        serializedVersion: 2
+        x: 4940
+        y: 1976.9166
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e79ef77b7d80e04183efbef1b675ad7
+      internalID: 1450346029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_95
+      rect:
+        serializedVersion: 2
+        x: 5434
+        y: 1976.9166
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb57bba6ce8236499d234f1d0b35638
+      internalID: -1763778228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1482.9166
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f406dad08ac9240b4c3194d78038df
+      internalID: 765200559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_97
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1482.9166
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912b83ae176a3e44e8be2163140d855a
+      internalID: 1591746019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_98
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 1482.9166
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ccd43ae343dd040af405cb4c394553
+      internalID: 1915754700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_99
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 1482.9166
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06ea602fae4e344cba8ec253cc883d2
+      internalID: -508378900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_100
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 1482.9166
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8bd2ddfd1c8b64fa00468a5999471d
+      internalID: -1266946608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_101
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 1482.9166
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a477c5192a179442bf79c661f9f4e66
+      internalID: 509273968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_102
+      rect:
+        serializedVersion: 2
+        x: 2964
+        y: 1482.9166
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb11edd95868a3458af9197b931de8a
+      internalID: 2042122193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_103
+      rect:
+        serializedVersion: 2
+        x: 3458
+        y: 1482.9166
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278ea25731f0341498fd5981e9b09ffe
+      internalID: -1195619070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_104
+      rect:
+        serializedVersion: 2
+        x: 3952
+        y: 1482.9166
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70127856c0b360a4bb4da4841a3002bb
+      internalID: 939317297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_105
+      rect:
+        serializedVersion: 2
+        x: 4446
+        y: 1482.9166
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eef531905a05a44f80566dbdd55cd63
+      internalID: -2057340969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_106
+      rect:
+        serializedVersion: 2
+        x: 4940
+        y: 1482.9166
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f758f2836fda61468ab7525577be936
+      internalID: -1504107888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_107
+      rect:
+        serializedVersion: 2
+        x: 5434
+        y: 1482.9166
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74765ce2c9a9e2d4e87106f5709075db
+      internalID: -629394346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 988.9166
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4b554c778bbd54b9829d59727b9fa6
+      internalID: 139446309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_109
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 988.9166
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26cd03ad5e7fef04aaa33e6bbcf74729
+      internalID: 769280814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_110
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 988.9166
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879a093416a5c8c4dace3802dded046f
+      internalID: -64785739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_111
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 988.9166
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee781623ee428a4890207249b2721ec
+      internalID: 7970573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_112
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 988.9166
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a03df963d95a844b91a8e7129270da
+      internalID: -1005416888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_113
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 988.9166
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde6e8dccb7c8b146b2de995fe94baa0
+      internalID: 109806948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_114
+      rect:
+        serializedVersion: 2
+        x: 2964
+        y: 988.9166
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87001bb86ad5b1439b669a24523e11d
+      internalID: -2028554276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_115
+      rect:
+        serializedVersion: 2
+        x: 3458
+        y: 988.9166
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963ba7ab12870fd449fc72d301c1a362
+      internalID: -1692188640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_116
+      rect:
+        serializedVersion: 2
+        x: 3952
+        y: 988.9166
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ced9a2e0bd9dd4783fbab4e16c4eac
+      internalID: 931980838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_117
+      rect:
+        serializedVersion: 2
+        x: 4446
+        y: 988.9166
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3221a1edf3e4454a98cd4d4be40ab8e
+      internalID: 846775005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_118
+      rect:
+        serializedVersion: 2
+        x: 4940
+        y: 988.9166
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e781dca931a84d147baef84195f62183
+      internalID: -2146565033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_119
+      rect:
+        serializedVersion: 2
+        x: 5434
+        y: 988.9166
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379d7141bad9a494aa89599b3e1dd5dc
+      internalID: -1897504819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 494.91666
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad755e79e316c946939bdda411d22b8
+      internalID: 1637314158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_121
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 494.91666
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac98c1651e4ef174585a7d869a2f0dd5
+      internalID: -1248806925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_122
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 494.91666
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 074519381fd058142ae80edef5f88756
+      internalID: 951377276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_123
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 494.91666
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c77efc240af1f4fbf83901ec3dc2b8
+      internalID: 495964854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_124
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 494.91666
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894cb56c31a959542943b52ffd183d75
+      internalID: -854471994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_125
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 494.91666
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d033dbd35bcfe5b4e98379a83b896c5a
+      internalID: -381920135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_126
+      rect:
+        serializedVersion: 2
+        x: 2964
+        y: 494.91666
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d604d27ac771cd74d8963d2080cb7f38
+      internalID: 1924820164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_127
+      rect:
+        serializedVersion: 2
+        x: 3458
+        y: 494.91666
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f5012584bde494c8d429794d8d2f52
+      internalID: -951028076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_128
+      rect:
+        serializedVersion: 2
+        x: 3952
+        y: 494.91666
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe8c71fed258b8459bb2417a784efe2
+      internalID: 512528009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_129
+      rect:
+        serializedVersion: 2
+        x: 4446
+        y: 494.91666
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f067377fd7185244a562e3d91f283f2
+      internalID: 129839429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_130
+      rect:
+        serializedVersion: 2
+        x: 4940
+        y: 494.91666
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b0f0d3ddc67b34ab6bda855a0924fd
+      internalID: -385654014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_131
+      rect:
+        serializedVersion: 2
+        x: 5434
+        y: 494.91666
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00eae35aae4b8f842a1f08c0e7a6d476
+      internalID: -2099110338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.9166565
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8662785cf74ef24c85956fb0dc1b928
+      internalID: -539976727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_133
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 0.9166565
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32622f01fd4c2724f84470b654f6328a
+      internalID: 517273358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_134
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 0.9166565
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac83653cdb38b7145b6ffaa7d40bf8fa
+      internalID: 1560504899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_135
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 0.9166565
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f674b1399ec114d866949f6cc2cb76
+      internalID: -1479698025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_136
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 0.9166565
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5940beade63f0845800fecf7d3e301f
+      internalID: -1824980012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_137
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 0.9166565
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdcad371dc981d04eb26799f8f7890bd
+      internalID: -208738016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_138
+      rect:
+        serializedVersion: 2
+        x: 2964
+        y: 0.9166565
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78faa3e5a1cd59a4fbef7569b82d994c
+      internalID: -912029631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_139
+      rect:
+        serializedVersion: 2
+        x: 3458
+        y: 0.9166565
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0601a73527942d3459badbc089bf849b
+      internalID: 1324839147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_140
+      rect:
+        serializedVersion: 2
+        x: 3952
+        y: 0.9166565
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499686e445764704ca76c5f2891cf16d
+      internalID: 1378846868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_141
+      rect:
+        serializedVersion: 2
+        x: 4446
+        y: 0.9166565
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9b2371ccd0535469f2f56cfd6604d8
+      internalID: -504109620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_142
+      rect:
+        serializedVersion: 2
+        x: 4940
+        y: 0.9166565
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f34fc8ff781c3454f8fbdb072e66cccc
+      internalID: -1980651699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_4_Grasshopper_02_143
+      rect:
+        serializedVersion: 2
+        x: 5434
+        y: 0.9166565
+        width: 494.08334
+        height: 494.08334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e413b90be444f324bbe03555f13572e4
+      internalID: -979552488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 69e4ff7fd9d55d546bf6f9097454e0e6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Scene_4_Grasshopper_02_0: 149498648
+      Scene_4_Grasshopper_02_1: 1592752289
+      Scene_4_Grasshopper_02_10: -2002474763
+      Scene_4_Grasshopper_02_100: -1266946608
+      Scene_4_Grasshopper_02_101: 509273968
+      Scene_4_Grasshopper_02_102: 2042122193
+      Scene_4_Grasshopper_02_103: -1195619070
+      Scene_4_Grasshopper_02_104: 939317297
+      Scene_4_Grasshopper_02_105: -2057340969
+      Scene_4_Grasshopper_02_106: -1504107888
+      Scene_4_Grasshopper_02_107: -629394346
+      Scene_4_Grasshopper_02_108: 139446309
+      Scene_4_Grasshopper_02_109: 769280814
+      Scene_4_Grasshopper_02_11: 1157466699
+      Scene_4_Grasshopper_02_110: -64785739
+      Scene_4_Grasshopper_02_111: 7970573
+      Scene_4_Grasshopper_02_112: -1005416888
+      Scene_4_Grasshopper_02_113: 109806948
+      Scene_4_Grasshopper_02_114: -2028554276
+      Scene_4_Grasshopper_02_115: -1692188640
+      Scene_4_Grasshopper_02_116: 931980838
+      Scene_4_Grasshopper_02_117: 846775005
+      Scene_4_Grasshopper_02_118: -2146565033
+      Scene_4_Grasshopper_02_119: -1897504819
+      Scene_4_Grasshopper_02_12: 2093340278
+      Scene_4_Grasshopper_02_120: 1637314158
+      Scene_4_Grasshopper_02_121: -1248806925
+      Scene_4_Grasshopper_02_122: 951377276
+      Scene_4_Grasshopper_02_123: 495964854
+      Scene_4_Grasshopper_02_124: -854471994
+      Scene_4_Grasshopper_02_125: -381920135
+      Scene_4_Grasshopper_02_126: 1924820164
+      Scene_4_Grasshopper_02_127: -951028076
+      Scene_4_Grasshopper_02_128: 512528009
+      Scene_4_Grasshopper_02_129: 129839429
+      Scene_4_Grasshopper_02_13: -584600889
+      Scene_4_Grasshopper_02_130: -385654014
+      Scene_4_Grasshopper_02_131: -2099110338
+      Scene_4_Grasshopper_02_132: -539976727
+      Scene_4_Grasshopper_02_133: 517273358
+      Scene_4_Grasshopper_02_134: 1560504899
+      Scene_4_Grasshopper_02_135: -1479698025
+      Scene_4_Grasshopper_02_136: -1824980012
+      Scene_4_Grasshopper_02_137: -208738016
+      Scene_4_Grasshopper_02_138: -912029631
+      Scene_4_Grasshopper_02_139: 1324839147
+      Scene_4_Grasshopper_02_14: -108325101
+      Scene_4_Grasshopper_02_140: 1378846868
+      Scene_4_Grasshopper_02_141: -504109620
+      Scene_4_Grasshopper_02_142: -1980651699
+      Scene_4_Grasshopper_02_143: -979552488
+      Scene_4_Grasshopper_02_15: -830184392
+      Scene_4_Grasshopper_02_16: -1144658273
+      Scene_4_Grasshopper_02_17: 1396952609
+      Scene_4_Grasshopper_02_18: 523795242
+      Scene_4_Grasshopper_02_19: -1083310512
+      Scene_4_Grasshopper_02_2: 1690323328
+      Scene_4_Grasshopper_02_20: 1217176244
+      Scene_4_Grasshopper_02_21: -1590237438
+      Scene_4_Grasshopper_02_22: 937326730
+      Scene_4_Grasshopper_02_23: 797190623
+      Scene_4_Grasshopper_02_24: -364631173
+      Scene_4_Grasshopper_02_25: -1704183023
+      Scene_4_Grasshopper_02_26: 985596276
+      Scene_4_Grasshopper_02_27: -57589238
+      Scene_4_Grasshopper_02_28: 984587692
+      Scene_4_Grasshopper_02_29: -1585510629
+      Scene_4_Grasshopper_02_3: -1571764364
+      Scene_4_Grasshopper_02_30: 1787785493
+      Scene_4_Grasshopper_02_31: -1089091381
+      Scene_4_Grasshopper_02_32: 1006368849
+      Scene_4_Grasshopper_02_33: -1048456452
+      Scene_4_Grasshopper_02_34: 1279159482
+      Scene_4_Grasshopper_02_35: -866421350
+      Scene_4_Grasshopper_02_36: 819868368
+      Scene_4_Grasshopper_02_37: -1209599452
+      Scene_4_Grasshopper_02_38: -205131431
+      Scene_4_Grasshopper_02_39: 1399622861
+      Scene_4_Grasshopper_02_4: -226443520
+      Scene_4_Grasshopper_02_40: 690160867
+      Scene_4_Grasshopper_02_41: -1147787329
+      Scene_4_Grasshopper_02_42: 890087836
+      Scene_4_Grasshopper_02_43: 2077513474
+      Scene_4_Grasshopper_02_44: -1903870590
+      Scene_4_Grasshopper_02_45: 1627116847
+      Scene_4_Grasshopper_02_46: 1656346537
+      Scene_4_Grasshopper_02_47: 2145121953
+      Scene_4_Grasshopper_02_48: -347939919
+      Scene_4_Grasshopper_02_49: -1197221899
+      Scene_4_Grasshopper_02_5: -514427569
+      Scene_4_Grasshopper_02_50: -1530922288
+      Scene_4_Grasshopper_02_51: 1064823566
+      Scene_4_Grasshopper_02_52: 2013428622
+      Scene_4_Grasshopper_02_53: 1430497442
+      Scene_4_Grasshopper_02_54: -138071763
+      Scene_4_Grasshopper_02_55: 1382187713
+      Scene_4_Grasshopper_02_56: -1795059877
+      Scene_4_Grasshopper_02_57: 799730970
+      Scene_4_Grasshopper_02_58: 307713321
+      Scene_4_Grasshopper_02_59: 654974741
+      Scene_4_Grasshopper_02_6: 1948785994
+      Scene_4_Grasshopper_02_60: 73216117
+      Scene_4_Grasshopper_02_61: 673153240
+      Scene_4_Grasshopper_02_62: -84193881
+      Scene_4_Grasshopper_02_63: -2025211692
+      Scene_4_Grasshopper_02_64: -151645161
+      Scene_4_Grasshopper_02_65: 1410952040
+      Scene_4_Grasshopper_02_66: -1131927539
+      Scene_4_Grasshopper_02_67: -547008668
+      Scene_4_Grasshopper_02_68: -1922917344
+      Scene_4_Grasshopper_02_69: -766031391
+      Scene_4_Grasshopper_02_7: -525109941
+      Scene_4_Grasshopper_02_70: 764474881
+      Scene_4_Grasshopper_02_71: -297699110
+      Scene_4_Grasshopper_02_72: 73649980
+      Scene_4_Grasshopper_02_73: 306768813
+      Scene_4_Grasshopper_02_74: 259601025
+      Scene_4_Grasshopper_02_75: -703829050
+      Scene_4_Grasshopper_02_76: 1927268633
+      Scene_4_Grasshopper_02_77: -1664353329
+      Scene_4_Grasshopper_02_78: -278164309
+      Scene_4_Grasshopper_02_79: -862505473
+      Scene_4_Grasshopper_02_8: -1317405991
+      Scene_4_Grasshopper_02_80: 1336929687
+      Scene_4_Grasshopper_02_81: 1509747441
+      Scene_4_Grasshopper_02_82: -1560937684
+      Scene_4_Grasshopper_02_83: 166139261
+      Scene_4_Grasshopper_02_84: -1366937808
+      Scene_4_Grasshopper_02_85: 1150316379
+      Scene_4_Grasshopper_02_86: 445995801
+      Scene_4_Grasshopper_02_87: -170385955
+      Scene_4_Grasshopper_02_88: -641158032
+      Scene_4_Grasshopper_02_89: 1097384519
+      Scene_4_Grasshopper_02_9: -1753643942
+      Scene_4_Grasshopper_02_90: 1260133558
+      Scene_4_Grasshopper_02_91: -1285578117
+      Scene_4_Grasshopper_02_92: 269692976
+      Scene_4_Grasshopper_02_93: 1387908324
+      Scene_4_Grasshopper_02_94: 1450346029
+      Scene_4_Grasshopper_02_95: -1763778228
+      Scene_4_Grasshopper_02_96: 765200559
+      Scene_4_Grasshopper_02_97: 1591746019
+      Scene_4_Grasshopper_02_98: 1915754700
+      Scene_4_Grasshopper_02_99: -508378900
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

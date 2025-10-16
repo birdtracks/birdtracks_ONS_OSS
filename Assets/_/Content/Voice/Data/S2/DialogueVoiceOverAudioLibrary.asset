@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad3ada4e39e3e3c4c841739fdfdf8818, type: 3}
+  m_Name: DialogueVoiceOverAudioLibrary
+  m_EditorClassIdentifier: 
+  ActiveLanguage: 1
+  VoiceOverPacks:
+  - ID: 2-81
+    EnglishClip: {fileID: 8300000, guid: 70c589ff0f01af542abf28bf6086a05a, type: 3}
+    SeswatiClip: {fileID: 8300000, guid: 0d2a9184f12bce44197777dcf379f468, type: 3}
+  - ID: 2-83
+    EnglishClip: {fileID: 8300000, guid: cfe5110cbc3a34949aac8da0071d05a2, type: 3}
+    SeswatiClip: {fileID: 8300000, guid: 18cc2870b5a28964097e9afae116225e, type: 3}
+  - ID: 2-84
+    EnglishClip: {fileID: 8300000, guid: e370ce771bc94064e8847e690c617658, type: 3}
+    SeswatiClip: {fileID: 8300000, guid: 1b9576b7408b4d74499af21a3aa24757, type: 3}
+  - ID: 4-85
+    EnglishClip: {fileID: 8300000, guid: 377edb80e7e088242891c85614397d95, type: 3}
+    SeswatiClip: {fileID: 8300000, guid: 70fa8b730550c4e43afe61adaf39a9ec, type: 3}
+  - ID: 4-03
+    EnglishClip: {fileID: 8300000, guid: 2d14ee16a45cbc74b9ba6a8b227ecd4b, type: 3}
+    SeswatiClip: {fileID: 8300000, guid: dd0daaecbb18da24f9ae654c6ce6d600, type: 3}
+  - ID: 2-01
+    EnglishClip: {fileID: 8300000, guid: 3da3b76e0878c6d4fa2a5b877f001365, type: 3}
+    SeswatiClip: {fileID: 8300000, guid: c8d50425700d9ce4aa8f8c4e28f429dd, type: 3}
+  - ID: 2-91
+    EnglishClip: {fileID: 8300000, guid: a5bf992c2669c2f43aa1f2431623179d, type: 3}
+    SeswatiClip: {fileID: 8300000, guid: 07e80f9522ae08c4f92c8271340afa9f, type: 3}

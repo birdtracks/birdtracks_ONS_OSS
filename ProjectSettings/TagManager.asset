@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - moveableCrate01
+  - moveableCrate
+  - BubbleBath
+  - Haybale
+  - Chalk
+  - MissMouseOutfit
+  - MissMouseEyes
+  - GameNubber
+  - DogMathsGridLeft
+  - DogMathsGridRight
+  - JJRightFinger
+  - Manager
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - TeaTime.HoseHousing
+  - Cursor
+  - TeaTime.Hose
+  - Chicken1
+  - TeaTime.ItemDiscard
+  - Tangram.PieceCollision
+  - LifeExplorer.Surface
+  - LifeExplorer.IgnoreInput
+  - Tangram.RotationWheel
+  - Tangram.PieceVisual
+  - Tangram.Background
+  - Tangram.Puzzle
+  - LifeExplorer.SmallPet
+  - TeaTime.HairStrand
+  - TeaTime.HairTuft
+  - TeaTime.Tool
+  - Tangram.Explainer
+  - Tangram.InputBlocker
+  - TeaTime.DragLayer
+  - TeaTime.DragCapture
+  - TeaTime.CharacterBodyCoarse
+  - TeaTime.CharacterBodyFine
+  - TeaTime.CharacterBody
+  - TeaTime.CharacterFace
+  m_SortingLayers:
+  - name: LifeExplorer.Environment.Background
+    uniqueID: 244093491
+    locked: 0
+  - name: Background
+    uniqueID: 416534053
+    locked: 0
+  - name: Shadow
+    uniqueID: 980474923
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: LifeExplorer.Environment.Light
+    uniqueID: 531101685
+    locked: 0
+  - name: HeldItems
+    uniqueID: 2586816711
+    locked: 0
+  - name: Midground
+    uniqueID: 9128951
+    locked: 0
+  - name: Foreground
+    uniqueID: 741740383
+    locked: 0
+  - name: Drag
+    uniqueID: 2047418933
+    locked: 0
+  - name: EffectOverlay
+    uniqueID: 3270927409
+    locked: 0

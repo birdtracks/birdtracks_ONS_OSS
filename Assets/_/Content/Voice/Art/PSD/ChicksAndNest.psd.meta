@@ -1,0 +1,891 @@
+fileFormatVersion: 2
+guid: 8a85a2936040edd40be3b20e7707b433
+importerOverride:
+  nativeImporterType: 2089858483
+  scriptedImporterType:
+    serializedVersion: 2
+    Hash: b10b55a1aa6a1aa32521bc0cab59632e
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: Nest_Front
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 2531
+      height: 1661
+    spriteID: 0ee718958eaee0a408635d144cce3396
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+    spritePosition: {x: 1514, y: 524}
+  - name: Chick2_HeadFeathers1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1044
+      y: 3398
+      width: 78
+      height: 121
+    spriteID: 8f97e4dee5855214f806616608944e0d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1044, y: 3398}
+    spritePosition: {x: 3010, y: 2265}
+  - name: Chick2_HeadFeathers2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3922
+      y: 2437
+      width: 114
+      height: 152
+    spriteID: e7b845221e5ed6c4f951f239dd233326
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3922, y: 2437}
+    spritePosition: {x: 3124, y: 2290}
+  - name: Chick2_Wing1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2543
+      y: 1167
+      width: 477
+      height: 484
+    spriteID: 2d6dcd05697c9f046a1ef20cdeb18688
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2543, y: 1167}
+    spritePosition: {x: 2519, y: 1210}
+  - name: Chick2_Wing2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3028
+      y: 1167
+      width: 382
+      height: 344
+    spriteID: 43d5d5805a518f44a9fd12933172c5e4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3028, y: 1167}
+    spritePosition: {x: 3325, y: 1394}
+  - name: Chick2_Head
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3232
+      y: 1673
+      width: 787
+      height: 756
+    spriteID: 985622a998189d747b488feab1446d30
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3232, y: 1673}
+    spritePosition: {x: 2679, y: 1567}
+  - name: Chick2_Body
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2077
+      y: 1673
+      width: 1147
+      height: 820
+    spriteID: 95c50cc1a19585946b99e2c039e4a675
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2077, y: 1673}
+    spritePosition: {x: 2553, y: 990}
+  - name: Chick1_Eyebrow1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 689
+      y: 3568
+      width: 86
+      height: 76
+    spriteID: a604bbfe2eb7abe499e7143fb0fd115c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 689, y: 3568}
+    spritePosition: {x: 1888, y: 1758}
+  - name: Chick1_Eyebrow2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2077
+      y: 2501
+      width: 83
+      height: 70
+    spriteID: a7f6d8f238751404a85c248c474c8f96
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2077, y: 2501}
+    spritePosition: {x: 2384, y: 1788}
+  - name: Chick1_HeadFeather1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 578
+      y: 3568
+      width: 103
+      height: 97
+    spriteID: 54c4d839606efce4eb487215731facf4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 578, y: 3568}
+    spritePosition: {x: 1917, y: 1929}
+  - name: Chick1_HeadFeather2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3288
+      y: 1519
+      width: 121
+      height: 119
+    spriteID: 8474e6490c0258d4886f7f17bd21e533
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3288, y: 1519}
+    spritePosition: {x: 2234, y: 1985}
+  - name: Chick1_HeadFeather3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1044
+      y: 3527
+      width: 89
+      height: 73
+    spriteID: f216b61bd0f548b4bb4c273082d73564
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1044, y: 3527}
+    spritePosition: {x: 2305, y: 1963}
+  - name: Chick1_Head
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1142
+      y: 2665
+      width: 793
+      height: 734
+    spriteID: 480b393b7c962564999f2c3be252f9c4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1142, y: 2665}
+    spritePosition: {x: 1817, y: 1302}
+  - name: Chick1_Lid1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 578
+      y: 3398
+      width: 252
+      height: 162
+    spriteID: 7fd990f4fad138b4fa587b19dc535f67
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 578, y: 3398}
+    spritePosition: {x: 1887, y: 1637}
+  - name: Chick1_Lid2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3028
+      y: 1519
+      width: 252
+      height: 125
+    spriteID: ff08468e136fc2d4ca17a13784b702de
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3028, y: 1519}
+    spritePosition: {x: 1887, y: 1550}
+  - name: Chick1_Lid3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3438
+      y: 2437
+      width: 234
+      height: 157
+    spriteID: d15791a96900f89489aa67b42b6dca6b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3438, y: 2437}
+    spritePosition: {x: 2236, y: 1665}
+  - name: Chick1_Lid4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3680
+      y: 2437
+      width: 234
+      height: 150
+    spriteID: 534f4717297988149aa6fb4cd555c43e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3680, y: 2437}
+    spritePosition: {x: 2236, y: 1578}
+  - name: Chick1_Pupil2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 838
+      y: 3398
+      width: 198
+      height: 206
+    spriteID: d7f4728f8c927934ba3fa7f6386b7da2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 838, y: 3398}
+    spritePosition: {x: 2238, y: 1631}
+  - name: Chick1_Pupil1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3232
+      y: 2437
+      width: 198
+      height: 206
+    spriteID: c67b3e5d75be5324fae4ad05128510c8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3232, y: 2437}
+    spritePosition: {x: 1910, y: 1614}
+  - name: Chick1_EyeWhite
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3398
+      width: 566
+      height: 277
+    spriteID: d1f15ac94aaeea24d8f75c5fbb472b5f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -1891, y: 1853}
+    spritePosition: {x: 1895, y: 1545}
+  - name: Chick1_Body
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2665
+      width: 1130
+      height: 725
+    spriteID: 390876def7efe9d45b3dec2b5101a8e2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 2665}
+    spritePosition: {x: 1754, y: 972}
+  - name: Egg
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2543
+      y: 4
+      width: 889
+      height: 1155
+    spriteID: 8b74159db0e14d046847e8ecf33ed6ee
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2543, y: 4}
+    spritePosition: {x: 2157, y: 1153}
+  - name: Nest_Back
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1673
+      width: 2065
+      height: 984
+    spriteID: 4d5b64d3b5bbe6f40ac3bc42b61e4bbd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1673}
+    spritePosition: {x: 1647, y: 922}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  sharedRigSpriteImportData: []
+  sharedRigCharacterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  platformSettings: []
+  mosaicLayers: 1
+  characterMode: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  layerMappingOption: 2
+  generatePhysicsShape: 0
+  paperDollMode: 0
+  keepDupilcateSpriteName: 1
+  skeletonAssetReferenceID: 
+  pipeline: {instanceID: 0}
+  pipelineVersion: 
+  padding: 4
+  spriteSizeExpand: 0
+  spriteCategoryList:
+    categories: []
+  spritePackingTag: 
+  resliceFromLayer: 0
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: Nest_Front
+    spriteName: Nest_Front
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 0ee718958eaee0a408635d144cce3396
+    layerID: 83
+    mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Chick2
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: a3c37fc084488554cabb78df293ada8d
+    layerID: 77
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Chick2_HeadFeathers1
+    spriteName: Chick2_HeadFeathers1
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 8f97e4dee5855214f806616608944e0d
+    layerID: 85
+    mosaicPosition: {x: 1044, y: 3398}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Chick2_HeadFeathers2
+    spriteName: Chick2_HeadFeathers2
+    isGroup: 0
+    parentIndex: 1
+    spriteID: e7b845221e5ed6c4f951f239dd233326
+    layerID: 87
+    mosaicPosition: {x: 3922, y: 2437}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Chick2_Wing1
+    spriteName: Chick2_Wing1
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 2d6dcd05697c9f046a1ef20cdeb18688
+    layerID: 72
+    mosaicPosition: {x: 2543, y: 1167}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Chick2_Wing2
+    spriteName: Chick2_Wing2
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 43d5d5805a518f44a9fd12933172c5e4
+    layerID: 67
+    mosaicPosition: {x: 3028, y: 1167}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Chick2_Head
+    spriteName: Chick2_Head
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 985622a998189d747b488feab1446d30
+    layerID: 62
+    mosaicPosition: {x: 3232, y: 1673}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Chick2_Body
+    spriteName: Chick2_Body
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 95c50cc1a19585946b99e2c039e4a675
+    layerID: 56
+    mosaicPosition: {x: 2077, y: 1673}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Chick1
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 16a169754acfe5149822da0abfc53e55
+    layerID: 50
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Chick1_Eyebrow1
+    spriteName: Chick1_Eyebrow1
+    isGroup: 0
+    parentIndex: 8
+    spriteID: a604bbfe2eb7abe499e7143fb0fd115c
+    layerID: 49
+    mosaicPosition: {x: 689, y: 3568}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Chick1_Eyebrow2
+    spriteName: Chick1_Eyebrow2
+    isGroup: 0
+    parentIndex: 8
+    spriteID: a7f6d8f238751404a85c248c474c8f96
+    layerID: 91
+    mosaicPosition: {x: 2077, y: 2501}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Chick1_HeadFeather
+    spriteName: 
+    isGroup: 1
+    parentIndex: 8
+    spriteID: f5b802fd498e7fa4181e8b1c93c4d704
+    layerID: 48
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Chick1_HeadFeather1
+    spriteName: Chick1_HeadFeather1
+    isGroup: 0
+    parentIndex: 11
+    spriteID: 54c4d839606efce4eb487215731facf4
+    layerID: 93
+    mosaicPosition: {x: 578, y: 3568}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Chick1_HeadFeather2
+    spriteName: Chick1_HeadFeather2
+    isGroup: 0
+    parentIndex: 11
+    spriteID: 8474e6490c0258d4886f7f17bd21e533
+    layerID: 95
+    mosaicPosition: {x: 3288, y: 1519}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Chick1_HeadFeather3
+    spriteName: Chick1_HeadFeather3
+    isGroup: 0
+    parentIndex: 11
+    spriteID: f216b61bd0f548b4bb4c273082d73564
+    layerID: 97
+    mosaicPosition: {x: 1044, y: 3527}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Chick1_Head
+    spriteName: Chick1_Head
+    isGroup: 0
+    parentIndex: 8
+    spriteID: 480b393b7c962564999f2c3be252f9c4
+    layerID: 47
+    mosaicPosition: {x: 1142, y: 2665}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Chick1_Lid1
+    spriteName: Chick1_Lid1
+    isGroup: 0
+    parentIndex: 8
+    spriteID: 7fd990f4fad138b4fa587b19dc535f67
+    layerID: 39
+    mosaicPosition: {x: 578, y: 3398}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Chick1_Lid2
+    spriteName: Chick1_Lid2
+    isGroup: 0
+    parentIndex: 8
+    spriteID: ff08468e136fc2d4ca17a13784b702de
+    layerID: 34
+    mosaicPosition: {x: 3028, y: 1519}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Chick1_Lid3
+    spriteName: Chick1_Lid3
+    isGroup: 0
+    parentIndex: 8
+    spriteID: d15791a96900f89489aa67b42b6dca6b
+    layerID: 29
+    mosaicPosition: {x: 3438, y: 2437}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Chick1_Lid4
+    spriteName: Chick1_Lid4
+    isGroup: 0
+    parentIndex: 8
+    spriteID: 534f4717297988149aa6fb4cd555c43e
+    layerID: 24
+    mosaicPosition: {x: 3680, y: 2437}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Chick1_Pupil2
+    spriteName: Chick1_Pupil2
+    isGroup: 0
+    parentIndex: 8
+    spriteID: d7f4728f8c927934ba3fa7f6386b7da2
+    layerID: 89
+    mosaicPosition: {x: 838, y: 3398}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Chick1_Pupil1
+    spriteName: Chick1_Pupil1
+    isGroup: 0
+    parentIndex: 8
+    spriteID: c67b3e5d75be5324fae4ad05128510c8
+    layerID: 19
+    mosaicPosition: {x: 3232, y: 2437}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Chick1_EyeWhite
+    spriteName: Chick1_EyeWhite
+    isGroup: 0
+    parentIndex: 8
+    spriteID: d1f15ac94aaeea24d8f75c5fbb472b5f
+    layerID: 18
+    mosaicPosition: {x: 4, y: 3398}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Chick1_Body
+    spriteName: Chick1_Body
+    isGroup: 0
+    parentIndex: 8
+    spriteID: 390876def7efe9d45b3dec2b5101a8e2
+    layerID: 17
+    mosaicPosition: {x: 4, y: 2665}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Egg
+    spriteName: Egg
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 8b74159db0e14d046847e8ecf33ed6ee
+    layerID: 11
+    mosaicPosition: {x: 2543, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Nest_Back
+    spriteName: Nest_Back
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 4d5b64d3b5bbe6f40ac3bc42b61e4bbd
+    layerID: 6
+    mosaicPosition: {x: 4, y: 1673}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  sharedRigPSDLayers: []
+  pSDLayerImportSetting: []
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  spriteSizeExpandChanged: 0
+  generateGOHierarchy: 0
+  textureAssetName: 
+  prefabAssetName: 
+  spriteLibAssetName: 
+  skeletonAssetName: 
+  secondarySpriteTextures: []

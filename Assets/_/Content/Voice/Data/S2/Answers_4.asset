@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00239477b0149f748b8e81a511ec9340, type: 3}
+  m_Name: Answers_4
+  m_EditorClassIdentifier: 
+  questionText: Why were they looking under the bed?
+  ENGQuestionAudioClip: {fileID: 8300000, guid: 7ac6149b70ceb054fb70b8f2e0a7a97e,
+    type: 3}
+  SSWQuestionAudioClip: {fileID: 8300000, guid: 7b8974a2518faba49b2f821d5875c0f1,
+    type: 3}
+  ENGPromptQuestionAudioClip: {fileID: 8300000, guid: 15a06ce86499f3b498ef67e96d81e622,
+    type: 3}
+  SSWPromptQuestionAudioClip: {fileID: 8300000, guid: e19c40babfad15544b9831123f8ba5b1,
+    type: 3}
+  ENGAcknowledgeAnswerAudioClipP1: {fileID: 0}
+  ENGAcknowledgeAnswerAudioClipP2: {fileID: 0}
+  SSWAcknowledgeAnswerAudioClipP1: {fileID: 0}
+  SSWAcknowledgeAnswerAudioClipP2: {fileID: 0}
+  questions:
+  - Image: {fileID: 21300000, guid: 16bb5f5949a424243bb71247ca068f01, type: 3}
+    IsCorrectAnswer: 0
+  - Image: {fileID: 21300000, guid: 2583122f7e57c0f4b82f0ab61167a266, type: 3}
+    IsCorrectAnswer: 1
+  - Image: {fileID: 21300000, guid: b93fdc29ef8da6648b1705420fbb18bd, type: 3}
+    IsCorrectAnswer: 0

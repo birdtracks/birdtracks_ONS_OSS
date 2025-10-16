@@ -1,0 +1,411 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Tortoise_AvatarMask_TalkLoop
+  m_Mask: 00000000000000000100000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: grp_CTRL
+    m_Weight: 1
+  - m_Path: grp_CTRL/ctrl_Global
+    m_Weight: 1
+  - m_Path: GRP_geo
+    m_Weight: 1
+  - m_Path: GRP_geo/arms
+    m_Weight: 1
+  - m_Path: GRP_geo/body
+    m_Weight: 1
+  - m_Path: GRP_geo/eyes
+    m_Weight: 1
+  - m_Path: GRP_geo/glasses
+    m_Weight: 1
+  - m_Path: GRP_geo/legs
+    m_Weight: 1
+  - m_Path: grp_JNT
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_jntDrv
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_jntDrv/jntDrv_L_shoulderRetr
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_jntDrv/jntDrv_L_shoulderRetr/jntDrv_l_elbowRetr
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_jntDrv/jntDrv_L_shoulderRetr/jntDrv_l_elbowRetr/jntDrv_l_wristRetr
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_jntDrv/jntDrv_R_shoulderRetr
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_jntDrv/jntDrv_R_shoulderRetr/jntDrv_l_elbowRetr
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_jntDrv/jntDrv_R_shoulderRetr/jntDrv_l_elbowRetr/jntDrv_l_wristRetr
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_jntDrv/jntDrvr_L_elbowHolder
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_jntDrv/jntDrvr_L_elbowHolder/jntDrvr_L_elbowHolderEnd
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_jntDrv/jntDrvr_L_eyeBrowSwitch01
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_jntDrv/jntDrvr_L_eyeBrowSwitch02
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_jntDrv/jntDrvr_L_hip
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_jntDrv/jntDrvr_L_hip/jntDrvr_L_knee
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_jntDrv/jntDrvr_L_hip/jntDrvr_L_knee/jntDrvr_L_ankle
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_jntDrv/jntDrvr_L_innerBank
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_jntDrv/jntDrvr_L_innerBank/jntDrvr_L_outerBank
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_jntDrv/jntDrvr_L_innerBank/jntDrvr_L_outerBank/jntDrvr_L_heel
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_jntDrv/jntDrvr_L_innerBank/jntDrvr_L_outerBank/jntDrvr_L_heel/jntDrvr_L_revToe
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_jntDrv/jntDrvr_L_innerBank/jntDrvr_L_outerBank/jntDrvr_L_heel/jntDrvr_L_revToe/jntDrvr_L_revBall
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_jntDrv/jntDrvr_L_innerBank/jntDrvr_L_outerBank/jntDrvr_L_heel/jntDrvr_L_revToe/jntDrvr_L_revBall/jntDrvr_L_revAnkle
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_jntDrv/jntDrvr_L_lefRetHip
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_jntDrv/jntDrvr_L_lefRetHip/jntDrvr_L_legRetKnee
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_jntDrv/jntDrvr_L_lefRetHip/jntDrvr_L_legRetKnee/jntDrvr_L_legRetAnkle
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_jntDrv/jntDrvr_L_leg01
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_jntDrv/jntDrvr_L_leg01/jntDrvr_L_leg02
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_jntDrv/jntDrvr_L_shoulder
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_jntDrv/jntDrvr_L_shoulder/jntDrvr_L_elbow
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_jntDrv/jntDrvr_L_shoulder/jntDrvr_L_elbow/jntDrvr_L_wrist
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_jntDrv/jntDrvr_neckRetr01
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_jntDrv/jntDrvr_neckRetr01/jntDrvr_neckRetr02
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_jntDrv/jntDrvr_neckRetr01/jntDrvr_neckRetr02/jntDrvr_neckRetr03
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_jntDrv/jntDrvr_neckRetr01/jntDrvr_neckRetr02/jntDrvr_neckRetr03/jntDrvr_neckRetr04
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_jntDrv/jntDrvr_neckRetr01/jntDrvr_neckRetr02/jntDrvr_neckRetr03/jntDrvr_neckRetr04/jntDrvr_neckRetr05
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_jntDrv/jntDrvr_neckRetr01/jntDrvr_neckRetr02/jntDrvr_neckRetr03/jntDrvr_neckRetr04/jntDrvr_neckRetr05/jntDrvr_neckRetr06
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_jntDrv/jntDrvr_neckStraight01
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_jntDrv/jntDrvr_neckStraight01/jntDrvr_neckStraight02
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_jntDrv/jntDrvr_neckStraight01/jntDrvr_neckStraight02/jntDrvr_neckStraight03
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_jntDrv/jntDrvr_neckStraight01/jntDrvr_neckStraight02/jntDrvr_neckStraight03/jntDrvr_neckStraight04
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_jntDrv/jntDrvr_neckStraight01/jntDrvr_neckStraight02/jntDrvr_neckStraight03/jntDrvr_neckStraight04/jntDrvr_neckStraight05
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_jntDrv/jntDrvr_neckStraight01/jntDrvr_neckStraight02/jntDrvr_neckStraight03/jntDrvr_neckStraight04/jntDrvr_neckStraight05/jntDrvr_neckStraight06
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_jntDrv/jntDrvr_R_elbowHolder
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_jntDrv/jntDrvr_R_elbowHolder/jntDrvr_R_elbowHolderEnd
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_jntDrv/jntDrvr_R_eyeBrowSwitch01
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_jntDrv/jntDrvr_R_eyeBrowSwitch02
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_jntDrv/jntDrvr_R_hip
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_jntDrv/jntDrvr_R_hip/jntDrvr_R_knee
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_jntDrv/jntDrvr_R_hip/jntDrvr_R_knee/jntDrvr_R_ankle
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_jntDrv/jntDrvr_R_innerBank
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_jntDrv/jntDrvr_R_innerBank/jntDrvr_R_outerBank
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_jntDrv/jntDrvr_R_innerBank/jntDrvr_R_outerBank/jntDrvr_R_heel
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_jntDrv/jntDrvr_R_innerBank/jntDrvr_R_outerBank/jntDrvr_R_heel/jntDrvr_R_revToe
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_jntDrv/jntDrvr_R_innerBank/jntDrvr_R_outerBank/jntDrvr_R_heel/jntDrvr_R_revToe/jntDrvr_R_revBall
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_jntDrv/jntDrvr_R_innerBank/jntDrvr_R_outerBank/jntDrvr_R_heel/jntDrvr_R_revToe/jntDrvr_R_revBall/jntDrvr_R_revAnkle
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_jntDrv/jntDrvr_R_lefRetHip
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_jntDrv/jntDrvr_R_lefRetHip/jntDrvr_R_legRetKnee
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_jntDrv/jntDrvr_R_lefRetHip/jntDrvr_R_legRetKnee/jntDrvr_R_legRetAnkle
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_jntDrv/jntDrvr_R_leg01
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_jntDrv/jntDrvr_R_leg01/jntDrvr_R_leg02
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_jntDrv/jntDrvr_R_shoulder
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_jntDrv/jntDrvr_R_shoulder/jntDrvr_R_elbow
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_jntDrv/jntDrvr_R_shoulder/jntDrvr_R_elbow/jntDrvr_R_wrist
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_L_clavicle
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_L_clavicle/jnt_L_shellShoulder
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_L_clavicle/jnt_L_shellShoulder/jnt_L_shoulder
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_L_clavicle/jnt_L_shellShoulder/jnt_L_shoulder/jntDrvr_L_armSclComp01
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_L_clavicle/jnt_L_shellShoulder/jnt_L_shoulder/jntDrvr_L_armSclComp01/jnt_L_arm_01
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_L_clavicle/jnt_L_shellShoulder/jnt_L_shoulder/jntDrvr_L_armSclComp01/jnt_L_arm_01/jntDrvr_L_armSclComp02
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_L_clavicle/jnt_L_shellShoulder/jnt_L_shoulder/jntDrvr_L_armSclComp01/jnt_L_arm_01/jntDrvr_L_armSclComp02/jnt_L_arm_02
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_L_clavicle/jnt_L_shellShoulder/jnt_L_shoulder/jntDrvr_L_armSclComp01/jnt_L_arm_01/jntDrvr_L_armSclComp02/jnt_L_arm_02/jntDrvr_L_armSclComp03
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_L_clavicle/jnt_L_shellShoulder/jnt_L_shoulder/jntDrvr_L_armSclComp01/jnt_L_arm_01/jntDrvr_L_armSclComp02/jnt_L_arm_02/jntDrvr_L_armSclComp03/jnt_L_arm_03
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_L_clavicle/jnt_L_shellShoulder/jnt_L_shoulder/jntDrvr_L_armSclComp01/jnt_L_arm_01/jntDrvr_L_armSclComp02/jnt_L_arm_02/jntDrvr_L_armSclComp03/jnt_L_arm_03/jntDrvr_L_armSclComp04
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_L_clavicle/jnt_L_shellShoulder/jnt_L_shoulder/jntDrvr_L_armSclComp01/jnt_L_arm_01/jntDrvr_L_armSclComp02/jnt_L_arm_02/jntDrvr_L_armSclComp03/jnt_L_arm_03/jntDrvr_L_armSclComp04/jnt_L_arm_04
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_L_clavicle/jnt_L_shellShoulder/jnt_L_shoulder/jntDrvr_L_armSclComp01/jnt_L_arm_01/jntDrvr_L_armSclComp02/jnt_L_arm_02/jntDrvr_L_armSclComp03/jnt_L_arm_03/jntDrvr_L_armSclComp04/jnt_L_arm_04/jntDrvr_L_wristSclComp
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_L_clavicle/jnt_L_shellShoulder/jnt_L_shoulder/jntDrvr_L_armSclComp01/jnt_L_arm_01/jntDrvr_L_armSclComp02/jnt_L_arm_02/jntDrvr_L_armSclComp03/jnt_L_arm_03/jntDrvr_L_armSclComp04/jnt_L_arm_04/jntDrvr_L_wristSclComp/jnt_L_wrist
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_L_clavicle/jnt_L_shellShoulder/jnt_L_shoulder/jntDrvr_L_armSclComp01/jnt_L_arm_01/jntDrvr_L_armSclComp02/jnt_L_arm_02/jntDrvr_L_armSclComp03/jnt_L_arm_03/jntDrvr_L_armSclComp04/jnt_L_arm_04/jntDrvr_L_wristSclComp/jnt_L_wrist/jnt_L_hand
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_L_clavicle/jnt_L_shellShoulder/jnt_L_shoulder/jntDrvr_L_armSclComp01/jnt_L_arm_01/jntDrvr_L_armSclComp02/jnt_L_arm_02/jntDrvr_L_armSclComp03/jnt_L_arm_03/jntDrvr_L_armSclComp04/jnt_L_arm_04/jntDrvr_L_wristSclComp/jnt_L_wrist/jnt_L_hand/jnt_L_indexFinger01
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_L_clavicle/jnt_L_shellShoulder/jnt_L_shoulder/jntDrvr_L_armSclComp01/jnt_L_arm_01/jntDrvr_L_armSclComp02/jnt_L_arm_02/jntDrvr_L_armSclComp03/jnt_L_arm_03/jntDrvr_L_armSclComp04/jnt_L_arm_04/jntDrvr_L_wristSclComp/jnt_L_wrist/jnt_L_hand/jnt_L_indexFinger01/jnt_L_indexFinger02
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_L_clavicle/jnt_L_shellShoulder/jnt_L_shoulder/jntDrvr_L_armSclComp01/jnt_L_arm_01/jntDrvr_L_armSclComp02/jnt_L_arm_02/jntDrvr_L_armSclComp03/jnt_L_arm_03/jntDrvr_L_armSclComp04/jnt_L_arm_04/jntDrvr_L_wristSclComp/jnt_L_wrist/jnt_L_hand/jnt_L_indexFinger01/jnt_L_indexFinger02/jnt_L_indexFinger03
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_L_clavicle/jnt_L_shellShoulder/jnt_L_shoulder/jntDrvr_L_armSclComp01/jnt_L_arm_01/jntDrvr_L_armSclComp02/jnt_L_arm_02/jntDrvr_L_armSclComp03/jnt_L_arm_03/jntDrvr_L_armSclComp04/jnt_L_arm_04/jntDrvr_L_wristSclComp/jnt_L_wrist/jnt_L_hand/jnt_L_middleFinger01
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_L_clavicle/jnt_L_shellShoulder/jnt_L_shoulder/jntDrvr_L_armSclComp01/jnt_L_arm_01/jntDrvr_L_armSclComp02/jnt_L_arm_02/jntDrvr_L_armSclComp03/jnt_L_arm_03/jntDrvr_L_armSclComp04/jnt_L_arm_04/jntDrvr_L_wristSclComp/jnt_L_wrist/jnt_L_hand/jnt_L_middleFinger01/jnt_L_middleFinger02
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_L_clavicle/jnt_L_shellShoulder/jnt_L_shoulder/jntDrvr_L_armSclComp01/jnt_L_arm_01/jntDrvr_L_armSclComp02/jnt_L_arm_02/jntDrvr_L_armSclComp03/jnt_L_arm_03/jntDrvr_L_armSclComp04/jnt_L_arm_04/jntDrvr_L_wristSclComp/jnt_L_wrist/jnt_L_hand/jnt_L_middleFinger01/jnt_L_middleFinger02/jnt_L_middleFinger03
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_L_clavicle/jnt_L_shellShoulder/jnt_L_shoulder/jntDrvr_L_armSclComp01/jnt_L_arm_01/jntDrvr_L_armSclComp02/jnt_L_arm_02/jntDrvr_L_armSclComp03/jnt_L_arm_03/jntDrvr_L_armSclComp04/jnt_L_arm_04/jntDrvr_L_wristSclComp/jnt_L_wrist/jnt_L_hand/jnt_L_pinkie_metacarpal
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_L_clavicle/jnt_L_shellShoulder/jnt_L_shoulder/jntDrvr_L_armSclComp01/jnt_L_arm_01/jntDrvr_L_armSclComp02/jnt_L_arm_02/jntDrvr_L_armSclComp03/jnt_L_arm_03/jntDrvr_L_armSclComp04/jnt_L_arm_04/jntDrvr_L_wristSclComp/jnt_L_wrist/jnt_L_hand/jnt_L_pinkie_metacarpal/jnt_L_pinkie01
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_L_clavicle/jnt_L_shellShoulder/jnt_L_shoulder/jntDrvr_L_armSclComp01/jnt_L_arm_01/jntDrvr_L_armSclComp02/jnt_L_arm_02/jntDrvr_L_armSclComp03/jnt_L_arm_03/jntDrvr_L_armSclComp04/jnt_L_arm_04/jntDrvr_L_wristSclComp/jnt_L_wrist/jnt_L_hand/jnt_L_pinkie_metacarpal/jnt_L_pinkie01/jnt_L_pinkie02
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_L_clavicle/jnt_L_shellShoulder/jnt_L_shoulder/jntDrvr_L_armSclComp01/jnt_L_arm_01/jntDrvr_L_armSclComp02/jnt_L_arm_02/jntDrvr_L_armSclComp03/jnt_L_arm_03/jntDrvr_L_armSclComp04/jnt_L_arm_04/jntDrvr_L_wristSclComp/jnt_L_wrist/jnt_L_hand/jnt_L_pinkie_metacarpal/jnt_L_pinkie01/jnt_L_pinkie02/jnt_L_pinkie03
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_L_clavicle/jnt_L_shellShoulder/jnt_L_shoulder/jntDrvr_L_armSclComp01/jnt_L_arm_01/jntDrvr_L_armSclComp02/jnt_L_arm_02/jntDrvr_L_armSclComp03/jnt_L_arm_03/jntDrvr_L_armSclComp04/jnt_L_arm_04/jntDrvr_L_wristSclComp/jnt_L_wrist/jnt_L_hand/jnt_L_ringFinger01
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_L_clavicle/jnt_L_shellShoulder/jnt_L_shoulder/jntDrvr_L_armSclComp01/jnt_L_arm_01/jntDrvr_L_armSclComp02/jnt_L_arm_02/jntDrvr_L_armSclComp03/jnt_L_arm_03/jntDrvr_L_armSclComp04/jnt_L_arm_04/jntDrvr_L_wristSclComp/jnt_L_wrist/jnt_L_hand/jnt_L_ringFinger01/jnt_L_ringFinger02
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_L_clavicle/jnt_L_shellShoulder/jnt_L_shoulder/jntDrvr_L_armSclComp01/jnt_L_arm_01/jntDrvr_L_armSclComp02/jnt_L_arm_02/jntDrvr_L_armSclComp03/jnt_L_arm_03/jntDrvr_L_armSclComp04/jnt_L_arm_04/jntDrvr_L_wristSclComp/jnt_L_wrist/jnt_L_hand/jnt_L_ringFinger01/jnt_L_ringFinger02/jnt_L_ringFinger03
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_L_clavicle/jnt_L_shellShoulder/jnt_L_shoulder/jntDrvr_L_armSclComp01/jnt_L_arm_01/jntDrvr_L_armSclComp02/jnt_L_arm_02/jntDrvr_L_armSclComp03/jnt_L_arm_03/jntDrvr_L_armSclComp04/jnt_L_arm_04/jntDrvr_L_wristSclComp/jnt_L_wrist/jnt_L_hand/jnt_L_thumb01
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_L_clavicle/jnt_L_shellShoulder/jnt_L_shoulder/jntDrvr_L_armSclComp01/jnt_L_arm_01/jntDrvr_L_armSclComp02/jnt_L_arm_02/jntDrvr_L_armSclComp03/jnt_L_arm_03/jntDrvr_L_armSclComp04/jnt_L_arm_04/jntDrvr_L_wristSclComp/jnt_L_wrist/jnt_L_hand/jnt_L_thumb01/jnt_L_thumb02
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_L_clavicle/jnt_L_shellShoulder/jnt_L_shoulder/jntDrvr_L_armSclComp01/jnt_L_arm_01/jntDrvr_L_armSclComp02/jnt_L_arm_02/jntDrvr_L_armSclComp03/jnt_L_arm_03/jntDrvr_L_armSclComp04/jnt_L_arm_04/jntDrvr_L_wristSclComp/jnt_L_wrist/jnt_L_hand/jnt_L_thumb01/jnt_L_thumb02/jnt_L_thumb03
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_R_clavicle
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_R_clavicle/jnt_R_shellShoulder
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_R_clavicle/jnt_R_shellShoulder/jnt_R_shoulder
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_R_clavicle/jnt_R_shellShoulder/jnt_R_shoulder/jntDrvr_R_armSclComp01
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_R_clavicle/jnt_R_shellShoulder/jnt_R_shoulder/jntDrvr_R_armSclComp01/jnt_R_arm_01
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_R_clavicle/jnt_R_shellShoulder/jnt_R_shoulder/jntDrvr_R_armSclComp01/jnt_R_arm_01/jntDrvr_R_armSclComp02
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_R_clavicle/jnt_R_shellShoulder/jnt_R_shoulder/jntDrvr_R_armSclComp01/jnt_R_arm_01/jntDrvr_R_armSclComp02/jnt_R_arm_02
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_R_clavicle/jnt_R_shellShoulder/jnt_R_shoulder/jntDrvr_R_armSclComp01/jnt_R_arm_01/jntDrvr_R_armSclComp02/jnt_R_arm_02/jntDrvr_R_armSclComp03
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_R_clavicle/jnt_R_shellShoulder/jnt_R_shoulder/jntDrvr_R_armSclComp01/jnt_R_arm_01/jntDrvr_R_armSclComp02/jnt_R_arm_02/jntDrvr_R_armSclComp03/jnt_R_arm_03
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_R_clavicle/jnt_R_shellShoulder/jnt_R_shoulder/jntDrvr_R_armSclComp01/jnt_R_arm_01/jntDrvr_R_armSclComp02/jnt_R_arm_02/jntDrvr_R_armSclComp03/jnt_R_arm_03/jntDrvr_R_armSclComp04
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_R_clavicle/jnt_R_shellShoulder/jnt_R_shoulder/jntDrvr_R_armSclComp01/jnt_R_arm_01/jntDrvr_R_armSclComp02/jnt_R_arm_02/jntDrvr_R_armSclComp03/jnt_R_arm_03/jntDrvr_R_armSclComp04/jnt_R_arm_04
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_R_clavicle/jnt_R_shellShoulder/jnt_R_shoulder/jntDrvr_R_armSclComp01/jnt_R_arm_01/jntDrvr_R_armSclComp02/jnt_R_arm_02/jntDrvr_R_armSclComp03/jnt_R_arm_03/jntDrvr_R_armSclComp04/jnt_R_arm_04/jntDrvr_R_wristSclComp
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_R_clavicle/jnt_R_shellShoulder/jnt_R_shoulder/jntDrvr_R_armSclComp01/jnt_R_arm_01/jntDrvr_R_armSclComp02/jnt_R_arm_02/jntDrvr_R_armSclComp03/jnt_R_arm_03/jntDrvr_R_armSclComp04/jnt_R_arm_04/jntDrvr_R_wristSclComp/jnt_R_wrist
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_R_clavicle/jnt_R_shellShoulder/jnt_R_shoulder/jntDrvr_R_armSclComp01/jnt_R_arm_01/jntDrvr_R_armSclComp02/jnt_R_arm_02/jntDrvr_R_armSclComp03/jnt_R_arm_03/jntDrvr_R_armSclComp04/jnt_R_arm_04/jntDrvr_R_wristSclComp/jnt_R_wrist/jnt_R_hand
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_R_clavicle/jnt_R_shellShoulder/jnt_R_shoulder/jntDrvr_R_armSclComp01/jnt_R_arm_01/jntDrvr_R_armSclComp02/jnt_R_arm_02/jntDrvr_R_armSclComp03/jnt_R_arm_03/jntDrvr_R_armSclComp04/jnt_R_arm_04/jntDrvr_R_wristSclComp/jnt_R_wrist/jnt_R_hand/jnt_R_indexFinger01
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_R_clavicle/jnt_R_shellShoulder/jnt_R_shoulder/jntDrvr_R_armSclComp01/jnt_R_arm_01/jntDrvr_R_armSclComp02/jnt_R_arm_02/jntDrvr_R_armSclComp03/jnt_R_arm_03/jntDrvr_R_armSclComp04/jnt_R_arm_04/jntDrvr_R_wristSclComp/jnt_R_wrist/jnt_R_hand/jnt_R_indexFinger01/jnt_R_indexFinger02
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_R_clavicle/jnt_R_shellShoulder/jnt_R_shoulder/jntDrvr_R_armSclComp01/jnt_R_arm_01/jntDrvr_R_armSclComp02/jnt_R_arm_02/jntDrvr_R_armSclComp03/jnt_R_arm_03/jntDrvr_R_armSclComp04/jnt_R_arm_04/jntDrvr_R_wristSclComp/jnt_R_wrist/jnt_R_hand/jnt_R_indexFinger01/jnt_R_indexFinger02/jnt_R_indexFinger03
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_R_clavicle/jnt_R_shellShoulder/jnt_R_shoulder/jntDrvr_R_armSclComp01/jnt_R_arm_01/jntDrvr_R_armSclComp02/jnt_R_arm_02/jntDrvr_R_armSclComp03/jnt_R_arm_03/jntDrvr_R_armSclComp04/jnt_R_arm_04/jntDrvr_R_wristSclComp/jnt_R_wrist/jnt_R_hand/jnt_R_middleFinger01
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_R_clavicle/jnt_R_shellShoulder/jnt_R_shoulder/jntDrvr_R_armSclComp01/jnt_R_arm_01/jntDrvr_R_armSclComp02/jnt_R_arm_02/jntDrvr_R_armSclComp03/jnt_R_arm_03/jntDrvr_R_armSclComp04/jnt_R_arm_04/jntDrvr_R_wristSclComp/jnt_R_wrist/jnt_R_hand/jnt_R_middleFinger01/jnt_R_middleFinger02
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_R_clavicle/jnt_R_shellShoulder/jnt_R_shoulder/jntDrvr_R_armSclComp01/jnt_R_arm_01/jntDrvr_R_armSclComp02/jnt_R_arm_02/jntDrvr_R_armSclComp03/jnt_R_arm_03/jntDrvr_R_armSclComp04/jnt_R_arm_04/jntDrvr_R_wristSclComp/jnt_R_wrist/jnt_R_hand/jnt_R_middleFinger01/jnt_R_middleFinger02/jnt_R_middleFinger03
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_R_clavicle/jnt_R_shellShoulder/jnt_R_shoulder/jntDrvr_R_armSclComp01/jnt_R_arm_01/jntDrvr_R_armSclComp02/jnt_R_arm_02/jntDrvr_R_armSclComp03/jnt_R_arm_03/jntDrvr_R_armSclComp04/jnt_R_arm_04/jntDrvr_R_wristSclComp/jnt_R_wrist/jnt_R_hand/jnt_R_pinkie_metacarpal
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_R_clavicle/jnt_R_shellShoulder/jnt_R_shoulder/jntDrvr_R_armSclComp01/jnt_R_arm_01/jntDrvr_R_armSclComp02/jnt_R_arm_02/jntDrvr_R_armSclComp03/jnt_R_arm_03/jntDrvr_R_armSclComp04/jnt_R_arm_04/jntDrvr_R_wristSclComp/jnt_R_wrist/jnt_R_hand/jnt_R_pinkie_metacarpal/jnt_R_pinkie01
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_R_clavicle/jnt_R_shellShoulder/jnt_R_shoulder/jntDrvr_R_armSclComp01/jnt_R_arm_01/jntDrvr_R_armSclComp02/jnt_R_arm_02/jntDrvr_R_armSclComp03/jnt_R_arm_03/jntDrvr_R_armSclComp04/jnt_R_arm_04/jntDrvr_R_wristSclComp/jnt_R_wrist/jnt_R_hand/jnt_R_pinkie_metacarpal/jnt_R_pinkie01/jnt_R_pinkie02
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_R_clavicle/jnt_R_shellShoulder/jnt_R_shoulder/jntDrvr_R_armSclComp01/jnt_R_arm_01/jntDrvr_R_armSclComp02/jnt_R_arm_02/jntDrvr_R_armSclComp03/jnt_R_arm_03/jntDrvr_R_armSclComp04/jnt_R_arm_04/jntDrvr_R_wristSclComp/jnt_R_wrist/jnt_R_hand/jnt_R_pinkie_metacarpal/jnt_R_pinkie01/jnt_R_pinkie02/jnt_R_pinkie03
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_R_clavicle/jnt_R_shellShoulder/jnt_R_shoulder/jntDrvr_R_armSclComp01/jnt_R_arm_01/jntDrvr_R_armSclComp02/jnt_R_arm_02/jntDrvr_R_armSclComp03/jnt_R_arm_03/jntDrvr_R_armSclComp04/jnt_R_arm_04/jntDrvr_R_wristSclComp/jnt_R_wrist/jnt_R_hand/jnt_R_ringFinger01
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_R_clavicle/jnt_R_shellShoulder/jnt_R_shoulder/jntDrvr_R_armSclComp01/jnt_R_arm_01/jntDrvr_R_armSclComp02/jnt_R_arm_02/jntDrvr_R_armSclComp03/jnt_R_arm_03/jntDrvr_R_armSclComp04/jnt_R_arm_04/jntDrvr_R_wristSclComp/jnt_R_wrist/jnt_R_hand/jnt_R_ringFinger01/jnt_R_ringFinger02
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_R_clavicle/jnt_R_shellShoulder/jnt_R_shoulder/jntDrvr_R_armSclComp01/jnt_R_arm_01/jntDrvr_R_armSclComp02/jnt_R_arm_02/jntDrvr_R_armSclComp03/jnt_R_arm_03/jntDrvr_R_armSclComp04/jnt_R_arm_04/jntDrvr_R_wristSclComp/jnt_R_wrist/jnt_R_hand/jnt_R_ringFinger01/jnt_R_ringFinger02/jnt_R_ringFinger03
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_R_clavicle/jnt_R_shellShoulder/jnt_R_shoulder/jntDrvr_R_armSclComp01/jnt_R_arm_01/jntDrvr_R_armSclComp02/jnt_R_arm_02/jntDrvr_R_armSclComp03/jnt_R_arm_03/jntDrvr_R_armSclComp04/jnt_R_arm_04/jntDrvr_R_wristSclComp/jnt_R_wrist/jnt_R_hand/jnt_R_thumb01
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_R_clavicle/jnt_R_shellShoulder/jnt_R_shoulder/jntDrvr_R_armSclComp01/jnt_R_arm_01/jntDrvr_R_armSclComp02/jnt_R_arm_02/jntDrvr_R_armSclComp03/jnt_R_arm_03/jntDrvr_R_armSclComp04/jnt_R_arm_04/jntDrvr_R_wristSclComp/jnt_R_wrist/jnt_R_hand/jnt_R_thumb01/jnt_R_thumb02
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_R_clavicle/jnt_R_shellShoulder/jnt_R_shoulder/jntDrvr_R_armSclComp01/jnt_R_arm_01/jntDrvr_R_armSclComp02/jnt_R_arm_02/jntDrvr_R_armSclComp03/jnt_R_arm_03/jntDrvr_R_armSclComp04/jnt_R_arm_04/jntDrvr_R_wristSclComp/jnt_R_wrist/jnt_R_hand/jnt_R_thumb01/jnt_R_thumb02/jnt_R_thumb03
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_shellNeck
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_shellNeck/jnt_neck01
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_shellNeck/jnt_neck01/jntDrvr_neckSclComp02
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_shellNeck/jnt_neck01/jntDrvr_neckSclComp02/jnt_neck02
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_shellNeck/jnt_neck01/jntDrvr_neckSclComp02/jnt_neck02/jntDrvr_neckSclComp03
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_shellNeck/jnt_neck01/jntDrvr_neckSclComp02/jnt_neck02/jntDrvr_neckSclComp03/jnt_neck03
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_shellNeck/jnt_neck01/jntDrvr_neckSclComp02/jnt_neck02/jntDrvr_neckSclComp03/jnt_neck03/jntDrvr_neckSclComp04
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_shellNeck/jnt_neck01/jntDrvr_neckSclComp02/jnt_neck02/jntDrvr_neckSclComp03/jnt_neck03/jntDrvr_neckSclComp04/jnt_neck04
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_shellNeck/jnt_neck01/jntDrvr_neckSclComp02/jnt_neck02/jntDrvr_neckSclComp03/jnt_neck03/jntDrvr_neckSclComp04/jnt_neck04/jntDrvr_neckSclComp05
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_shellNeck/jnt_neck01/jntDrvr_neckSclComp02/jnt_neck02/jntDrvr_neckSclComp03/jnt_neck03/jntDrvr_neckSclComp04/jnt_neck04/jntDrvr_neckSclComp05/jnt_neck05
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_shellNeck/jnt_neck01/jntDrvr_neckSclComp02/jnt_neck02/jntDrvr_neckSclComp03/jnt_neck03/jntDrvr_neckSclComp04/jnt_neck04/jntDrvr_neckSclComp05/jnt_neck05/jntDrvr_neckSclComp06
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_shellNeck/jnt_neck01/jntDrvr_neckSclComp02/jnt_neck02/jntDrvr_neckSclComp03/jnt_neck03/jntDrvr_neckSclComp04/jnt_neck04/jntDrvr_neckSclComp05/jnt_neck05/jntDrvr_neckSclComp06/jnt_headBase
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_shellNeck/jnt_neck01/jntDrvr_neckSclComp02/jnt_neck02/jntDrvr_neckSclComp03/jnt_neck03/jntDrvr_neckSclComp04/jnt_neck04/jntDrvr_neckSclComp05/jnt_neck05/jntDrvr_neckSclComp06/jnt_headBase/jnt_Glasses
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_shellNeck/jnt_neck01/jntDrvr_neckSclComp02/jnt_neck02/jntDrvr_neckSclComp03/jnt_neck03/jntDrvr_neckSclComp04/jnt_neck04/jntDrvr_neckSclComp05/jnt_neck05/jntDrvr_neckSclComp06/jnt_headBase/jnt_headEnd
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_shellNeck/jnt_neck01/jntDrvr_neckSclComp02/jnt_neck02/jntDrvr_neckSclComp03/jnt_neck03/jntDrvr_neckSclComp04/jnt_neck04/jntDrvr_neckSclComp05/jnt_neck05/jntDrvr_neckSclComp06/jnt_headBase/jnt_headEnd/jnt_R_eyebrowholder
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_shellNeck/jnt_neck01/jntDrvr_neckSclComp02/jnt_neck02/jntDrvr_neckSclComp03/jnt_neck03/jntDrvr_neckSclComp04/jnt_neck04/jntDrvr_neckSclComp05/jnt_neck05/jntDrvr_neckSclComp06/jnt_headBase/jnt_headEnd/jnt_R_eyebrowholder/jnt_R_eyebrow
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_shellNeck/jnt_neck01/jntDrvr_neckSclComp02/jnt_neck02/jntDrvr_neckSclComp03/jnt_neck03/jntDrvr_neckSclComp04/jnt_neck04/jntDrvr_neckSclComp05/jnt_neck05/jntDrvr_neckSclComp06/jnt_headBase/jnt_jaw
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_shellNeck/jnt_neck01/jntDrvr_neckSclComp02/jnt_neck02/jntDrvr_neckSclComp03/jnt_neck03/jntDrvr_neckSclComp04/jnt_neck04/jntDrvr_neckSclComp05/jnt_neck05/jntDrvr_neckSclComp06/jnt_headBase/jnt_jaw/jnt_jawEnd
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_shellNeck/jnt_neck01/jntDrvr_neckSclComp02/jnt_neck02/jntDrvr_neckSclComp03/jnt_neck03/jntDrvr_neckSclComp04/jnt_neck04/jntDrvr_neckSclComp05/jnt_neck05/jntDrvr_neckSclComp06/jnt_headBase/jnt_jaw/jnt_tongue01
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_shellNeck/jnt_neck01/jntDrvr_neckSclComp02/jnt_neck02/jntDrvr_neckSclComp03/jnt_neck03/jntDrvr_neckSclComp04/jnt_neck04/jntDrvr_neckSclComp05/jnt_neck05/jntDrvr_neckSclComp06/jnt_headBase/jnt_jaw/jnt_tongue01/jnt_tongue02
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_shellNeck/jnt_neck01/jntDrvr_neckSclComp02/jnt_neck02/jntDrvr_neckSclComp03/jnt_neck03/jntDrvr_neckSclComp04/jnt_neck04/jntDrvr_neckSclComp05/jnt_neck05/jntDrvr_neckSclComp06/jnt_headBase/jnt_jaw/jnt_tongue01/jnt_tongue02/jnt_tongue03
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_shellNeck/jnt_neck01/jntDrvr_neckSclComp02/jnt_neck02/jntDrvr_neckSclComp03/jnt_neck03/jntDrvr_neckSclComp04/jnt_neck04/jntDrvr_neckSclComp05/jnt_neck05/jntDrvr_neckSclComp06/jnt_headBase/jnt_jaw/jnt_tongue01/jnt_tongue02/jnt_tongue03/jnt_tongueEnd
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_shellNeck/jnt_neck01/jntDrvr_neckSclComp02/jnt_neck02/jntDrvr_neckSclComp03/jnt_neck03/jntDrvr_neckSclComp04/jnt_neck04/jntDrvr_neckSclComp05/jnt_neck05/jntDrvr_neckSclComp06/jnt_headBase/jnt_L_eyebrowBase
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_shellNeck/jnt_neck01/jntDrvr_neckSclComp02/jnt_neck02/jntDrvr_neckSclComp03/jnt_neck03/jntDrvr_neckSclComp04/jnt_neck04/jntDrvr_neckSclComp05/jnt_neck05/jntDrvr_neckSclComp06/jnt_headBase/jnt_L_eyebrowBase/jnt_L_eyebrowholder
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_shellNeck/jnt_neck01/jntDrvr_neckSclComp02/jnt_neck02/jntDrvr_neckSclComp03/jnt_neck03/jntDrvr_neckSclComp04/jnt_neck04/jntDrvr_neckSclComp05/jnt_neck05/jntDrvr_neckSclComp06/jnt_headBase/jnt_L_eyebrowBase/jnt_L_eyebrowholder/jnt_L_eyebrow
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_shellNeck/jnt_neck01/jntDrvr_neckSclComp02/jnt_neck02/jntDrvr_neckSclComp03/jnt_neck03/jntDrvr_neckSclComp04/jnt_neck04/jntDrvr_neckSclComp05/jnt_neck05/jntDrvr_neckSclComp06/jnt_headBase/jnt_L_eyeScale
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_shellNeck/jnt_neck01/jntDrvr_neckSclComp02/jnt_neck02/jntDrvr_neckSclComp03/jnt_neck03/jntDrvr_neckSclComp04/jnt_neck04/jntDrvr_neckSclComp05/jnt_neck05/jntDrvr_neckSclComp06/jnt_headBase/jnt_L_eyeScale/jnt_L_eye
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_shellNeck/jnt_neck01/jntDrvr_neckSclComp02/jnt_neck02/jntDrvr_neckSclComp03/jnt_neck03/jntDrvr_neckSclComp04/jnt_neck04/jntDrvr_neckSclComp05/jnt_neck05/jntDrvr_neckSclComp06/jnt_headBase/jnt_L_eyeScale/jnt_L_eyelids
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_shellNeck/jnt_neck01/jntDrvr_neckSclComp02/jnt_neck02/jntDrvr_neckSclComp03/jnt_neck03/jntDrvr_neckSclComp04/jnt_neck04/jntDrvr_neckSclComp05/jnt_neck05/jntDrvr_neckSclComp06/jnt_headBase/jnt_L_eyeScale/jnt_L_eyelids/jnt_L_lowerEyelids
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_shellNeck/jnt_neck01/jntDrvr_neckSclComp02/jnt_neck02/jntDrvr_neckSclComp03/jnt_neck03/jntDrvr_neckSclComp04/jnt_neck04/jntDrvr_neckSclComp05/jnt_neck05/jntDrvr_neckSclComp06/jnt_headBase/jnt_L_eyeScale/jnt_L_eyelids/jnt_L_upperEyelids
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_shellNeck/jnt_neck01/jntDrvr_neckSclComp02/jnt_neck02/jntDrvr_neckSclComp03/jnt_neck03/jntDrvr_neckSclComp04/jnt_neck04/jntDrvr_neckSclComp05/jnt_neck05/jntDrvr_neckSclComp06/jnt_headBase/jnt_R_eyeScale
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_shellNeck/jnt_neck01/jntDrvr_neckSclComp02/jnt_neck02/jntDrvr_neckSclComp03/jnt_neck03/jntDrvr_neckSclComp04/jnt_neck04/jntDrvr_neckSclComp05/jnt_neck05/jntDrvr_neckSclComp06/jnt_headBase/jnt_R_eyeScale/jnt_R_eye
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_shellNeck/jnt_neck01/jntDrvr_neckSclComp02/jnt_neck02/jntDrvr_neckSclComp03/jnt_neck03/jntDrvr_neckSclComp04/jnt_neck04/jntDrvr_neckSclComp05/jnt_neck05/jntDrvr_neckSclComp06/jnt_headBase/jnt_R_eyeScale/jnt_R_eyelids
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_shellNeck/jnt_neck01/jntDrvr_neckSclComp02/jnt_neck02/jntDrvr_neckSclComp03/jnt_neck03/jntDrvr_neckSclComp04/jnt_neck04/jntDrvr_neckSclComp05/jnt_neck05/jntDrvr_neckSclComp06/jnt_headBase/jnt_R_eyeScale/jnt_R_eyelids/jnt_R_lowerEyelids
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_hip/jntDrvr_spineSclComp01/jnt_spine01/jntDrvr_spineSclComp02/jnt_spine02/jntDrvr_spineSclComp03/jnt_spine03/jnt_shellNeck/jnt_neck01/jntDrvr_neckSclComp02/jnt_neck02/jntDrvr_neckSclComp03/jnt_neck03/jntDrvr_neckSclComp04/jnt_neck04/jntDrvr_neckSclComp05/jnt_neck05/jntDrvr_neckSclComp06/jnt_headBase/jnt_R_eyeScale/jnt_R_eyelids/jnt_R_upperEyelids
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_L_shellLeg
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_L_shellLeg/jnt_L_leg01
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_L_shellLeg/jnt_L_leg01/jntDrvr_L_legSclComp01
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_L_shellLeg/jnt_L_leg01/jntDrvr_L_legSclComp01/jnt_L_leg02
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_L_shellLeg/jnt_L_leg01/jntDrvr_L_legSclComp01/jnt_L_leg02/jntDrvr_L_legSclComp02
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_L_shellLeg/jnt_L_leg01/jntDrvr_L_legSclComp01/jnt_L_leg02/jntDrvr_L_legSclComp02/jnt_L_leg03
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_L_shellLeg/jnt_L_leg01/jntDrvr_L_legSclComp01/jnt_L_leg02/jntDrvr_L_legSclComp02/jnt_L_leg03/jntDrvr_L_legSclComp03
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_L_shellLeg/jnt_L_leg01/jntDrvr_L_legSclComp01/jnt_L_leg02/jntDrvr_L_legSclComp02/jnt_L_leg03/jntDrvr_L_legSclComp03/jnt_L_ankle
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_L_shellLeg/jnt_L_leg01/jntDrvr_L_legSclComp01/jnt_L_leg02/jntDrvr_L_legSclComp02/jnt_L_leg03/jntDrvr_L_legSclComp03/jnt_L_ankle/jnt_L_ball
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_L_shellLeg/jnt_L_leg01/jntDrvr_L_legSclComp01/jnt_L_leg02/jntDrvr_L_legSclComp02/jnt_L_leg03/jntDrvr_L_legSclComp03/jnt_L_ankle/jnt_L_ball/jnt_L_toe
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_pelvis01
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_pelvis01/jntDrvr_pelvisSclComp01
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_pelvis01/jntDrvr_pelvisSclComp01/jnt_pelvis02
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_pelvis01/jntDrvr_pelvisSclComp01/jnt_pelvis02/jntDrvr_pelvisSclComp02
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_pelvis01/jntDrvr_pelvisSclComp01/jnt_pelvis02/jntDrvr_pelvisSclComp02/jnt_tail01
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_pelvis01/jntDrvr_pelvisSclComp01/jnt_pelvis02/jntDrvr_pelvisSclComp02/jnt_tail01/jnt_tail02
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_R_shellLeg
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_R_shellLeg/jnt_R_leg01
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_R_shellLeg/jnt_R_leg01/jntDrvr_R_legSclComp01
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_R_shellLeg/jnt_R_leg01/jntDrvr_R_legSclComp01/jnt_R_leg02
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_R_shellLeg/jnt_R_leg01/jntDrvr_R_legSclComp01/jnt_R_leg02/jntDrvr_R_legSclComp02
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_R_shellLeg/jnt_R_leg01/jntDrvr_R_legSclComp01/jnt_R_leg02/jntDrvr_R_legSclComp02/jnt_R_leg03
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_R_shellLeg/jnt_R_leg01/jntDrvr_R_legSclComp01/jnt_R_leg02/jntDrvr_R_legSclComp02/jnt_R_leg03/jntDrvr_R_legSclComp03
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_R_shellLeg/jnt_R_leg01/jntDrvr_R_legSclComp01/jnt_R_leg02/jntDrvr_R_legSclComp02/jnt_R_leg03/jntDrvr_R_legSclComp03/jnt_R_ankle
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_R_shellLeg/jnt_R_leg01/jntDrvr_R_legSclComp01/jnt_R_leg02/jntDrvr_R_legSclComp02/jnt_R_leg03/jntDrvr_R_legSclComp03/jnt_R_ankle/jnt_R_ball
+    m_Weight: 1
+  - m_Path: grp_JNT/jntDrvr_hipRoot/jnt_R_shellLeg/jnt_R_leg01/jntDrvr_R_legSclComp01/jnt_R_leg02/jntDrvr_R_legSclComp02/jnt_R_leg03/jntDrvr_R_legSclComp03/jnt_R_ankle/jnt_R_ball/jnt_R_toe
+    m_Weight: 1

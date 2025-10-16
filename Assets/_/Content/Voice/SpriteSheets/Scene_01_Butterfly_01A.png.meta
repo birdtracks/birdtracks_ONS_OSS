@@ -1,0 +1,3858 @@
+fileFormatVersion: 2
+guid: 7960bfa719d18c043b15ac81ab3a01d7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5472.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff108985fe00a9b49b2e3e59aa698e60
+      internalID: -289160069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_1
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 5472.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e6f4b77dcbb874ab48799d737c79ee
+      internalID: 206235845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_2
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 5472.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac265b759d2f98946a96aa04c60d64f7
+      internalID: 799938121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_3
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 5472.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7a76ff9ee115f4295f07a2abe5c6c6
+      internalID: -338347579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_4
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 5472.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a7296e5486df140a5035b83c7333cc
+      internalID: 551962952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_5
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 5472.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924db51c271870d43922682958db61a5
+      internalID: -1016397043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_6
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 5472.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daceab2f84ba49a4ca8e2470b4be1a62
+      internalID: -72009626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_7
+      rect:
+        serializedVersion: 2
+        x: 3192
+        y: 5472.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4632c40dcb95a409c3a8415c967eab
+      internalID: 59790353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_8
+      rect:
+        serializedVersion: 2
+        x: 3648
+        y: 5472.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42eac7f482cdc8448b018fae421a69b
+      internalID: -1694616136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_9
+      rect:
+        serializedVersion: 2
+        x: 4104
+        y: 5472.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5117f4a346e7843b7dd96aa290d20f
+      internalID: -1122378084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_10
+      rect:
+        serializedVersion: 2
+        x: 4560
+        y: 5472.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979f23be0cee6604997295ab69c50876
+      internalID: -1000170674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_11
+      rect:
+        serializedVersion: 2
+        x: 5016
+        y: 5472.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af676ba52c510c45b468ddbd5691e17
+      internalID: -1933431926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_12
+      rect:
+        serializedVersion: 2
+        x: 5472
+        y: 5472.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83a464fbb6ad284f83da03c07a9ce89
+      internalID: 716577759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5016.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a812515dfba583438d9f71b28b7b364
+      internalID: 2020219164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_14
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 5016.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05691a84b4fcb82458efdcad3d40e0ea
+      internalID: -1905882623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_15
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 5016.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3126bba774a46428f506fcd6b7c524
+      internalID: -1819115017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_16
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 5016.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9438f67d709bfde4490a97aeef3bdd26
+      internalID: 324727672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_17
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 5016.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c5e3e0768934e48863dc2306db3895
+      internalID: 345978213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_18
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 5016.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2faa6a07a7f327040ad49dc43d0eff47
+      internalID: 1206408003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_19
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 5016.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a0e3e5013acf64684c1a6cc8911da2
+      internalID: -1130401096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_20
+      rect:
+        serializedVersion: 2
+        x: 3192
+        y: 5016.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fedfca45a11b7d42a9044209c5188fa
+      internalID: -801908912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_21
+      rect:
+        serializedVersion: 2
+        x: 3648
+        y: 5016.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9804778d1c33293408d89fe3fed94383
+      internalID: 1440779451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_22
+      rect:
+        serializedVersion: 2
+        x: 4104
+        y: 5016.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65597dcbb054a94db94c4b7c23fa8e9
+      internalID: -949412364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_23
+      rect:
+        serializedVersion: 2
+        x: 4560
+        y: 5016.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600c8929da840a7459d913503b7246f7
+      internalID: -535546407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_24
+      rect:
+        serializedVersion: 2
+        x: 5016
+        y: 5016.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2777ef9db2741d9428f3efc83ed30ef0
+      internalID: 251652800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_25
+      rect:
+        serializedVersion: 2
+        x: 5472
+        y: 5016.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8d6d2a571db1a41bc685386a6eed99
+      internalID: 481018262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4560.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0effd21089093346a8c58b6fa1e24ff
+      internalID: -1359591624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_27
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 4560.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb72cdbcfdda72545b1e84b8e6ffadb4
+      internalID: 1446706804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_28
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 4560.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260e7f1c2a69e9f44b3099051d415177
+      internalID: 459058829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_29
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 4560.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90cb3ab9d4f0c2849a39ab73fec6e9fe
+      internalID: -1741287086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_30
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 4560.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24926289e2cd74c4392f3f26f10ffe2b
+      internalID: -348253036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_31
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 4560.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1671c89d90c20274da33f377f00e7f4d
+      internalID: 819898858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_32
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 4560.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b717d213f0f2c1a40899b1b8c68769a7
+      internalID: -980390180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_33
+      rect:
+        serializedVersion: 2
+        x: 3192
+        y: 4560.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9365dd453936904f851895aa92415dc
+      internalID: -1955565549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_34
+      rect:
+        serializedVersion: 2
+        x: 3648
+        y: 4560.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af188cff5bf779741814935e9143c406
+      internalID: -1627409525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_35
+      rect:
+        serializedVersion: 2
+        x: 4104
+        y: 4560.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844132525f6f526409cb19eba7bba673
+      internalID: -2146126737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_36
+      rect:
+        serializedVersion: 2
+        x: 4560
+        y: 4560.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84eceb4029c106845ac8b9ce74445a33
+      internalID: 407540908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_37
+      rect:
+        serializedVersion: 2
+        x: 5016
+        y: 4560.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cebc43102bad19e4e98326fd57110d50
+      internalID: -113297859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_38
+      rect:
+        serializedVersion: 2
+        x: 5472
+        y: 4560.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb93e70336dbebb4ab88e2f88ec49451
+      internalID: -890611049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4104.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec180dda0d815945b59eb8e13715627
+      internalID: 290074887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_40
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 4104.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902249698dc3e5842b56540a1d46da7e
+      internalID: 787926894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_41
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 4104.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd30338f119f8646a4d223695630c28
+      internalID: -2028971957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_42
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 4104.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39651e4d5d1f8084ea31ba0fd6120393
+      internalID: -366720151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_43
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 4104.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02edb4f95c0ebaa4f844a6cd73438021
+      internalID: -103851423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_44
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 4104.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c623dd3324f2c6840a8576547af37fb5
+      internalID: -2136061335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_45
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 4104.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02dacead37098ec43ae1cce84a3f530f
+      internalID: 1063502624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_46
+      rect:
+        serializedVersion: 2
+        x: 3192
+        y: 4104.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5170f02dce037e742915333dd512a880
+      internalID: 1003216914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_47
+      rect:
+        serializedVersion: 2
+        x: 3648
+        y: 4104.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb84ae86d54fbb42b8a65c5010dd099
+      internalID: -2118497576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_48
+      rect:
+        serializedVersion: 2
+        x: 4104
+        y: 4104.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff3fc687ccec264b88d160c7795a931
+      internalID: 893258667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_49
+      rect:
+        serializedVersion: 2
+        x: 4560
+        y: 4104.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668d168f3e36b6f4f9248eb16f16e099
+      internalID: -1465494776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_50
+      rect:
+        serializedVersion: 2
+        x: 5016
+        y: 4104.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a135e86728ad42d4ca2504e3a6fea01d
+      internalID: -1214376602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_51
+      rect:
+        serializedVersion: 2
+        x: 5472
+        y: 4104.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6a2c701b35450479f282a29a073e65
+      internalID: -1343513153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3648.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b531810234775479c76dac3328548d
+      internalID: 751781295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_53
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 3648.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 945f75c554e9398498b68baf606b6e6e
+      internalID: -13241245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_54
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 3648.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c4461a72f18594095b72dedc855ab1
+      internalID: -1767578129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_55
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 3648.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc471aba6d3d794ea98c55a3f604bb2
+      internalID: 1470070609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_56
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 3648.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 511ac60b4ec3dc04cbe804a3fb1d8827
+      internalID: 1798756438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_57
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 3648.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c91ed05e07cdc914ba99ba32099d0a00
+      internalID: -644152949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_58
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 3648.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 922e3dbc0243a424c9442a38ae10e669
+      internalID: 218400547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_59
+      rect:
+        serializedVersion: 2
+        x: 3192
+        y: 3648.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3949adf0883eef54d84172d4ee9318a8
+      internalID: 1110771336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_60
+      rect:
+        serializedVersion: 2
+        x: 3648
+        y: 3648.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23993ab8893ec7b4fb998c99c606c771
+      internalID: -834490179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_61
+      rect:
+        serializedVersion: 2
+        x: 4104
+        y: 3648.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e55dd2c539600488a78fcc4439d5be
+      internalID: -125617330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_62
+      rect:
+        serializedVersion: 2
+        x: 4560
+        y: 3648.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: addad5734ccce2444a0f94f0534b9227
+      internalID: 1045528327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_63
+      rect:
+        serializedVersion: 2
+        x: 5016
+        y: 3648.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34731296c3daaea4d838ddab654727b6
+      internalID: -1480243012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_64
+      rect:
+        serializedVersion: 2
+        x: 5472
+        y: 3648.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a96c6adb4991af4bb1263a09b20ded1
+      internalID: 1489043808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3192.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4b3277c562e504fa149863ed279478
+      internalID: -231118880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_66
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 3192.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886aa4c25519adf4088d85c4c1619e3c
+      internalID: -2012239527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_67
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 3192.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2115b78e8c58ee94790fb8f9d917da85
+      internalID: 1244180308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_68
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 3192.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77be9d7ec6f42d4dbbc638090edf286
+      internalID: 1939994135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_69
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 3192.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4cc39519b3c8dc46a01854ac1abecef
+      internalID: -31355304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_70
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 3192.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30fe4e254416e194d9ffefd8ef6daca9
+      internalID: -1803477716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_71
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 3192.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ae3e8c7b81fd94991660d59c23613e
+      internalID: -2024142078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_72
+      rect:
+        serializedVersion: 2
+        x: 3192
+        y: 3192.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e7dd2f49ac6a54fae2cd9fa6133855
+      internalID: -726633212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_73
+      rect:
+        serializedVersion: 2
+        x: 3648
+        y: 3192.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6830e8383a99834689df00f8e3ee4ac
+      internalID: 2102914913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_74
+      rect:
+        serializedVersion: 2
+        x: 4104
+        y: 3192.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8ff85d2c1db164abac194c706379d1
+      internalID: -161977548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_75
+      rect:
+        serializedVersion: 2
+        x: 4560
+        y: 3192.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df3bda4ddfc2224db572adb9f4d7c68
+      internalID: 1635178667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_76
+      rect:
+        serializedVersion: 2
+        x: 5016
+        y: 3192.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0d0436cdd29944a813c0efdb2f395c
+      internalID: 1141033216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_77
+      rect:
+        serializedVersion: 2
+        x: 5472
+        y: 3192.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a74e3505b89807c45bfa044be663c686
+      internalID: 195843966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2736.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe594140c4f0d044af6f4cf944b0eba
+      internalID: -1143657206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_79
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 2736.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ee4ee87472f6f45b668623c70815de
+      internalID: -144606953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_80
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 2736.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f06582f678f2b54185e1c13445a1ffd
+      internalID: 985048327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_81
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 2736.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e02c975df1926704b859290fd4cdf569
+      internalID: 146660939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_82
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 2736.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e73b5e119f97644b932145e7966878
+      internalID: -1426312579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_83
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 2736.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72dfe77a52a0034eaebdddfbc308be3
+      internalID: -590808642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_84
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 2736.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b272a9dff05f06044becf25396642978
+      internalID: -1445839379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_85
+      rect:
+        serializedVersion: 2
+        x: 3192
+        y: 2736.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ecf0b6fe651b034ebdf7322b393c35b
+      internalID: 714277538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_86
+      rect:
+        serializedVersion: 2
+        x: 3648
+        y: 2736.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ad20ca60318c649bb429509d8b53e2
+      internalID: 2078601614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_87
+      rect:
+        serializedVersion: 2
+        x: 4104
+        y: 2736.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36fb4ec4d007ac742bb2109cca478118
+      internalID: 1000419676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_88
+      rect:
+        serializedVersion: 2
+        x: 4560
+        y: 2736.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be66c7746115cf48ad1e2681dacba4d
+      internalID: -359264738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_89
+      rect:
+        serializedVersion: 2
+        x: 5016
+        y: 2736.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b6e369eac9d81418f906cf1278dddc
+      internalID: -360292772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_90
+      rect:
+        serializedVersion: 2
+        x: 5472
+        y: 2736.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74b8704a383f29448149dfebfe88ded
+      internalID: 1568315142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2280.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681d57836b92ee84996f19d5b6c75b51
+      internalID: 1649134950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_92
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 2280.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f7f1cdb1cd49b45b0a859776c26104
+      internalID: 1740837001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_93
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 2280.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188bef74b28ad094abfd3afb71550a5d
+      internalID: -1999139245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_94
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 2280.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a9b439ed49a6a46968227af8180244
+      internalID: 929746726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_95
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 2280.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde3274034f542c4ab4ed8acddc7957a
+      internalID: -1978982731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_96
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 2280.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9ff7c7b6adf3a439ad86578ba372ea
+      internalID: -1282003021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_97
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 2280.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f10c266c8aca824cba0137f91b984b4
+      internalID: -86758366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_98
+      rect:
+        serializedVersion: 2
+        x: 3192
+        y: 2280.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51fd2771800030d4789033d37081e3d8
+      internalID: -446755363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_99
+      rect:
+        serializedVersion: 2
+        x: 3648
+        y: 2280.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f251ebd04644943b0196b1a57523c1
+      internalID: 1179056386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_100
+      rect:
+        serializedVersion: 2
+        x: 4104
+        y: 2280.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d27ab2b18e65e74da4d72e338f8ca98
+      internalID: 1399889094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_101
+      rect:
+        serializedVersion: 2
+        x: 4560
+        y: 2280.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df8624c814c6904fa7fc6ef88949c3f
+      internalID: 2050278416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_102
+      rect:
+        serializedVersion: 2
+        x: 5016
+        y: 2280.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c12fc7d6918ce4fa89ec0be88d5d96
+      internalID: -1459532318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_103
+      rect:
+        serializedVersion: 2
+        x: 5472
+        y: 2280.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12bae6ee8c3c1145aa2c0e1e6acdf42
+      internalID: 1896013112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1824.9231
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7582fcfa9d8bf74f9d93285b23ae75f
+      internalID: -1687941732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_105
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1824.9231
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d4d190d4c6f9e40b02a5735ab9826c
+      internalID: 1122528251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_106
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1824.9231
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79ae47e3f042ba4eb7db4bc6a6b8ab5
+      internalID: 1045897308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_107
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 1824.9231
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad456103ba4bfb847ae7a62bade7e0ac
+      internalID: 1158720128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_108
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 1824.9231
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dcfde6ec9b01864bb7c21f9ffb348ab
+      internalID: 1065737487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_109
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 1824.9231
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23fb9484d00a22641ab6630d80726745
+      internalID: -1630080326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_110
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 1824.9231
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cfe1cbd235f9964782a7fc093f0fcb9
+      internalID: 1746827241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_111
+      rect:
+        serializedVersion: 2
+        x: 3192
+        y: 1824.9231
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00dbf4e0e00c4a44a8f22c73b604266b
+      internalID: 1762479719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_112
+      rect:
+        serializedVersion: 2
+        x: 3648
+        y: 1824.9231
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0404f4db404f441b8e2637d758f36d
+      internalID: 1286518176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_113
+      rect:
+        serializedVersion: 2
+        x: 4104
+        y: 1824.9231
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc99ec3b13b3144c94ef8fa6a8be13d
+      internalID: 704501774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_114
+      rect:
+        serializedVersion: 2
+        x: 4560
+        y: 1824.9231
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e416bbd522a5f14a8ffe2522c94410d
+      internalID: 34941618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_115
+      rect:
+        serializedVersion: 2
+        x: 5016
+        y: 1824.9231
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f991e653cd6d5054e9bcebe458f205c7
+      internalID: -151848068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_116
+      rect:
+        serializedVersion: 2
+        x: 5472
+        y: 1824.9231
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5d8ccbc7945214981f378a4ecbd2f3
+      internalID: 411621587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1368.9231
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd4664869daf6c4a82b5db415d84da2
+      internalID: -187431767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_118
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1368.9231
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa39a39cb57e754da81295ac7e331d8
+      internalID: 1017420933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_119
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1368.9231
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1575c9f197707448b16d02514049dd
+      internalID: -1804492262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_120
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 1368.9231
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fcdffbbec196f34191f8db94629fdaf
+      internalID: 1450103279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_121
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 1368.9231
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7944f12fab72ba342959bf36dc325f36
+      internalID: 594766158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_122
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 1368.9231
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c846e097ff0be4d9acb7c45ac85bb5
+      internalID: 152907176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_123
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 1368.9231
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a79a0db43c3464ea96ce7399f66dcc
+      internalID: 2045101724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_124
+      rect:
+        serializedVersion: 2
+        x: 3192
+        y: 1368.9231
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5322990586a9774b8cf23d6b103403b
+      internalID: -577748805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_125
+      rect:
+        serializedVersion: 2
+        x: 3648
+        y: 1368.9231
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339fceed3eab6024fb74877b6f30ffa2
+      internalID: 1161960809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_126
+      rect:
+        serializedVersion: 2
+        x: 4104
+        y: 1368.9231
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6677b555b36f2145aa55f5ea39070b7
+      internalID: 1631429039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_127
+      rect:
+        serializedVersion: 2
+        x: 4560
+        y: 1368.9231
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9383f214d48eb2f48bea184583b091d7
+      internalID: 1470940104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_128
+      rect:
+        serializedVersion: 2
+        x: 5016
+        y: 1368.9231
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467a458db90ab3546b7ef6c9e8cfba3f
+      internalID: -2140144129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_129
+      rect:
+        serializedVersion: 2
+        x: 5472
+        y: 1368.9231
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16b1809ef2765b45aef989ea206c5b4
+      internalID: -2134522602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 912.9231
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40897322ea4a0bc45a22edc8cf97155e
+      internalID: -1367553161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_131
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 912.9231
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cecc851e9fae08459a31c986e3151b0
+      internalID: 1196918236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_132
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 912.9231
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7619f00ad8c6713499cc384411e52666
+      internalID: -1083473558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_133
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 912.9231
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df7ea2e68419f134a8cb4a45174cb596
+      internalID: -448978662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_134
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 912.9231
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb5eca762d18624a956af7a5881a966
+      internalID: 823535241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_135
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 912.9231
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d5c07721df20c4cbd797c8f3a32350
+      internalID: -985064932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_136
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 912.9231
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60cdff02714d0634f9dc3585478be467
+      internalID: -1122903898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_137
+      rect:
+        serializedVersion: 2
+        x: 3192
+        y: 912.9231
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb3239e3a50e8f459e94fa831ea4ed4
+      internalID: -441113757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_138
+      rect:
+        serializedVersion: 2
+        x: 3648
+        y: 912.9231
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dc5fa37ad273a44eb8791d67d078f43
+      internalID: -1227556395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_139
+      rect:
+        serializedVersion: 2
+        x: 4104
+        y: 912.9231
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e73bb6514a7464fb4ff556200fbc4b
+      internalID: -1932168538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_140
+      rect:
+        serializedVersion: 2
+        x: 4560
+        y: 912.9231
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c42c5044cda8b43936ff9bb9b8d77b
+      internalID: 1654372985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_141
+      rect:
+        serializedVersion: 2
+        x: 5016
+        y: 912.9231
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0589c502ee3f7bf4195dbbb53b37a46d
+      internalID: -268827080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_142
+      rect:
+        serializedVersion: 2
+        x: 5472
+        y: 912.9231
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95e859983bee04428d4cf57bce984e5
+      internalID: -552684245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_143
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 456.92307
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34fa1b5d12e2ad44b81c761c46adca4
+      internalID: -1172684212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_144
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 456.92307
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f415896cd864646916789be8a2ed13
+      internalID: 699993956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_145
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 456.92307
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3c127edd7fdc944978bf8c326f1d08
+      internalID: -735505099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_146
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 456.92307
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc8dffac6621d04eb8d5d67c59c57fd
+      internalID: -1344426341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_147
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 456.92307
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3df9b38b018b3a4e9a151651ed13455
+      internalID: -916459131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_148
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 456.92307
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2099a1716f663de43b9f59b1a5c33e77
+      internalID: 345264345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_149
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 456.92307
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515d56d16f696024eb902591c905bfb6
+      internalID: -2070188451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_150
+      rect:
+        serializedVersion: 2
+        x: 3192
+        y: 456.92307
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3213a576dcea14b981dbc384820b48
+      internalID: -651154794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_151
+      rect:
+        serializedVersion: 2
+        x: 3648
+        y: 456.92307
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b125b79703f75e4fa2028a4cff76c2e
+      internalID: -110201176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_152
+      rect:
+        serializedVersion: 2
+        x: 4104
+        y: 456.92307
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c35f8fa518ece14699d087cc2f64c0b
+      internalID: 835144303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_153
+      rect:
+        serializedVersion: 2
+        x: 4560
+        y: 456.92307
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f83d20476dc3c4e843e02ecb4f10b3
+      internalID: -1467179485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_154
+      rect:
+        serializedVersion: 2
+        x: 5016
+        y: 456.92307
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aba0f5c91d2ae940858bcb4d1c3a173
+      internalID: -363558638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_155
+      rect:
+        serializedVersion: 2
+        x: 5472
+        y: 456.92307
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe477e028074f14996face959e39780
+      internalID: -333806502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_156
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.9230652
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6515bf60ae385fe40878129d6b9b192f
+      internalID: -920757022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_157
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 0.9230652
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda71960b3a9d10408e911ea98d58cfc
+      internalID: -767732147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_158
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 0.9230652
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1010f96127a724aaa34892b6ee81b2
+      internalID: 976134493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_159
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 0.9230652
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ef8e2027cac7c499bd998cca144fa6
+      internalID: -478172801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_160
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 0.9230652
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345ca709fb67c194eb7024bd67753851
+      internalID: -1829437576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_161
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 0.9230652
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5249a79fe8593d4696f595ed51f803c
+      internalID: 170805214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_162
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 0.9230652
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ab9a0747a9f674baa724ab0b0461dd
+      internalID: 123373572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_163
+      rect:
+        serializedVersion: 2
+        x: 3192
+        y: 0.9230652
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3788103333b2aef488890881f0a64603
+      internalID: -2135155741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_164
+      rect:
+        serializedVersion: 2
+        x: 3648
+        y: 0.9230652
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71f9233f996924498f7eaa1d71fba0e
+      internalID: -870800664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_165
+      rect:
+        serializedVersion: 2
+        x: 4104
+        y: 0.9230652
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea39e25168800b4881adef31db2d23d
+      internalID: -1094753008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_166
+      rect:
+        serializedVersion: 2
+        x: 4560
+        y: 0.9230652
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f27cc456bc42d40a500f52bb9ca914
+      internalID: 145338626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_167
+      rect:
+        serializedVersion: 2
+        x: 5016
+        y: 0.9230652
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c745b85c0278e5c45b6c9f2625d4f056
+      internalID: 1474089703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Butterfly_01A_168
+      rect:
+        serializedVersion: 2
+        x: 5472
+        y: 0.9230652
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea553060f52e4c444abee470654a0f17
+      internalID: 1341716299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Scene_01_Butterfly_01A_0: -289160069
+      Scene_01_Butterfly_01A_1: 206235845
+      Scene_01_Butterfly_01A_10: -1000170674
+      Scene_01_Butterfly_01A_100: 1399889094
+      Scene_01_Butterfly_01A_101: 2050278416
+      Scene_01_Butterfly_01A_102: -1459532318
+      Scene_01_Butterfly_01A_103: 1896013112
+      Scene_01_Butterfly_01A_104: -1687941732
+      Scene_01_Butterfly_01A_105: 1122528251
+      Scene_01_Butterfly_01A_106: 1045897308
+      Scene_01_Butterfly_01A_107: 1158720128
+      Scene_01_Butterfly_01A_108: 1065737487
+      Scene_01_Butterfly_01A_109: -1630080326
+      Scene_01_Butterfly_01A_11: -1933431926
+      Scene_01_Butterfly_01A_110: 1746827241
+      Scene_01_Butterfly_01A_111: 1762479719
+      Scene_01_Butterfly_01A_112: 1286518176
+      Scene_01_Butterfly_01A_113: 704501774
+      Scene_01_Butterfly_01A_114: 34941618
+      Scene_01_Butterfly_01A_115: -151848068
+      Scene_01_Butterfly_01A_116: 411621587
+      Scene_01_Butterfly_01A_117: -187431767
+      Scene_01_Butterfly_01A_118: 1017420933
+      Scene_01_Butterfly_01A_119: -1804492262
+      Scene_01_Butterfly_01A_12: 716577759
+      Scene_01_Butterfly_01A_120: 1450103279
+      Scene_01_Butterfly_01A_121: 594766158
+      Scene_01_Butterfly_01A_122: 152907176
+      Scene_01_Butterfly_01A_123: 2045101724
+      Scene_01_Butterfly_01A_124: -577748805
+      Scene_01_Butterfly_01A_125: 1161960809
+      Scene_01_Butterfly_01A_126: 1631429039
+      Scene_01_Butterfly_01A_127: 1470940104
+      Scene_01_Butterfly_01A_128: -2140144129
+      Scene_01_Butterfly_01A_129: -2134522602
+      Scene_01_Butterfly_01A_13: 2020219164
+      Scene_01_Butterfly_01A_130: -1367553161
+      Scene_01_Butterfly_01A_131: 1196918236
+      Scene_01_Butterfly_01A_132: -1083473558
+      Scene_01_Butterfly_01A_133: -448978662
+      Scene_01_Butterfly_01A_134: 823535241
+      Scene_01_Butterfly_01A_135: -985064932
+      Scene_01_Butterfly_01A_136: -1122903898
+      Scene_01_Butterfly_01A_137: -441113757
+      Scene_01_Butterfly_01A_138: -1227556395
+      Scene_01_Butterfly_01A_139: -1932168538
+      Scene_01_Butterfly_01A_14: -1905882623
+      Scene_01_Butterfly_01A_140: 1654372985
+      Scene_01_Butterfly_01A_141: -268827080
+      Scene_01_Butterfly_01A_142: -552684245
+      Scene_01_Butterfly_01A_143: -1172684212
+      Scene_01_Butterfly_01A_144: 699993956
+      Scene_01_Butterfly_01A_145: -735505099
+      Scene_01_Butterfly_01A_146: -1344426341
+      Scene_01_Butterfly_01A_147: -916459131
+      Scene_01_Butterfly_01A_148: 345264345
+      Scene_01_Butterfly_01A_149: -2070188451
+      Scene_01_Butterfly_01A_15: -1819115017
+      Scene_01_Butterfly_01A_150: -651154794
+      Scene_01_Butterfly_01A_151: -110201176
+      Scene_01_Butterfly_01A_152: 835144303
+      Scene_01_Butterfly_01A_153: -1467179485
+      Scene_01_Butterfly_01A_154: -363558638
+      Scene_01_Butterfly_01A_155: -333806502
+      Scene_01_Butterfly_01A_156: -920757022
+      Scene_01_Butterfly_01A_157: -767732147
+      Scene_01_Butterfly_01A_158: 976134493
+      Scene_01_Butterfly_01A_159: -478172801
+      Scene_01_Butterfly_01A_16: 324727672
+      Scene_01_Butterfly_01A_160: -1829437576
+      Scene_01_Butterfly_01A_161: 170805214
+      Scene_01_Butterfly_01A_162: 123373572
+      Scene_01_Butterfly_01A_163: -2135155741
+      Scene_01_Butterfly_01A_164: -870800664
+      Scene_01_Butterfly_01A_165: -1094753008
+      Scene_01_Butterfly_01A_166: 145338626
+      Scene_01_Butterfly_01A_167: 1474089703
+      Scene_01_Butterfly_01A_168: 1341716299
+      Scene_01_Butterfly_01A_17: 345978213
+      Scene_01_Butterfly_01A_18: 1206408003
+      Scene_01_Butterfly_01A_19: -1130401096
+      Scene_01_Butterfly_01A_2: 799938121
+      Scene_01_Butterfly_01A_20: -801908912
+      Scene_01_Butterfly_01A_21: 1440779451
+      Scene_01_Butterfly_01A_22: -949412364
+      Scene_01_Butterfly_01A_23: -535546407
+      Scene_01_Butterfly_01A_24: 251652800
+      Scene_01_Butterfly_01A_25: 481018262
+      Scene_01_Butterfly_01A_26: -1359591624
+      Scene_01_Butterfly_01A_27: 1446706804
+      Scene_01_Butterfly_01A_28: 459058829
+      Scene_01_Butterfly_01A_29: -1741287086
+      Scene_01_Butterfly_01A_3: -338347579
+      Scene_01_Butterfly_01A_30: -348253036
+      Scene_01_Butterfly_01A_31: 819898858
+      Scene_01_Butterfly_01A_32: -980390180
+      Scene_01_Butterfly_01A_33: -1955565549
+      Scene_01_Butterfly_01A_34: -1627409525
+      Scene_01_Butterfly_01A_35: -2146126737
+      Scene_01_Butterfly_01A_36: 407540908
+      Scene_01_Butterfly_01A_37: -113297859
+      Scene_01_Butterfly_01A_38: -890611049
+      Scene_01_Butterfly_01A_39: 290074887
+      Scene_01_Butterfly_01A_4: 551962952
+      Scene_01_Butterfly_01A_40: 787926894
+      Scene_01_Butterfly_01A_41: -2028971957
+      Scene_01_Butterfly_01A_42: -366720151
+      Scene_01_Butterfly_01A_43: -103851423
+      Scene_01_Butterfly_01A_44: -2136061335
+      Scene_01_Butterfly_01A_45: 1063502624
+      Scene_01_Butterfly_01A_46: 1003216914
+      Scene_01_Butterfly_01A_47: -2118497576
+      Scene_01_Butterfly_01A_48: 893258667
+      Scene_01_Butterfly_01A_49: -1465494776
+      Scene_01_Butterfly_01A_5: -1016397043
+      Scene_01_Butterfly_01A_50: -1214376602
+      Scene_01_Butterfly_01A_51: -1343513153
+      Scene_01_Butterfly_01A_52: 751781295
+      Scene_01_Butterfly_01A_53: -13241245
+      Scene_01_Butterfly_01A_54: -1767578129
+      Scene_01_Butterfly_01A_55: 1470070609
+      Scene_01_Butterfly_01A_56: 1798756438
+      Scene_01_Butterfly_01A_57: -644152949
+      Scene_01_Butterfly_01A_58: 218400547
+      Scene_01_Butterfly_01A_59: 1110771336
+      Scene_01_Butterfly_01A_6: -72009626
+      Scene_01_Butterfly_01A_60: -834490179
+      Scene_01_Butterfly_01A_61: -125617330
+      Scene_01_Butterfly_01A_62: 1045528327
+      Scene_01_Butterfly_01A_63: -1480243012
+      Scene_01_Butterfly_01A_64: 1489043808
+      Scene_01_Butterfly_01A_65: -231118880
+      Scene_01_Butterfly_01A_66: -2012239527
+      Scene_01_Butterfly_01A_67: 1244180308
+      Scene_01_Butterfly_01A_68: 1939994135
+      Scene_01_Butterfly_01A_69: -31355304
+      Scene_01_Butterfly_01A_7: 59790353
+      Scene_01_Butterfly_01A_70: -1803477716
+      Scene_01_Butterfly_01A_71: -2024142078
+      Scene_01_Butterfly_01A_72: -726633212
+      Scene_01_Butterfly_01A_73: 2102914913
+      Scene_01_Butterfly_01A_74: -161977548
+      Scene_01_Butterfly_01A_75: 1635178667
+      Scene_01_Butterfly_01A_76: 1141033216
+      Scene_01_Butterfly_01A_77: 195843966
+      Scene_01_Butterfly_01A_78: -1143657206
+      Scene_01_Butterfly_01A_79: -144606953
+      Scene_01_Butterfly_01A_8: -1694616136
+      Scene_01_Butterfly_01A_80: 985048327
+      Scene_01_Butterfly_01A_81: 146660939
+      Scene_01_Butterfly_01A_82: -1426312579
+      Scene_01_Butterfly_01A_83: -590808642
+      Scene_01_Butterfly_01A_84: -1445839379
+      Scene_01_Butterfly_01A_85: 714277538
+      Scene_01_Butterfly_01A_86: 2078601614
+      Scene_01_Butterfly_01A_87: 1000419676
+      Scene_01_Butterfly_01A_88: -359264738
+      Scene_01_Butterfly_01A_89: -360292772
+      Scene_01_Butterfly_01A_9: -1122378084
+      Scene_01_Butterfly_01A_90: 1568315142
+      Scene_01_Butterfly_01A_91: 1649134950
+      Scene_01_Butterfly_01A_92: 1740837001
+      Scene_01_Butterfly_01A_93: -1999139245
+      Scene_01_Butterfly_01A_94: 929746726
+      Scene_01_Butterfly_01A_95: -1978982731
+      Scene_01_Butterfly_01A_96: -1282003021
+      Scene_01_Butterfly_01A_97: -86758366
+      Scene_01_Butterfly_01A_98: -446755363
+      Scene_01_Butterfly_01A_99: 1179056386
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00239477b0149f748b8e81a511ec9340, type: 3}
+  m_Name: Answers_2
+  m_EditorClassIdentifier: 
+  questionText: Where did they look last?
+  ENGQuestionAudioClip: {fileID: 8300000, guid: f430dd8177d47124e98b0d4b6c316168,
+    type: 3}
+  SSWQuestionAudioClip: {fileID: 8300000, guid: 42497a6bd23ada745a3be29ab1ca374b,
+    type: 3}
+  ENGPromptQuestionAudioClip: {fileID: 8300000, guid: 9e2a97b2a6031e54dac75e727c16396d,
+    type: 3}
+  SSWPromptQuestionAudioClip: {fileID: 8300000, guid: ff908c3c37875bb49a7618dcc4fc251a,
+    type: 3}
+  ENGAcknowledgeAnswerAudioClipP1: {fileID: 0}
+  ENGAcknowledgeAnswerAudioClipP2: {fileID: 0}
+  SSWAcknowledgeAnswerAudioClipP1: {fileID: 0}
+  SSWAcknowledgeAnswerAudioClipP2: {fileID: 0}
+  questions:
+  - Image: {fileID: 21300000, guid: b7feaff4b1077f34ca7e5639b2db24ce, type: 3}
+    IsCorrectAnswer: 0
+  - Image: {fileID: 21300000, guid: c7c3dcf979f2dba468e5d7e11f98d45a, type: 3}
+    IsCorrectAnswer: 0
+  - Image: {fileID: 21300000, guid: aba0d1ee98dedc24680cde91251dede9, type: 3}
+    IsCorrectAnswer: 1

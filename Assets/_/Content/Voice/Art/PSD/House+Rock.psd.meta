@@ -1,0 +1,509 @@
+fileFormatVersion: 2
+guid: 2adb7335d549336438ecbf87b38b0121
+importerOverride:
+  nativeImporterType: 2089858483
+  scriptedImporterType:
+    serializedVersion: 2
+    Hash: b10b55a1aa6a1aa32521bc0cab59632e
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: Little rock
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 7765
+      y: 4
+      width: 247
+      height: 177
+    spriteID: 2995d14306d58b84b904e779ffd2c387
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 7765, y: 4}
+    spritePosition: {x: 6348, y: 97}
+  - name: Big rock
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 6887
+      y: 4
+      width: 870
+      height: 463
+    spriteID: eb7ebe7166dfd354c82f2997c06164e8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 6887, y: 4}
+    spritePosition: {x: 5694, y: 106}
+  - name: Window sill1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 5100
+      y: 2486
+      width: 1512
+      height: 165
+    spriteID: 51695645d56bd7249950bd64642b2b72
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 5100, y: 2486}
+    spritePosition: {x: 544, y: 1185}
+  - name: Window frame1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 5100
+      y: 3537
+      width: 1440
+      height: 1243
+    spriteID: b014985f581b6e543ad360f82c52599a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 5100, y: 3537}
+    spritePosition: {x: 579, y: 1212}
+  - name: Glass1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 5100
+      y: 4788
+      width: 1425
+      height: 1229
+    spriteID: 102e5329a6d2b56429f2a7e7a51b18b7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4513, y: 3568}
+    spritePosition: {x: 587, y: 1220}
+  - name: Door
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 6868
+      y: 1255
+      width: 1081
+      height: 1885
+    spriteID: 984ac70a3c7bd2e41bf2c238d851ddad
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 6868, y: 1255}
+    spritePosition: {x: 2675, y: 580}
+  - name: Front house
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 5088
+      height: 3525
+    spriteID: 02246d84bd9191c4196a130b5c9f5d34
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+    spritePosition: {x: 39, y: 158}
+  - name: Window sill2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 7067
+      width: 1869
+      height: 176
+    spriteID: dcce64834d513a142b8092a28de6df48
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 7067}
+    spritePosition: {x: 5155, y: 1161}
+  - name: Window frame2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 5100
+      y: 4
+      width: 1779
+      height: 1243
+    spriteID: d16b74f00a8ff8e48aa93722ba4ac80c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 5100, y: 4}
+    spritePosition: {x: 5205, y: 1184}
+  - name: Glass2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 5100
+      y: 1255
+      width: 1760
+      height: 1223
+    spriteID: b73160f483ce8d2459457edd0edee26b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -114, y: 60}
+    spritePosition: {x: 5214, y: 1195}
+  - name: Back house
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3537
+      width: 5088
+      height: 3522
+    spriteID: c9b3d2da73a023849a7f3e6a1fcfbade
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 3537}
+    spritePosition: {x: 2573, y: 282}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  sharedRigSpriteImportData: []
+  sharedRigCharacterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  platformSettings: []
+  mosaicLayers: 1
+  characterMode: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  layerMappingOption: 2
+  generatePhysicsShape: 0
+  paperDollMode: 0
+  keepDupilcateSpriteName: 1
+  skeletonAssetReferenceID: 
+  pipeline: {instanceID: 0}
+  pipelineVersion: 
+  padding: 4
+  spriteSizeExpand: 0
+  spriteCategoryList:
+    categories: []
+  spritePackingTag: 
+  resliceFromLayer: 0
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: Little rock
+    spriteName: Little rock
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 2995d14306d58b84b904e779ffd2c387
+    layerID: 48
+    mosaicPosition: {x: 7765, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Big rock
+    spriteName: Big rock
+    isGroup: 0
+    parentIndex: -1
+    spriteID: eb7ebe7166dfd354c82f2997c06164e8
+    layerID: 44
+    mosaicPosition: {x: 6887, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Window1
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 57d3b0f937af3fa42851516b1364bec8
+    layerID: 34
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Window sill1
+    spriteName: Window sill1
+    isGroup: 0
+    parentIndex: 2
+    spriteID: 51695645d56bd7249950bd64642b2b72
+    layerID: 33
+    mosaicPosition: {x: 5100, y: 2486}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Window frame1
+    spriteName: Window frame1
+    isGroup: 0
+    parentIndex: 2
+    spriteID: b014985f581b6e543ad360f82c52599a
+    layerID: 28
+    mosaicPosition: {x: 5100, y: 3537}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Glass1
+    spriteName: Glass1
+    isGroup: 0
+    parentIndex: 2
+    spriteID: 102e5329a6d2b56429f2a7e7a51b18b7
+    layerID: 26
+    mosaicPosition: {x: 5100, y: 4788}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Door
+    spriteName: Door
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 984ac70a3c7bd2e41bf2c238d851ddad
+    layerID: 39
+    mosaicPosition: {x: 6868, y: 1255}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Front house
+    spriteName: Front house
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 02246d84bd9191c4196a130b5c9f5d34
+    layerID: 24
+    mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Window2
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 7c701ff99e3accd439b8eb2efd0922a2
+    layerID: 16
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Window sill2
+    spriteName: Window sill2
+    isGroup: 0
+    parentIndex: 8
+    spriteID: dcce64834d513a142b8092a28de6df48
+    layerID: 15
+    mosaicPosition: {x: 4, y: 7067}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Window frame2
+    spriteName: Window frame2
+    isGroup: 0
+    parentIndex: 8
+    spriteID: d16b74f00a8ff8e48aa93722ba4ac80c
+    layerID: 10
+    mosaicPosition: {x: 5100, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Glass2
+    spriteName: Glass2
+    isGroup: 0
+    parentIndex: 8
+    spriteID: b73160f483ce8d2459457edd0edee26b
+    layerID: 8
+    mosaicPosition: {x: 5100, y: 1255}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Back house
+    spriteName: Back house
+    isGroup: 0
+    parentIndex: -1
+    spriteID: c9b3d2da73a023849a7f3e6a1fcfbade
+    layerID: 6
+    mosaicPosition: {x: 4, y: 3537}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  sharedRigPSDLayers: []
+  pSDLayerImportSetting: []
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  spriteSizeExpandChanged: 0
+  generateGOHierarchy: 0
+  textureAssetName: 
+  prefabAssetName: 
+  spriteLibAssetName: 
+  skeletonAssetName: 
+  secondarySpriteTextures: []

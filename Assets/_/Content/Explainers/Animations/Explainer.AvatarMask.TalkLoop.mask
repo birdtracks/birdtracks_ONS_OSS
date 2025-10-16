@@ -1,0 +1,457 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Explainer.AvatarMask.TalkLoop
+  m_Mask: 00000000000000000100000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Body
+    m_Weight: 0
+  - m_Path: GRP_Joints_01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01
+    m_Weight: 0
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Be_Rocket_Bone_01
+    m_Weight: 0
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Be_Rocket_Bone_01/Bn_Rocket_01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Be_Rocket_Bone_01/Bn_Rocket_01/transform1
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Be_Rocket_Bone_01/Bn_Rocket_01/transform1/Bn_L_Jet_01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Be_Rocket_Bone_01/Bn_Rocket_01/transform2
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Be_Rocket_Bone_01/Bn_Rocket_01/transform2/Bn_R_Jet_01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_L_Thigh_ScaleHolder_01
+    m_Weight: 0
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_L_Thigh_ScaleHolder_01/Bn_L_Ankle_01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_L_Thigh_ScaleHolder_01/Bn_L_Ankle_01/Bn_L_Ball_01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_L_Thigh_ScaleHolder_01/Bn_L_Ankle_01/Bn_L_Ball_01/Be_L_ToeEnd_B01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_L_Thigh_ScaleHolder_01/Bn_L_Knee_01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_L_Thigh_ScaleHolder_01/Bn_L_Pants_Knee_01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_L_Thigh_ScaleHolder_01/Bn_L_Pants_Shin_01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_L_Thigh_ScaleHolder_01/Bn_L_Pants_Shin_01/Bn_L_Pants_Ankle_01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_L_Thigh_ScaleHolder_01/Bn_L_Pants_Thigh_01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_L_Thigh_ScaleHolder_01/Bn_L_Shin_01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_L_Thigh_ScaleHolder_01/Bn_L_Thigh_01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_R_Thigh_ScaleHolder_01
+    m_Weight: 0
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_R_Thigh_ScaleHolder_01/Bn_R_Ankle_01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_R_Thigh_ScaleHolder_01/Bn_R_Ankle_01/Bn_R_Ball_01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_R_Thigh_ScaleHolder_01/Bn_R_Ankle_01/Bn_R_Ball_01/Be_R_ToeEnd_B01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_R_Thigh_ScaleHolder_01/Bn_R_Knee_01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_R_Thigh_ScaleHolder_01/Bn_R_Pants_Knee_01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_R_Thigh_ScaleHolder_01/Bn_R_Pants_Shin_01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_R_Thigh_ScaleHolder_01/Bn_R_Pants_Shin_01/Bn_R_Pants_Ankle_01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_R_Thigh_ScaleHolder_01/Bn_R_Pants_Thigh_01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_R_Thigh_ScaleHolder_01/Bn_R_Shin_01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_R_Thigh_ScaleHolder_01/Bn_R_Thigh_01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_B01
+    m_Weight: 0
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_C01
+    m_Weight: 0
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_D01
+    m_Weight: 0
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01
+    m_Weight: 0
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_L_Shld_01
+    m_Weight: 0
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_L_Shld_01/Bn_L_Shoulder_ScaleHolder_01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_L_Shld_01/Bn_L_Shoulder_ScaleHolder_01/Bn_L_Arm_01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_L_Shld_01/Bn_L_Shoulder_ScaleHolder_01/Bn_L_Elbow_ScaleHolder_01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_L_Shld_01/Bn_L_Shoulder_ScaleHolder_01/Bn_L_Elbow_ScaleHolder_01/Bn_L_Elbow_01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_L_Shld_01/Bn_L_Shoulder_ScaleHolder_01/Bn_L_Elbow_ScaleHolder_01/BN_L_Forearm_01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_L_Shld_01/Bn_L_Shoulder_ScaleHolder_01/Bn_L_Elbow_ScaleHolder_01/Bn_L_Wrist_01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_L_Shld_01/Bn_L_Shoulder_ScaleHolder_01/Bn_L_Elbow_ScaleHolder_01/Bn_L_Wrist_01/Be_L_HandEnd_01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_L_Shld_01/Bn_L_Shoulder_ScaleHolder_01/Bn_L_Elbow_ScaleHolder_01/Bn_L_Wrist_01/Be_L_HandEnd_01/Bn_L_Index_A_A01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_L_Shld_01/Bn_L_Shoulder_ScaleHolder_01/Bn_L_Elbow_ScaleHolder_01/Bn_L_Wrist_01/Be_L_HandEnd_01/Bn_L_Index_A_A01/Bn_L_Index_A_B01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_L_Shld_01/Bn_L_Shoulder_ScaleHolder_01/Bn_L_Elbow_ScaleHolder_01/Bn_L_Wrist_01/Be_L_HandEnd_01/Bn_L_Index_A_A01/Bn_L_Index_A_B01/Bn_L_Index_B_A01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_L_Shld_01/Bn_L_Shoulder_ScaleHolder_01/Bn_L_Elbow_ScaleHolder_01/Bn_L_Wrist_01/Be_L_HandEnd_01/Bn_L_Index_A_A01/Bn_L_Index_A_B01/Bn_L_Index_B_A01/Bn_L_Index_B_B01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_L_Shld_01/Bn_L_Shoulder_ScaleHolder_01/Bn_L_Elbow_ScaleHolder_01/Bn_L_Wrist_01/Be_L_HandEnd_01/Bn_L_Index_A_A01/Bn_L_Index_A_B01/Bn_L_Index_B_A01/Bn_L_Index_B_B01/Bn_L_Index_C_A01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_L_Shld_01/Bn_L_Shoulder_ScaleHolder_01/Bn_L_Elbow_ScaleHolder_01/Bn_L_Wrist_01/Be_L_HandEnd_01/Bn_L_Index_A_A01/Bn_L_Index_A_B01/Bn_L_Index_B_A01/Bn_L_Index_B_B01/Bn_L_Index_C_A01/Bn_L_Index_C_B01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_L_Shld_01/Bn_L_Shoulder_ScaleHolder_01/Bn_L_Elbow_ScaleHolder_01/Bn_L_Wrist_01/Be_L_HandEnd_01/Bn_L_Index_A_A01/Bn_L_Index_A_B01/Bn_L_Index_B_A01/Bn_L_Index_B_B01/Bn_L_Index_C_A01/Bn_L_Index_C_B01/Be_L_IndexEnd_01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_L_Shld_01/Bn_L_Shoulder_ScaleHolder_01/Bn_L_Elbow_ScaleHolder_01/Bn_L_Wrist_01/Be_L_HandEnd_01/Bn_L_Middle_A_A01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_L_Shld_01/Bn_L_Shoulder_ScaleHolder_01/Bn_L_Elbow_ScaleHolder_01/Bn_L_Wrist_01/Be_L_HandEnd_01/Bn_L_Middle_A_A01/Bn_L_Middle_A_B01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_L_Shld_01/Bn_L_Shoulder_ScaleHolder_01/Bn_L_Elbow_ScaleHolder_01/Bn_L_Wrist_01/Be_L_HandEnd_01/Bn_L_Middle_A_A01/Bn_L_Middle_A_B01/Bn_L_Middle_B_A01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_L_Shld_01/Bn_L_Shoulder_ScaleHolder_01/Bn_L_Elbow_ScaleHolder_01/Bn_L_Wrist_01/Be_L_HandEnd_01/Bn_L_Middle_A_A01/Bn_L_Middle_A_B01/Bn_L_Middle_B_A01/Bn_L_Middle_B_B01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_L_Shld_01/Bn_L_Shoulder_ScaleHolder_01/Bn_L_Elbow_ScaleHolder_01/Bn_L_Wrist_01/Be_L_HandEnd_01/Bn_L_Middle_A_A01/Bn_L_Middle_A_B01/Bn_L_Middle_B_A01/Bn_L_Middle_B_B01/Bn_L_Middle_C_A01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_L_Shld_01/Bn_L_Shoulder_ScaleHolder_01/Bn_L_Elbow_ScaleHolder_01/Bn_L_Wrist_01/Be_L_HandEnd_01/Bn_L_Middle_A_A01/Bn_L_Middle_A_B01/Bn_L_Middle_B_A01/Bn_L_Middle_B_B01/Bn_L_Middle_C_A01/Bn_L_Middle_C_B01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_L_Shld_01/Bn_L_Shoulder_ScaleHolder_01/Bn_L_Elbow_ScaleHolder_01/Bn_L_Wrist_01/Be_L_HandEnd_01/Bn_L_Middle_A_A01/Bn_L_Middle_A_B01/Bn_L_Middle_B_A01/Bn_L_Middle_B_B01/Bn_L_Middle_C_A01/Bn_L_Middle_C_B01/Be_L_MiddleEnd_01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_L_Shld_01/Bn_L_Shoulder_ScaleHolder_01/Bn_L_Elbow_ScaleHolder_01/Bn_L_Wrist_01/Be_L_HandEnd_01/Bn_L_Pinky_A01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_L_Shld_01/Bn_L_Shoulder_ScaleHolder_01/Bn_L_Elbow_ScaleHolder_01/Bn_L_Wrist_01/Be_L_HandEnd_01/Bn_L_Pinky_A01/Bn_L_Pinky_B_A01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_L_Shld_01/Bn_L_Shoulder_ScaleHolder_01/Bn_L_Elbow_ScaleHolder_01/Bn_L_Wrist_01/Be_L_HandEnd_01/Bn_L_Pinky_A01/Bn_L_Pinky_B_A01/Bn_L_Pinky_B_B01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_L_Shld_01/Bn_L_Shoulder_ScaleHolder_01/Bn_L_Elbow_ScaleHolder_01/Bn_L_Wrist_01/Be_L_HandEnd_01/Bn_L_Pinky_A01/Bn_L_Pinky_B_A01/Bn_L_Pinky_B_B01/Bn_L_Pinky_C_A01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_L_Shld_01/Bn_L_Shoulder_ScaleHolder_01/Bn_L_Elbow_ScaleHolder_01/Bn_L_Wrist_01/Be_L_HandEnd_01/Bn_L_Pinky_A01/Bn_L_Pinky_B_A01/Bn_L_Pinky_B_B01/Bn_L_Pinky_C_A01/Bn_L_Pinky_C_B01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_L_Shld_01/Bn_L_Shoulder_ScaleHolder_01/Bn_L_Elbow_ScaleHolder_01/Bn_L_Wrist_01/Be_L_HandEnd_01/Bn_L_Pinky_A01/Bn_L_Pinky_B_A01/Bn_L_Pinky_B_B01/Bn_L_Pinky_C_A01/Bn_L_Pinky_C_B01/Bn_L_Pinky_D_A01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_L_Shld_01/Bn_L_Shoulder_ScaleHolder_01/Bn_L_Elbow_ScaleHolder_01/Bn_L_Wrist_01/Be_L_HandEnd_01/Bn_L_Pinky_A01/Bn_L_Pinky_B_A01/Bn_L_Pinky_B_B01/Bn_L_Pinky_C_A01/Bn_L_Pinky_C_B01/Bn_L_Pinky_D_A01/Bn_L_Pinky_D_B01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_L_Shld_01/Bn_L_Shoulder_ScaleHolder_01/Bn_L_Elbow_ScaleHolder_01/Bn_L_Wrist_01/Be_L_HandEnd_01/Bn_L_Pinky_A01/Bn_L_Pinky_B_A01/Bn_L_Pinky_B_B01/Bn_L_Pinky_C_A01/Bn_L_Pinky_C_B01/Bn_L_Pinky_D_A01/Bn_L_Pinky_D_B01/Be_L_PinkyEnd_B01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_L_Shld_01/Bn_L_Shoulder_ScaleHolder_01/Bn_L_Elbow_ScaleHolder_01/Bn_L_Wrist_01/Be_L_HandEnd_01/Bn_L_Ring_A_A01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_L_Shld_01/Bn_L_Shoulder_ScaleHolder_01/Bn_L_Elbow_ScaleHolder_01/Bn_L_Wrist_01/Be_L_HandEnd_01/Bn_L_Ring_A_A01/Bn_L_Ring_A_B01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_L_Shld_01/Bn_L_Shoulder_ScaleHolder_01/Bn_L_Elbow_ScaleHolder_01/Bn_L_Wrist_01/Be_L_HandEnd_01/Bn_L_Ring_A_A01/Bn_L_Ring_A_B01/Bn_L_Ring_B_A01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_L_Shld_01/Bn_L_Shoulder_ScaleHolder_01/Bn_L_Elbow_ScaleHolder_01/Bn_L_Wrist_01/Be_L_HandEnd_01/Bn_L_Ring_A_A01/Bn_L_Ring_A_B01/Bn_L_Ring_B_A01/Bn_L_Ring_B_B01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_L_Shld_01/Bn_L_Shoulder_ScaleHolder_01/Bn_L_Elbow_ScaleHolder_01/Bn_L_Wrist_01/Be_L_HandEnd_01/Bn_L_Ring_A_A01/Bn_L_Ring_A_B01/Bn_L_Ring_B_A01/Bn_L_Ring_B_B01/Bn_L_Ring_C_A01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_L_Shld_01/Bn_L_Shoulder_ScaleHolder_01/Bn_L_Elbow_ScaleHolder_01/Bn_L_Wrist_01/Be_L_HandEnd_01/Bn_L_Ring_A_A01/Bn_L_Ring_A_B01/Bn_L_Ring_B_A01/Bn_L_Ring_B_B01/Bn_L_Ring_C_A01/Bn_L_Ring_C_B01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_L_Shld_01/Bn_L_Shoulder_ScaleHolder_01/Bn_L_Elbow_ScaleHolder_01/Bn_L_Wrist_01/Be_L_HandEnd_01/Bn_L_Ring_A_A01/Bn_L_Ring_A_B01/Bn_L_Ring_B_A01/Bn_L_Ring_B_B01/Bn_L_Ring_C_A01/Bn_L_Ring_C_B01/Be_L_RingEnd_01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_L_Shld_01/Bn_L_Shoulder_ScaleHolder_01/Bn_L_Elbow_ScaleHolder_01/Bn_L_Wrist_01/Be_L_HandEnd_01/Bn_L_Thumb_A01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_L_Shld_01/Bn_L_Shoulder_ScaleHolder_01/Bn_L_Elbow_ScaleHolder_01/Bn_L_Wrist_01/Be_L_HandEnd_01/Bn_L_Thumb_A01/Bn_L_Thumb_B_A01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_L_Shld_01/Bn_L_Shoulder_ScaleHolder_01/Bn_L_Elbow_ScaleHolder_01/Bn_L_Wrist_01/Be_L_HandEnd_01/Bn_L_Thumb_A01/Bn_L_Thumb_B_A01/Bn_L_Thumb_B_B01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_L_Shld_01/Bn_L_Shoulder_ScaleHolder_01/Bn_L_Elbow_ScaleHolder_01/Bn_L_Wrist_01/Be_L_HandEnd_01/Bn_L_Thumb_A01/Bn_L_Thumb_B_A01/Bn_L_Thumb_B_B01/Bn_L_Thumb_C_A01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_L_Shld_01/Bn_L_Shoulder_ScaleHolder_01/Bn_L_Elbow_ScaleHolder_01/Bn_L_Wrist_01/Be_L_HandEnd_01/Bn_L_Thumb_A01/Bn_L_Thumb_B_A01/Bn_L_Thumb_B_B01/Bn_L_Thumb_C_A01/Bn_L_Thumb_C_B01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_L_Shld_01/Bn_L_Shoulder_ScaleHolder_01/Bn_L_Elbow_ScaleHolder_01/Bn_L_Wrist_01/Be_L_HandEnd_01/Bn_L_Thumb_A01/Bn_L_Thumb_B_A01/Bn_L_Thumb_B_B01/Bn_L_Thumb_C_A01/Bn_L_Thumb_C_B01/Be_L_ThumbEnd_01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_Neck_01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_Neck_01/Bn_Head_01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_Neck_01/Bn_Head_01/Bn_HeadEnd_01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_Neck_01/Bn_Head_01/Bn_HeadEnd_01/Bn_BigHair_A01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_Neck_01/Bn_Head_01/Bn_HeadEnd_01/Bn_BigHair_A01/Bn_BigHair_B01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_Neck_01/Bn_Head_01/Bn_HeadEnd_01/Bn_BigHair_A01/Bn_BigHair_B01/Bn_BigHair_C01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_Neck_01/Bn_Head_01/Bn_HeadEnd_01/Bn_SmallHair_A01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_Neck_01/Bn_Head_01/Bn_HeadEnd_01/Bn_SmallHair_A01/Bn_SmallHair_B01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_Neck_01/Bn_Head_01/Bn_HeadEnd_01/Bn_SmallHair_A01/Bn_SmallHair_B01/Bn_SmallHair_C01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_Neck_01/Bn_Head_01/Bn_Helmet_01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_Neck_01/Bn_Head_01/Bn_Helmet_01/Bn_L_Strap_A01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_Neck_01/Bn_Head_01/Bn_Helmet_01/Bn_L_Strap_A01/Bn_L_Strap_B01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_Neck_01/Bn_Head_01/Bn_Helmet_01/Bn_L_Strap_A01/Bn_L_Strap_B01/Bn_L_Strap_C01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_Neck_01/Bn_Head_01/Bn_Helmet_01/Bn_L_Strap_A01/Bn_L_Strap_B01/Bn_L_Strap_C01/Bn_L_Strap_D01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_Neck_01/Bn_Head_01/Bn_Helmet_01/Bn_L_Strap_A01/Bn_L_Strap_B01/Bn_L_Strap_C01/Bn_L_Strap_D01/Bn_L_Strap_E01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_Neck_01/Bn_Head_01/Bn_Helmet_01/Bn_L_Strap_A01/Bn_L_Strap_B01/Bn_L_Strap_C01/Bn_L_Strap_D01/Bn_L_Strap_E01/Bn_L_Strap_Ring_A01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_Neck_01/Bn_Head_01/Bn_Helmet_01/Bn_L_Strap_A01/Bn_L_Strap_B01/Bn_L_Strap_C01/Bn_L_Strap_D01/Bn_L_Strap_E01/Bn_L_Strap_Ring_A01/Bn_L_Strap_Ring_B01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_Neck_01/Bn_Head_01/Bn_Helmet_01/Bn_R_Strap_A01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_Neck_01/Bn_Head_01/Bn_Helmet_01/Bn_R_Strap_A01/Bn_R_Strap_B01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_Neck_01/Bn_Head_01/Bn_Helmet_01/Bn_R_Strap_A01/Bn_R_Strap_B01/Bn_R_Strap_C01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_Neck_01/Bn_Head_01/Bn_Helmet_01/Bn_R_Strap_A01/Bn_R_Strap_B01/Bn_R_Strap_C01/Bn_R_Strap_D01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_Neck_01/Bn_Head_01/Bn_Helmet_01/Bn_R_Strap_A01/Bn_R_Strap_B01/Bn_R_Strap_C01/Bn_R_Strap_D01/Be_R_Strap_E01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_Neck_01/Bn_Head_01/Bn_L_Bottom_EyeLid_01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_Neck_01/Bn_Head_01/Bn_L_Bottom_EyeLid_01/Be_L_Bottom_EyeLid_01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_Neck_01/Bn_Head_01/Bn_L_CornerLip_A01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_Neck_01/Bn_Head_01/Bn_L_Eyeball_01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_Neck_01/Bn_Head_01/Bn_L_LowerLip_A01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_Neck_01/Bn_Head_01/Bn_L_Top_EyeLid_01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_Neck_01/Bn_Head_01/Bn_L_Top_EyeLid_01/Be_L_Top_EyeLid_01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_Neck_01/Bn_Head_01/Bn_L_TopBrow_A01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_Neck_01/Bn_Head_01/Bn_L_TopBrow_B01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_Neck_01/Bn_Head_01/Bn_L_TopBrow_C01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_Neck_01/Bn_Head_01/Bn_L_UpperLip_A01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_Neck_01/Bn_Head_01/Bn_Mid_LowerLip_01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_Neck_01/Bn_Head_01/Bn_Mid_UpperLip_C01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_Neck_01/Bn_Head_01/Bn_R_CornerLip_A01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_Neck_01/Bn_Head_01/Bn_R_Eyeball_01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_Neck_01/Bn_Head_01/Bn_R_LowerLip_A01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_Neck_01/Bn_Head_01/Bn_R_Top_EyeLid_01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_Neck_01/Bn_Head_01/Bn_R_Top_EyeLid_01/Be_R_Bottom_EyeLid_01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_Neck_01/Bn_Head_01/Bn_R_Top_EyeLid_02
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_Neck_01/Bn_Head_01/Bn_R_Top_EyeLid_02/Be_R_Top_EyeLid_01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_Neck_01/Bn_Head_01/Bn_R_TopBrow_A01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_Neck_01/Bn_Head_01/Bn_R_TopBrow_B01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_Neck_01/Bn_Head_01/Bn_R_TopBrow_C01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_Neck_01/Bn_Head_01/Bn_R_UpperLip_A01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_Neck_01/Bn_Head_01/jaw
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_Neck_01/Bn_Head_01/jaw/Be_LowerTeeth_Jaw_01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_Neck_01/Bn_Head_01/jaw/Be_LowerTeeth_Jaw_01/Bn_LowerTeeth_01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_Neck_01/Bn_Head_01/jaw/Bn_Chin_01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_Neck_01/Bn_Head_01/jaw/Bn_Tongue_A01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_Neck_01/Bn_Head_01/jaw/Bn_Tongue_A01/Bn_Tongue_B01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_Neck_01/Bn_Head_01/jaw/Bn_Tongue_A01/Bn_Tongue_B01/Bn_L_Tongue_B_A01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_Neck_01/Bn_Head_01/jaw/Bn_Tongue_A01/Bn_Tongue_B01/Bn_L_Tongue_B_A01/Bn_L_Tongue_B_B01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_Neck_01/Bn_Head_01/jaw/Bn_Tongue_A01/Bn_Tongue_B01/Bn_R_Tongue_B_A01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_Neck_01/Bn_Head_01/jaw/Bn_Tongue_A01/Bn_Tongue_B01/Bn_R_Tongue_B_A01/Bn_R_Tongue_B_B01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_Neck_01/Bn_Head_01/jaw/Bn_Tongue_A01/Bn_Tongue_B01/Bn_Tongue_C01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_Neck_01/Bn_Head_01/jaw/Bn_Tongue_A01/Bn_Tongue_B01/Bn_Tongue_C01/Bn_L_Tongue_C_A01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_Neck_01/Bn_Head_01/jaw/Bn_Tongue_A01/Bn_Tongue_B01/Bn_Tongue_C01/Bn_L_Tongue_C_A01/Bn_L_Tongue_C_B01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_Neck_01/Bn_Head_01/jaw/Bn_Tongue_A01/Bn_Tongue_B01/Bn_Tongue_C01/Bn_R_Tongue_C_A01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_Neck_01/Bn_Head_01/jaw/Bn_Tongue_A01/Bn_Tongue_B01/Bn_Tongue_C01/Bn_R_Tongue_C_A01/Bn_R_Tongue_C_B01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_Neck_01/Bn_Head_01/jaw/Bn_Tongue_A01/Bn_Tongue_B01/Bn_Tongue_C01/Bn_Tongue_D01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_Neck_01/Bn_Head_01/jaw/Bn_Tongue_A01/Bn_Tongue_B01/Bn_Tongue_C01/Bn_Tongue_D01/Be_Tongue_E01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_Neck_01/Bn_Head_01/jaw/Bn_Tongue_A01/Bn_Tongue_B01/Bn_Tongue_C01/Bn_Tongue_D01/Bn_L_Tongue_D_A02
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_Neck_01/Bn_Head_01/jaw/Bn_Tongue_A01/Bn_Tongue_B01/Bn_Tongue_C01/Bn_Tongue_D01/Bn_L_Tongue_D_A02/Bn_L_Tongue_D_B01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_Neck_01/Bn_Head_01/jaw/Bn_Tongue_A01/Bn_Tongue_B01/Bn_Tongue_C01/Bn_Tongue_D01/Bn_R_Tongue_D_A02
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_Neck_01/Bn_Head_01/jaw/Bn_Tongue_A01/Bn_Tongue_B01/Bn_Tongue_C01/Bn_Tongue_D01/Bn_R_Tongue_D_A02/Bn_R_Tongue_D_B01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_Neck_01/Bn_Head_01/JDrv_Googles_01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_Neck_01/Bn_Head_01/JDrv_Googles_01/Bn_L_GoggleStrap_E01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_Neck_01/Bn_Head_01/JDrv_Googles_01/Bn_L_GoggleStrap_E01/Bn_L_Goggle_Hinge_A01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_Neck_01/Bn_Head_01/JDrv_Googles_01/Bn_L_GoggleStrap_E01/Bn_L_Goggle_Hinge_A01/Bn_L_Goggle_hinge_B01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_Neck_01/Bn_Head_01/JDrv_Googles_01/Bn_L_GoggleStrap_E01/Bn_L_Goggle_Hinge_A01/Bn_L_Goggle_hinge_B01/Bn_L_Goggle_Hinge_B02
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_Neck_01/Bn_Head_01/JDrv_Googles_01/Bn_L_GoggleStrap_E01/Bn_L_Goggle_Hinge_A01/Bn_L_Goggle_hinge_B01/Bn_L_Goggle_Hinge_B02/Bn_L_Goggle_C01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_Neck_01/Bn_Head_01/JDrv_Googles_01/Bn_L_GoggleStrap_E01/Bn_L_Goggle_Hinge_A01/Bn_L_Goggle_hinge_B01/Bn_L_Goggle_Hinge_B02/Bn_L_Goggle_C01/Bn_L_Goggle_D01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_Neck_01/Bn_Head_01/JDrv_Googles_01/Bn_L_GoggleStrap_E01/Bn_L_Goggle_Hinge_A01/Bn_L_Goggle_hinge_B01/Bn_L_Goggle_Hinge_B02/Bn_L_Goggle_C01/Bn_L_Goggle_D01/Bn_L_Goggle_E01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_Neck_01/Bn_Head_01/JDrv_Googles_01/Bn_L_GoggleStrap_E01/Bn_L_Goggle_Hinge_A01/Bn_L_Goggle_hinge_B01/Bn_L_Goggle_Hinge_B02/Bn_L_Goggle_C01/Bn_L_Goggle_D01/Bn_L_Goggle_E01/Bn_L_Goggle_F01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_Neck_01/Bn_Head_01/JDrv_Googles_01/Bn_R_GoggleStrap_E01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_Neck_01/Bn_Head_01/JDrv_Googles_01/Bn_R_GoggleStrap_E01/Bn_R_Goggle_Hinge_A01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_Neck_01/Bn_Head_01/JDrv_Googles_01/Bn_R_GoggleStrap_E01/Bn_R_Goggle_Hinge_A01/IK_R_Strap_Hinge_B01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_Neck_01/Bn_Head_01/JDrv_Googles_01/Bn_R_GoggleStrap_E01/Bn_R_Goggle_Hinge_A01/IK_R_Strap_Hinge_B01/Bn_R_Goggle_Hinge_B02
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_Neck_01/Bn_Head_01/JDrv_Googles_01/Bn_R_GoggleStrap_E01/Bn_R_Goggle_Hinge_A01/IK_R_Strap_Hinge_B01/Bn_R_Goggle_Hinge_B02/Bn_R_Goggle_C01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_Neck_01/Bn_Head_01/JDrv_Googles_01/Bn_R_GoggleStrap_E01/Bn_R_Goggle_Hinge_A01/IK_R_Strap_Hinge_B01/Bn_R_Goggle_Hinge_B02/Bn_R_Goggle_C01/Bn_R_Goggle_D01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_Neck_01/Bn_Head_01/JDrv_Googles_01/Bn_R_GoggleStrap_E01/Bn_R_Goggle_Hinge_A01/IK_R_Strap_Hinge_B01/Bn_R_Goggle_Hinge_B02/Bn_R_Goggle_C01/Bn_R_Goggle_D01/Bn_R_Goggle_E01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_Neck_01/Bn_Head_01/JDrv_Googles_01/Bn_R_GoggleStrap_E01/Bn_R_Goggle_Hinge_A01/IK_R_Strap_Hinge_B01/Bn_R_Goggle_Hinge_B02/Bn_R_Goggle_C01/Bn_R_Goggle_D01/Bn_R_Goggle_E01/Bn_R_Goggle_F01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_Neck_01/Bn_Head_01/JDrv_UpperTeeth_01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_Neck_01/Bn_Head_01/JDrv_UpperTeeth_01/Bn_UpperTeeth_01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_R_Shld_01
+    m_Weight: 0
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_R_Shld_01/Bn_R_Shoulder_ScaleHolder_01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_R_Shld_01/Bn_R_Shoulder_ScaleHolder_01/Bn_R_Arm_01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_R_Shld_01/Bn_R_Shoulder_ScaleHolder_01/Bn_R_Elbow_ScaleHolder_01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_R_Shld_01/Bn_R_Shoulder_ScaleHolder_01/Bn_R_Elbow_ScaleHolder_01/Bn_R_Elbow_01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_R_Shld_01/Bn_R_Shoulder_ScaleHolder_01/Bn_R_Elbow_ScaleHolder_01/BN_R_Forearm_01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_R_Shld_01/Bn_R_Shoulder_ScaleHolder_01/Bn_R_Elbow_ScaleHolder_01/Bn_R_Wrist_01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_R_Shld_01/Bn_R_Shoulder_ScaleHolder_01/Bn_R_Elbow_ScaleHolder_01/Bn_R_Wrist_01/Be_R_HandEnd_01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_R_Shld_01/Bn_R_Shoulder_ScaleHolder_01/Bn_R_Elbow_ScaleHolder_01/Bn_R_Wrist_01/Be_R_HandEnd_01/Bn_R_Index_A_A01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_R_Shld_01/Bn_R_Shoulder_ScaleHolder_01/Bn_R_Elbow_ScaleHolder_01/Bn_R_Wrist_01/Be_R_HandEnd_01/Bn_R_Index_A_A01/Bn_R_Index_A_B01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_R_Shld_01/Bn_R_Shoulder_ScaleHolder_01/Bn_R_Elbow_ScaleHolder_01/Bn_R_Wrist_01/Be_R_HandEnd_01/Bn_R_Index_A_A01/Bn_R_Index_A_B01/Bn_R_Index_B_A01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_R_Shld_01/Bn_R_Shoulder_ScaleHolder_01/Bn_R_Elbow_ScaleHolder_01/Bn_R_Wrist_01/Be_R_HandEnd_01/Bn_R_Index_A_A01/Bn_R_Index_A_B01/Bn_R_Index_B_A01/Bn_R_Index_B_B01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_R_Shld_01/Bn_R_Shoulder_ScaleHolder_01/Bn_R_Elbow_ScaleHolder_01/Bn_R_Wrist_01/Be_R_HandEnd_01/Bn_R_Index_A_A01/Bn_R_Index_A_B01/Bn_R_Index_B_A01/Bn_R_Index_B_B01/Bn_R_Index_C_A01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_R_Shld_01/Bn_R_Shoulder_ScaleHolder_01/Bn_R_Elbow_ScaleHolder_01/Bn_R_Wrist_01/Be_R_HandEnd_01/Bn_R_Index_A_A01/Bn_R_Index_A_B01/Bn_R_Index_B_A01/Bn_R_Index_B_B01/Bn_R_Index_C_A01/Bn_R_Index_C_B01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_R_Shld_01/Bn_R_Shoulder_ScaleHolder_01/Bn_R_Elbow_ScaleHolder_01/Bn_R_Wrist_01/Be_R_HandEnd_01/Bn_R_Index_A_A01/Bn_R_Index_A_B01/Bn_R_Index_B_A01/Bn_R_Index_B_B01/Bn_R_Index_C_A01/Bn_R_Index_C_B01/Be_R_IndexEnd_01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_R_Shld_01/Bn_R_Shoulder_ScaleHolder_01/Bn_R_Elbow_ScaleHolder_01/Bn_R_Wrist_01/Be_R_HandEnd_01/Bn_R_Middle_A_A01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_R_Shld_01/Bn_R_Shoulder_ScaleHolder_01/Bn_R_Elbow_ScaleHolder_01/Bn_R_Wrist_01/Be_R_HandEnd_01/Bn_R_Middle_A_A01/Bn_R_Middle_A_B01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_R_Shld_01/Bn_R_Shoulder_ScaleHolder_01/Bn_R_Elbow_ScaleHolder_01/Bn_R_Wrist_01/Be_R_HandEnd_01/Bn_R_Middle_A_A01/Bn_R_Middle_A_B01/Bn_R_Middle_B_A01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_R_Shld_01/Bn_R_Shoulder_ScaleHolder_01/Bn_R_Elbow_ScaleHolder_01/Bn_R_Wrist_01/Be_R_HandEnd_01/Bn_R_Middle_A_A01/Bn_R_Middle_A_B01/Bn_R_Middle_B_A01/Bn_R_Middle_B_B01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_R_Shld_01/Bn_R_Shoulder_ScaleHolder_01/Bn_R_Elbow_ScaleHolder_01/Bn_R_Wrist_01/Be_R_HandEnd_01/Bn_R_Middle_A_A01/Bn_R_Middle_A_B01/Bn_R_Middle_B_A01/Bn_R_Middle_B_B01/Bn_R_Middle_C_A01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_R_Shld_01/Bn_R_Shoulder_ScaleHolder_01/Bn_R_Elbow_ScaleHolder_01/Bn_R_Wrist_01/Be_R_HandEnd_01/Bn_R_Middle_A_A01/Bn_R_Middle_A_B01/Bn_R_Middle_B_A01/Bn_R_Middle_B_B01/Bn_R_Middle_C_A01/Bn_R_Middle_C_B01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_R_Shld_01/Bn_R_Shoulder_ScaleHolder_01/Bn_R_Elbow_ScaleHolder_01/Bn_R_Wrist_01/Be_R_HandEnd_01/Bn_R_Middle_A_A01/Bn_R_Middle_A_B01/Bn_R_Middle_B_A01/Bn_R_Middle_B_B01/Bn_R_Middle_C_A01/Bn_R_Middle_C_B01/Be_R_MiddleEnd_01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_R_Shld_01/Bn_R_Shoulder_ScaleHolder_01/Bn_R_Elbow_ScaleHolder_01/Bn_R_Wrist_01/Be_R_HandEnd_01/Bn_R_Pinky_A01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_R_Shld_01/Bn_R_Shoulder_ScaleHolder_01/Bn_R_Elbow_ScaleHolder_01/Bn_R_Wrist_01/Be_R_HandEnd_01/Bn_R_Pinky_A01/Bn_R_Pinky_B_A01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_R_Shld_01/Bn_R_Shoulder_ScaleHolder_01/Bn_R_Elbow_ScaleHolder_01/Bn_R_Wrist_01/Be_R_HandEnd_01/Bn_R_Pinky_A01/Bn_R_Pinky_B_A01/Bn_R_Pinky_B_B01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_R_Shld_01/Bn_R_Shoulder_ScaleHolder_01/Bn_R_Elbow_ScaleHolder_01/Bn_R_Wrist_01/Be_R_HandEnd_01/Bn_R_Pinky_A01/Bn_R_Pinky_B_A01/Bn_R_Pinky_B_B01/Bn_R_Pinky_C_A01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_R_Shld_01/Bn_R_Shoulder_ScaleHolder_01/Bn_R_Elbow_ScaleHolder_01/Bn_R_Wrist_01/Be_R_HandEnd_01/Bn_R_Pinky_A01/Bn_R_Pinky_B_A01/Bn_R_Pinky_B_B01/Bn_R_Pinky_C_A01/Bn_R_Pinky_C_B01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_R_Shld_01/Bn_R_Shoulder_ScaleHolder_01/Bn_R_Elbow_ScaleHolder_01/Bn_R_Wrist_01/Be_R_HandEnd_01/Bn_R_Pinky_A01/Bn_R_Pinky_B_A01/Bn_R_Pinky_B_B01/Bn_R_Pinky_C_A01/Bn_R_Pinky_C_B01/Bn_R_Pinky_D_A01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_R_Shld_01/Bn_R_Shoulder_ScaleHolder_01/Bn_R_Elbow_ScaleHolder_01/Bn_R_Wrist_01/Be_R_HandEnd_01/Bn_R_Pinky_A01/Bn_R_Pinky_B_A01/Bn_R_Pinky_B_B01/Bn_R_Pinky_C_A01/Bn_R_Pinky_C_B01/Bn_R_Pinky_D_A01/Bn_R_Pinky_D_B01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_R_Shld_01/Bn_R_Shoulder_ScaleHolder_01/Bn_R_Elbow_ScaleHolder_01/Bn_R_Wrist_01/Be_R_HandEnd_01/Bn_R_Pinky_A01/Bn_R_Pinky_B_A01/Bn_R_Pinky_B_B01/Bn_R_Pinky_C_A01/Bn_R_Pinky_C_B01/Bn_R_Pinky_D_A01/Bn_R_Pinky_D_B01/Be_R_PinkyEnd_B01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_R_Shld_01/Bn_R_Shoulder_ScaleHolder_01/Bn_R_Elbow_ScaleHolder_01/Bn_R_Wrist_01/Be_R_HandEnd_01/Bn_R_Ring_A_A01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_R_Shld_01/Bn_R_Shoulder_ScaleHolder_01/Bn_R_Elbow_ScaleHolder_01/Bn_R_Wrist_01/Be_R_HandEnd_01/Bn_R_Ring_A_A01/Bn_R_Ring_A_B01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_R_Shld_01/Bn_R_Shoulder_ScaleHolder_01/Bn_R_Elbow_ScaleHolder_01/Bn_R_Wrist_01/Be_R_HandEnd_01/Bn_R_Ring_A_A01/Bn_R_Ring_A_B01/Bn_R_Ring_B_A01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_R_Shld_01/Bn_R_Shoulder_ScaleHolder_01/Bn_R_Elbow_ScaleHolder_01/Bn_R_Wrist_01/Be_R_HandEnd_01/Bn_R_Ring_A_A01/Bn_R_Ring_A_B01/Bn_R_Ring_B_A01/Bn_R_Ring_B_B01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_R_Shld_01/Bn_R_Shoulder_ScaleHolder_01/Bn_R_Elbow_ScaleHolder_01/Bn_R_Wrist_01/Be_R_HandEnd_01/Bn_R_Ring_A_A01/Bn_R_Ring_A_B01/Bn_R_Ring_B_A01/Bn_R_Ring_B_B01/Bn_R_Ring_C_A01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_R_Shld_01/Bn_R_Shoulder_ScaleHolder_01/Bn_R_Elbow_ScaleHolder_01/Bn_R_Wrist_01/Be_R_HandEnd_01/Bn_R_Ring_A_A01/Bn_R_Ring_A_B01/Bn_R_Ring_B_A01/Bn_R_Ring_B_B01/Bn_R_Ring_C_A01/Bn_R_Ring_C_B01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_R_Shld_01/Bn_R_Shoulder_ScaleHolder_01/Bn_R_Elbow_ScaleHolder_01/Bn_R_Wrist_01/Be_R_HandEnd_01/Bn_R_Ring_A_A01/Bn_R_Ring_A_B01/Bn_R_Ring_B_A01/Bn_R_Ring_B_B01/Bn_R_Ring_C_A01/Bn_R_Ring_C_B01/Be_R_RingEnd_01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_R_Shld_01/Bn_R_Shoulder_ScaleHolder_01/Bn_R_Elbow_ScaleHolder_01/Bn_R_Wrist_01/Be_R_HandEnd_01/Bn_R_Thumb_A01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_R_Shld_01/Bn_R_Shoulder_ScaleHolder_01/Bn_R_Elbow_ScaleHolder_01/Bn_R_Wrist_01/Be_R_HandEnd_01/Bn_R_Thumb_A01/Bn_R_Thumb_B_A01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_R_Shld_01/Bn_R_Shoulder_ScaleHolder_01/Bn_R_Elbow_ScaleHolder_01/Bn_R_Wrist_01/Be_R_HandEnd_01/Bn_R_Thumb_A01/Bn_R_Thumb_B_A01/Bn_R_Thumb_B_B01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_R_Shld_01/Bn_R_Shoulder_ScaleHolder_01/Bn_R_Elbow_ScaleHolder_01/Bn_R_Wrist_01/Be_R_HandEnd_01/Bn_R_Thumb_A01/Bn_R_Thumb_B_A01/Bn_R_Thumb_B_B01/Bn_R_Thumb_C_A01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_R_Shld_01/Bn_R_Shoulder_ScaleHolder_01/Bn_R_Elbow_ScaleHolder_01/Bn_R_Wrist_01/Be_R_HandEnd_01/Bn_R_Thumb_A01/Bn_R_Thumb_B_A01/Bn_R_Thumb_B_B01/Bn_R_Thumb_C_A01/Bn_R_Thumb_C_B01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/Bn_Sp_A01/Bn_Sp_E01/Bn_R_Shld_01/Bn_R_Shoulder_ScaleHolder_01/Bn_R_Elbow_ScaleHolder_01/Bn_R_Wrist_01/Be_R_HandEnd_01/Bn_R_Thumb_A01/Bn_R_Thumb_B_A01/Bn_R_Thumb_B_B01/Bn_R_Thumb_C_A01/Bn_R_Thumb_C_B01/Be_R_ThumbEnd_01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/GRP_Bn_Sd_L_Root_01
+    m_Weight: 0
+  - m_Path: GRP_Joints_01/GRP_Bn_Sd_L_Root_01/Bn_Sd_L_Root_01
+    m_Weight: 0
+  - m_Path: GRP_Joints_01/GRP_Bn_Sd_L_Root_01/Bn_Sd_L_Root_01/Bn_Sd_L_ball_A_01
+    m_Weight: 0
+  - m_Path: GRP_Joints_01/GRP_Bn_Sd_L_Root_01/Bn_Sd_L_Root_01/Bn_Sd_L_ball_A_01/Bn_L_Sd_top_01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/GRP_Bn_Sd_L_Root_01/Bn_Sd_L_Root_01/Bn_Sd_L_ball_A_01/Bn_Sd_L_Heel_01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/GRP_Bn_Sd_L_Root_01/Bn_Sd_L_Root_01/Bn_Sd_L_ball_B_01
+    m_Weight: 0
+  - m_Path: GRP_Joints_01/GRP_Bn_Sd_L_Root_01/Bn_Sd_L_Root_01/Bn_Sd_L_ball_B_01/Bn_Sd_L_Toe_01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/GRP_Bn_Sd_R_Root_01
+    m_Weight: 0
+  - m_Path: GRP_Joints_01/GRP_Bn_Sd_R_Root_01/Bn_Sd_R_Root_01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/GRP_Bn_Sd_R_Root_01/Bn_Sd_R_Root_01/Bn_Sd_R_ball_A_01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/GRP_Bn_Sd_R_Root_01/Bn_Sd_R_Root_01/Bn_Sd_R_ball_A_01/Bn_R_Sd_top_01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/GRP_Bn_Sd_R_Root_01/Bn_Sd_R_Root_01/Bn_Sd_R_ball_A_01/Bn_Sd_R_Heel_01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/GRP_Bn_Sd_R_Root_01/Bn_Sd_R_Root_01/Bn_Sd_R_ball_B_01
+    m_Weight: 1
+  - m_Path: GRP_Joints_01/GRP_Bn_Sd_R_Root_01/Bn_Sd_R_Root_01/Bn_Sd_R_ball_B_01/Bn_Sd_R_Toe_01
+    m_Weight: 1
+  - m_Path: Pack
+    m_Weight: 0

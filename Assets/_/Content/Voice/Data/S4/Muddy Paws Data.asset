@@ -1,0 +1,791 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ce46570c3332894ab99e7094ea2cd8b, type: 3}
+  m_Name: Muddy Paws Data
+  m_EditorClassIdentifier: 
+  muddyPawsQuestionList:
+  - ENGQuestionAudioClip: {fileID: 8300000, guid: fa0fda50933742b4ca0678ae9acddb17,
+      type: 3}
+    ENGPromptQuestionAudioClip: {fileID: 8300000, guid: 9999a8f9024e03e4495da43c4952b51a,
+      type: 3}
+    SSWQuestionAudioClip: {fileID: 8300000, guid: 7c12dff72c6c8804ba879ac1846c7c97,
+      type: 3}
+    SSWPromptQuestionAudioClip: {fileID: 8300000, guid: 13d358974eca69c4396478eac6cb1535,
+      type: 3}
+    StorySpriteSheet:
+    - {fileID: -1413600909, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 2136733704, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 1755193387, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -557273251, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 1372367012, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 1537397348, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 1258351177, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 193195029, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 42935565, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -1795298223, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -2051574652, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -1740277876, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 1351216601, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 1699921145, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -565995727, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -355812306, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 1476922681, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -1501306963, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 983892057, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 154180418, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 1142698430, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 2124103909, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 394164939, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 60943074, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -14698037, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -1170234406, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -1338559202, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 1046436124, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -1254486221, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 1958370788, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 313744255, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -1821844141, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -1814274531, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 1810720746, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 845240360, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -85364175, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 293942059, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -1295196162, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -1685266017, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -1499488222, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -843364967, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -1698442478, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -788865884, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -854878907, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -709251341, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 704081686, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 2113533923, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 74782076, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 533345572, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -1228659303, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -1469336638, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -497855474, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 1364960697, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -882607751, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -1580969682, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -1196790252, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 1485048388, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 786473858, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 154138131, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 1477414835, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 876282203, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -1214587391, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -383861090, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -537784579, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    MainQuestionSubtitle: 'Can you tell me: Where were Sam and his mom? Which room
+      were they in?'
+    NudgeQuestionSubtitle: 'Please tell me: Which room were they in?'
+    MaxVADRecordLength: 15
+    Completed: 1
+  - ENGQuestionAudioClip: {fileID: 8300000, guid: 455f92bfb60bfc145b64152baa54b904,
+      type: 3}
+    ENGPromptQuestionAudioClip: {fileID: 8300000, guid: aa3a3f34f428c8b43ae19a95764933f3,
+      type: 3}
+    SSWQuestionAudioClip: {fileID: 8300000, guid: 0f71db7d137fd0a478f62446e7b0dd49,
+      type: 3}
+    SSWPromptQuestionAudioClip: {fileID: 8300000, guid: 3bcaa0e86cc523841b2d2211813df02f,
+      type: 3}
+    StorySpriteSheet:
+    - {fileID: -1413600909, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 2136733704, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 1755193387, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -557273251, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 1372367012, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 1537397348, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 1258351177, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 193195029, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 42935565, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -1795298223, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -2051574652, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -1740277876, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 1351216601, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 1699921145, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -565995727, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -355812306, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 1476922681, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -1501306963, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 983892057, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 154180418, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 1142698430, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 2124103909, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 394164939, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 60943074, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -14698037, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -1170234406, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -1338559202, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 1046436124, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -1254486221, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 1958370788, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 313744255, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -1821844141, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -1814274531, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 1810720746, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 845240360, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -85364175, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 293942059, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -1295196162, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -1685266017, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -1499488222, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -843364967, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -1698442478, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -788865884, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -854878907, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -709251341, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 704081686, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 2113533923, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 74782076, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 533345572, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -1228659303, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -1469336638, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -497855474, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 1364960697, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -882607751, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -1580969682, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -1196790252, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 1485048388, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 786473858, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 154138131, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 1477414835, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 876282203, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -1214587391, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -383861090, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -537784579, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    MainQuestionSubtitle: 'Can you tell me more: What were Sam and his mom doing
+      in the kitchen?'
+    NudgeQuestionSubtitle: 'Please tell me: What were Sam and his mom doing in the
+      kitchen?'
+    MaxVADRecordLength: 15
+    Completed: 1
+  - ENGQuestionAudioClip: {fileID: 8300000, guid: f90effd2f3c6739499af7e61d9e86247,
+      type: 3}
+    ENGPromptQuestionAudioClip: {fileID: 8300000, guid: ddf1f5fd5e76ddd4c9ee469cf27ce046,
+      type: 3}
+    SSWQuestionAudioClip: {fileID: 8300000, guid: 85d964e05d06948478050dd3f7214da3,
+      type: 3}
+    SSWPromptQuestionAudioClip: {fileID: 8300000, guid: 1947b97dd1a772f4487b4faa34aaa78d,
+      type: 3}
+    StorySpriteSheet:
+    - {fileID: -1413600909, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 2136733704, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 1755193387, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -557273251, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 1372367012, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 1537397348, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 1258351177, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 193195029, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 42935565, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -1795298223, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -2051574652, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -1740277876, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 1351216601, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 1699921145, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -565995727, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -355812306, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 1476922681, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -1501306963, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 983892057, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 154180418, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 1142698430, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 2124103909, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 394164939, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 60943074, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -14698037, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -1170234406, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -1338559202, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 1046436124, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -1254486221, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 1958370788, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 313744255, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -1821844141, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -1814274531, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 1810720746, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 845240360, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -85364175, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 293942059, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -1295196162, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -1685266017, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -1499488222, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -843364967, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -1698442478, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -788865884, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -854878907, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -709251341, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 704081686, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 2113533923, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 74782076, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 533345572, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -1228659303, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -1469336638, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -497855474, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 1364960697, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -882607751, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -1580969682, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -1196790252, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 1485048388, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 786473858, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 154138131, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 1477414835, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 876282203, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -1214587391, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -383861090, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -537784579, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    MainQuestionSubtitle: "We could hear Spot while Sam\u2019s mom was making the
+      sandwich.\_ What was Spot doing?"
+    NudgeQuestionSubtitle: 'Please tell me: What was Spot doing?'
+    MaxVADRecordLength: 15
+    Completed: 1
+  - ENGQuestionAudioClip: {fileID: 8300000, guid: c29cd930b77a49444994326e6ccc3843,
+      type: 3}
+    ENGPromptQuestionAudioClip: {fileID: 8300000, guid: 126a98d460bf933438ca840c12827225,
+      type: 3}
+    SSWQuestionAudioClip: {fileID: 8300000, guid: cb923e0edafeec949b664b395e72481b,
+      type: 3}
+    SSWPromptQuestionAudioClip: {fileID: 8300000, guid: 2a52eb2d4a1705d4cbaddf46ec09bb99,
+      type: 3}
+    StorySpriteSheet:
+    - {fileID: -1413600909, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 2136733704, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 1755193387, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -557273251, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 1372367012, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 1537397348, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 1258351177, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 193195029, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 42935565, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -1795298223, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -2051574652, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -1740277876, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 1351216601, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 1699921145, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -565995727, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -355812306, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 1476922681, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -1501306963, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 983892057, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 154180418, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 1142698430, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 2124103909, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 394164939, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 60943074, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -14698037, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -1170234406, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -1338559202, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 1046436124, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -1254486221, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 1958370788, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 313744255, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -1821844141, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -1814274531, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 1810720746, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 845240360, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -85364175, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 293942059, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -1295196162, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -1685266017, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -1499488222, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -843364967, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -1698442478, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -788865884, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -854878907, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -709251341, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 704081686, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 2113533923, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 74782076, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 533345572, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -1228659303, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -1469336638, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -497855474, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 1364960697, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -882607751, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -1580969682, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -1196790252, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 1485048388, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 786473858, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 154138131, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 1477414835, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 876282203, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -1214587391, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -383861090, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -537784579, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    MainQuestionSubtitle: Mmmm... Spot was begging. And how did Spot feel?
+    NudgeQuestionSubtitle: 'Please tell me: How did Spot feel?'
+    MaxVADRecordLength: 15
+    Completed: 1
+  - ENGQuestionAudioClip: {fileID: 8300000, guid: 430e6eaefa6e5414d9d309b1a4d0e330,
+      type: 3}
+    ENGPromptQuestionAudioClip: {fileID: 8300000, guid: ad840c160414878418f998911b51fdaf,
+      type: 3}
+    SSWQuestionAudioClip: {fileID: 8300000, guid: d78b2f82735a73c45b5e28ee6bf29c23,
+      type: 3}
+    SSWPromptQuestionAudioClip: {fileID: 8300000, guid: ab01be62a5db5e6429a5ad7887c0c798,
+      type: 3}
+    StorySpriteSheet:
+    - {fileID: -1413600909, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 2136733704, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 1755193387, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -557273251, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 1372367012, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 1537397348, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 1258351177, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 193195029, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 42935565, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -1795298223, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -2051574652, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -1740277876, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 1351216601, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 1699921145, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -565995727, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -355812306, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 1476922681, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -1501306963, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 983892057, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 154180418, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 1142698430, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 2124103909, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 394164939, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 60943074, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -14698037, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -1170234406, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -1338559202, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 1046436124, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -1254486221, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 1958370788, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 313744255, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -1821844141, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -1814274531, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 1810720746, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 845240360, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -85364175, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 293942059, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -1295196162, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -1685266017, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -1499488222, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -843364967, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -1698442478, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -788865884, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -854878907, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -709251341, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 704081686, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 2113533923, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 74782076, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 533345572, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -1228659303, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -1469336638, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -497855474, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 1364960697, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -882607751, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -1580969682, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -1196790252, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 1485048388, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 786473858, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 154138131, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 1477414835, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: 876282203, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -1214587391, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -383861090, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    - {fileID: -537784579, guid: e87e57a7fc42e1545bfd60d5a44ce592, type: 3}
+    MainQuestionSubtitle: Mmm... Spot was hungry. So, did he have a plan?   What
+      was Spot's plan?
+    NudgeQuestionSubtitle: 'Please tell me: What was Spot''s plan?'
+    MaxVADRecordLength: 15
+    Completed: 1
+  - ENGQuestionAudioClip: {fileID: 8300000, guid: c8411783c7aa734478b9d3ba9c6ab9d4,
+      type: 3}
+    ENGPromptQuestionAudioClip: {fileID: 8300000, guid: 9c633bba04b18f2469b9d2c7e6bf309e,
+      type: 3}
+    SSWQuestionAudioClip: {fileID: 8300000, guid: 0028d85bbc2bc504eae6e4ba85536199,
+      type: 3}
+    SSWPromptQuestionAudioClip: {fileID: 8300000, guid: c28a3acbd9b683f46930d7ce44e25129,
+      type: 3}
+    StorySpriteSheet:
+    - {fileID: -1110453437, guid: 2397d65bf01accd40876f23690e94b2f, type: 3}
+    - {fileID: -2084890590, guid: 2397d65bf01accd40876f23690e94b2f, type: 3}
+    - {fileID: 219619432, guid: 2397d65bf01accd40876f23690e94b2f, type: 3}
+    - {fileID: -1024739310, guid: 2397d65bf01accd40876f23690e94b2f, type: 3}
+    - {fileID: 512403812, guid: 2397d65bf01accd40876f23690e94b2f, type: 3}
+    - {fileID: 450254185, guid: 2397d65bf01accd40876f23690e94b2f, type: 3}
+    - {fileID: 1627247429, guid: 2397d65bf01accd40876f23690e94b2f, type: 3}
+    - {fileID: -371751740, guid: 2397d65bf01accd40876f23690e94b2f, type: 3}
+    - {fileID: -493754700, guid: 2397d65bf01accd40876f23690e94b2f, type: 3}
+    - {fileID: -839602041, guid: 2397d65bf01accd40876f23690e94b2f, type: 3}
+    - {fileID: -1723794386, guid: 2397d65bf01accd40876f23690e94b2f, type: 3}
+    - {fileID: -1361969702, guid: 2397d65bf01accd40876f23690e94b2f, type: 3}
+    - {fileID: -1210251260, guid: 2397d65bf01accd40876f23690e94b2f, type: 3}
+    - {fileID: 2004123208, guid: 2397d65bf01accd40876f23690e94b2f, type: 3}
+    - {fileID: 471745399, guid: 2397d65bf01accd40876f23690e94b2f, type: 3}
+    - {fileID: 1116832532, guid: 2397d65bf01accd40876f23690e94b2f, type: 3}
+    - {fileID: -239759980, guid: 2397d65bf01accd40876f23690e94b2f, type: 3}
+    - {fileID: -1206458950, guid: 2397d65bf01accd40876f23690e94b2f, type: 3}
+    - {fileID: -1624390005, guid: 2397d65bf01accd40876f23690e94b2f, type: 3}
+    - {fileID: -26687939, guid: 2397d65bf01accd40876f23690e94b2f, type: 3}
+    - {fileID: 276251924, guid: 2397d65bf01accd40876f23690e94b2f, type: 3}
+    - {fileID: 238805009, guid: 2397d65bf01accd40876f23690e94b2f, type: 3}
+    - {fileID: -99528253, guid: 2397d65bf01accd40876f23690e94b2f, type: 3}
+    - {fileID: -33509459, guid: 2397d65bf01accd40876f23690e94b2f, type: 3}
+    - {fileID: 1113025922, guid: 2397d65bf01accd40876f23690e94b2f, type: 3}
+    - {fileID: 853290197, guid: 2397d65bf01accd40876f23690e94b2f, type: 3}
+    - {fileID: -1214679337, guid: 2397d65bf01accd40876f23690e94b2f, type: 3}
+    - {fileID: -1239752462, guid: 2397d65bf01accd40876f23690e94b2f, type: 3}
+    - {fileID: -1810934643, guid: 2397d65bf01accd40876f23690e94b2f, type: 3}
+    - {fileID: -1883315707, guid: 2397d65bf01accd40876f23690e94b2f, type: 3}
+    - {fileID: 1051902445, guid: 2397d65bf01accd40876f23690e94b2f, type: 3}
+    - {fileID: -1021838988, guid: 2397d65bf01accd40876f23690e94b2f, type: 3}
+    - {fileID: 1086983033, guid: 2397d65bf01accd40876f23690e94b2f, type: 3}
+    - {fileID: 1120937261, guid: 2397d65bf01accd40876f23690e94b2f, type: 3}
+    - {fileID: -280583019, guid: 2397d65bf01accd40876f23690e94b2f, type: 3}
+    - {fileID: 201206264, guid: 2397d65bf01accd40876f23690e94b2f, type: 3}
+    - {fileID: 706991741, guid: 2397d65bf01accd40876f23690e94b2f, type: 3}
+    - {fileID: -154056285, guid: 2397d65bf01accd40876f23690e94b2f, type: 3}
+    - {fileID: -118781584, guid: 2397d65bf01accd40876f23690e94b2f, type: 3}
+    - {fileID: 1210173029, guid: 2397d65bf01accd40876f23690e94b2f, type: 3}
+    - {fileID: 1156260845, guid: 2397d65bf01accd40876f23690e94b2f, type: 3}
+    - {fileID: 602749791, guid: 2397d65bf01accd40876f23690e94b2f, type: 3}
+    - {fileID: -1306901868, guid: 2397d65bf01accd40876f23690e94b2f, type: 3}
+    - {fileID: -1471145838, guid: 2397d65bf01accd40876f23690e94b2f, type: 3}
+    - {fileID: 1147124853, guid: 2397d65bf01accd40876f23690e94b2f, type: 3}
+    - {fileID: 1255831909, guid: 2397d65bf01accd40876f23690e94b2f, type: 3}
+    - {fileID: -844158036, guid: 2397d65bf01accd40876f23690e94b2f, type: 3}
+    - {fileID: 1366151603, guid: 2397d65bf01accd40876f23690e94b2f, type: 3}
+    - {fileID: 1388579098, guid: 2397d65bf01accd40876f23690e94b2f, type: 3}
+    - {fileID: 1941932662, guid: 2397d65bf01accd40876f23690e94b2f, type: 3}
+    - {fileID: 1891639028, guid: 2397d65bf01accd40876f23690e94b2f, type: 3}
+    - {fileID: -1786641480, guid: 2397d65bf01accd40876f23690e94b2f, type: 3}
+    - {fileID: -1196530364, guid: 2397d65bf01accd40876f23690e94b2f, type: 3}
+    - {fileID: -1146846412, guid: 2397d65bf01accd40876f23690e94b2f, type: 3}
+    - {fileID: 1486427657, guid: 2397d65bf01accd40876f23690e94b2f, type: 3}
+    - {fileID: -1478148018, guid: 2397d65bf01accd40876f23690e94b2f, type: 3}
+    - {fileID: 1816739027, guid: 2397d65bf01accd40876f23690e94b2f, type: 3}
+    - {fileID: 764005083, guid: 2397d65bf01accd40876f23690e94b2f, type: 3}
+    - {fileID: 1306632437, guid: 2397d65bf01accd40876f23690e94b2f, type: 3}
+    - {fileID: 1261063120, guid: 2397d65bf01accd40876f23690e94b2f, type: 3}
+    - {fileID: -483106019, guid: 2397d65bf01accd40876f23690e94b2f, type: 3}
+    - {fileID: -398481840, guid: 2397d65bf01accd40876f23690e94b2f, type: 3}
+    - {fileID: -1615047334, guid: 2397d65bf01accd40876f23690e94b2f, type: 3}
+    - {fileID: 1057278265, guid: 2397d65bf01accd40876f23690e94b2f, type: 3}
+    MainQuestionSubtitle: Where did Sam put the sandwich?
+    NudgeQuestionSubtitle: 'Please tell me: Where did Sam put the sandwich?'
+    MaxVADRecordLength: 15
+    Completed: 1
+  - ENGQuestionAudioClip: {fileID: 8300000, guid: a70f05b7fe4d51f42ba5f41a56e1429d,
+      type: 3}
+    ENGPromptQuestionAudioClip: {fileID: 8300000, guid: 39b63440f310d1547921da880849e1ae,
+      type: 3}
+    SSWQuestionAudioClip: {fileID: 8300000, guid: df75af7f82dfb98469db8bcc3ac17e0d,
+      type: 3}
+    SSWPromptQuestionAudioClip: {fileID: 8300000, guid: 879c04a9cb050ab469fb53a0a5bb3ef4,
+      type: 3}
+    StorySpriteSheet:
+    - {fileID: -301144983, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: -1723956455, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: 986222988, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: 1420267773, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: 208832318, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: -1941956319, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: 1378052382, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: -1599075368, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: 1339059139, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: -2079062526, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: -865809309, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: 2089709969, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: -1352728755, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: -181448317, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: 91799230, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: -881417308, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: -379253801, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: -1320757538, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: -950268832, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: -1987145246, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: 475635212, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: -1788859413, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: -502283312, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: -2101033390, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: 214897908, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: -2021781457, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: -1942806088, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: -1836665313, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: 24583778, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: -434782297, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: -1946082344, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: -1491721580, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: 1136341961, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: 1407663033, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: 1557336224, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: -1474797225, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: -57863930, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: -243533442, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: -1676359367, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: 1766601306, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: -898249306, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: 922992812, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: 1084410356, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: -2074452662, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: -338642740, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: 2093621957, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: -1954488749, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: 195097515, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: -238468503, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: 1528076402, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: -1985017644, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: -1595947954, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: -1834701297, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: 1272026237, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: 1716344548, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: 1399362589, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: 1325018257, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: -2074743287, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: 1770046008, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: -1522679788, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: -541433785, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: 1268965512, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: -1957131780, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: 494600302, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    MainQuestionSubtitle: After Sam put his sandwich in his bag, what happened next?
+    NudgeQuestionSubtitle: 'Please tell me: After Sam put his sandwich in his bag,
+      what happened next?'
+    MaxVADRecordLength: 15
+    Completed: 1
+  - ENGQuestionAudioClip: {fileID: 8300000, guid: fba5cac5051040c4e87543e84eec1996,
+      type: 3}
+    ENGPromptQuestionAudioClip: {fileID: 8300000, guid: 5e31c075be2a84f4ebafc13a79b342bc,
+      type: 3}
+    SSWQuestionAudioClip: {fileID: 8300000, guid: 64150b0fc4c8c584bada6597e12c90bf,
+      type: 3}
+    SSWPromptQuestionAudioClip: {fileID: 8300000, guid: f6e2e3d27e7fda94b9bfa8cd3939e4d3,
+      type: 3}
+    StorySpriteSheet: []
+    MainQuestionSubtitle: Okay, now can you please tell me the whole story from the
+      beginning?
+    NudgeQuestionSubtitle: Go on! Please tell me the whole story from the beginning. 
+      I'll listen!
+    MaxVADRecordLength: 45
+    Completed: 1
+  - ENGQuestionAudioClip: {fileID: 8300000, guid: 293312f6f0e079445af4b8f875d3dbb6,
+      type: 3}
+    ENGPromptQuestionAudioClip: {fileID: 8300000, guid: fb9a5a3e9ae0e834b97bf734d25449a9,
+      type: 3}
+    SSWQuestionAudioClip: {fileID: 8300000, guid: 3aed8772ee742864a91a7aa00a42c6b2,
+      type: 3}
+    SSWPromptQuestionAudioClip: {fileID: 8300000, guid: 59682edfc6a0aec428eae792a7f70991,
+      type: 3}
+    StorySpriteSheet:
+    - {fileID: -301144983, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: -1723956455, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: 986222988, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: 1420267773, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: 208832318, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: -1941956319, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: 1378052382, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: -1599075368, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: 1339059139, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: -2079062526, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: -865809309, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: 2089709969, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: -1352728755, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: -181448317, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: 91799230, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: -881417308, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: -379253801, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: -1320757538, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: -950268832, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: -1987145246, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: 475635212, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: -1788859413, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: -502283312, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: -2101033390, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: 214897908, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: -2021781457, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: -1942806088, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: -1836665313, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: 24583778, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: -434782297, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: -1946082344, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: -1491721580, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: 1136341961, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: 1407663033, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: 1557336224, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: -1474797225, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: -57863930, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: -243533442, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: -1676359367, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: 1766601306, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: -898249306, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: 922992812, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: 1084410356, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: -2074452662, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: -338642740, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: 2093621957, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: -1954488749, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: 195097515, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: -238468503, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: 1528076402, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: -1985017644, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: -1595947954, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: -1834701297, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: 1272026237, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: 1716344548, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: 1399362589, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: 1325018257, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: -2074743287, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: 1770046008, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: -1522679788, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: -541433785, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: 1268965512, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: -1957131780, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    - {fileID: 494600302, guid: 50701638b2b3d61428e586ea99518e23, type: 3}
+    MainQuestionSubtitle: "I\_am so glad you could tell me the whole story.\_Wait,
+      tell me again: Why did Spot go into Sam\u2019s school bag?"
+    NudgeQuestionSubtitle: 'Please remind me: Why did Spot go into Sam''s school
+      bag?'
+    MaxVADRecordLength: 15
+    Completed: 1
+  - ENGQuestionAudioClip: {fileID: 8300000, guid: f1e0eb2dbc932b746b88ec9dda978949,
+      type: 3}
+    ENGPromptQuestionAudioClip: {fileID: 8300000, guid: d005de55f3b822f4fbe66df61c20a460,
+      type: 3}
+    SSWQuestionAudioClip: {fileID: 8300000, guid: 01e8f42933a85204882be712abab3a23,
+      type: 3}
+    SSWPromptQuestionAudioClip: {fileID: 8300000, guid: 45dc9c5573e73f94c8e79bb610d05117,
+      type: 3}
+    StorySpriteSheet:
+    - {fileID: -1092708175, guid: e4a7ec4fc1521f14896a0a93d0e1ba63, type: 3}
+    - {fileID: 1829646977, guid: e4a7ec4fc1521f14896a0a93d0e1ba63, type: 3}
+    - {fileID: -971514009, guid: e4a7ec4fc1521f14896a0a93d0e1ba63, type: 3}
+    - {fileID: -140908253, guid: e4a7ec4fc1521f14896a0a93d0e1ba63, type: 3}
+    - {fileID: -459536360, guid: e4a7ec4fc1521f14896a0a93d0e1ba63, type: 3}
+    - {fileID: -157774663, guid: e4a7ec4fc1521f14896a0a93d0e1ba63, type: 3}
+    - {fileID: -496424969, guid: e4a7ec4fc1521f14896a0a93d0e1ba63, type: 3}
+    - {fileID: -58665383, guid: e4a7ec4fc1521f14896a0a93d0e1ba63, type: 3}
+    - {fileID: 1127932857, guid: e4a7ec4fc1521f14896a0a93d0e1ba63, type: 3}
+    - {fileID: 718750781, guid: e4a7ec4fc1521f14896a0a93d0e1ba63, type: 3}
+    - {fileID: -2025121627, guid: e4a7ec4fc1521f14896a0a93d0e1ba63, type: 3}
+    - {fileID: 360913786, guid: e4a7ec4fc1521f14896a0a93d0e1ba63, type: 3}
+    - {fileID: -1472625506, guid: e4a7ec4fc1521f14896a0a93d0e1ba63, type: 3}
+    - {fileID: 1275996762, guid: e4a7ec4fc1521f14896a0a93d0e1ba63, type: 3}
+    - {fileID: -857392094, guid: e4a7ec4fc1521f14896a0a93d0e1ba63, type: 3}
+    - {fileID: -139581213, guid: e4a7ec4fc1521f14896a0a93d0e1ba63, type: 3}
+    - {fileID: 280424290, guid: e4a7ec4fc1521f14896a0a93d0e1ba63, type: 3}
+    - {fileID: 958536384, guid: e4a7ec4fc1521f14896a0a93d0e1ba63, type: 3}
+    - {fileID: -958015662, guid: e4a7ec4fc1521f14896a0a93d0e1ba63, type: 3}
+    - {fileID: -324164862, guid: e4a7ec4fc1521f14896a0a93d0e1ba63, type: 3}
+    - {fileID: 692901297, guid: e4a7ec4fc1521f14896a0a93d0e1ba63, type: 3}
+    - {fileID: -744594995, guid: e4a7ec4fc1521f14896a0a93d0e1ba63, type: 3}
+    - {fileID: -61890820, guid: e4a7ec4fc1521f14896a0a93d0e1ba63, type: 3}
+    - {fileID: -2060908693, guid: e4a7ec4fc1521f14896a0a93d0e1ba63, type: 3}
+    - {fileID: -489845180, guid: e4a7ec4fc1521f14896a0a93d0e1ba63, type: 3}
+    - {fileID: 219556984, guid: e4a7ec4fc1521f14896a0a93d0e1ba63, type: 3}
+    - {fileID: 573089866, guid: e4a7ec4fc1521f14896a0a93d0e1ba63, type: 3}
+    - {fileID: 1707182585, guid: e4a7ec4fc1521f14896a0a93d0e1ba63, type: 3}
+    - {fileID: -1321999498, guid: e4a7ec4fc1521f14896a0a93d0e1ba63, type: 3}
+    - {fileID: 1358353957, guid: e4a7ec4fc1521f14896a0a93d0e1ba63, type: 3}
+    - {fileID: -155212075, guid: e4a7ec4fc1521f14896a0a93d0e1ba63, type: 3}
+    - {fileID: 856052929, guid: e4a7ec4fc1521f14896a0a93d0e1ba63, type: 3}
+    - {fileID: -558449485, guid: e4a7ec4fc1521f14896a0a93d0e1ba63, type: 3}
+    - {fileID: 1074725759, guid: e4a7ec4fc1521f14896a0a93d0e1ba63, type: 3}
+    - {fileID: -747052598, guid: e4a7ec4fc1521f14896a0a93d0e1ba63, type: 3}
+    - {fileID: -1793928089, guid: e4a7ec4fc1521f14896a0a93d0e1ba63, type: 3}
+    - {fileID: 1880713041, guid: e4a7ec4fc1521f14896a0a93d0e1ba63, type: 3}
+    - {fileID: -1804432626, guid: e4a7ec4fc1521f14896a0a93d0e1ba63, type: 3}
+    - {fileID: 2044251661, guid: e4a7ec4fc1521f14896a0a93d0e1ba63, type: 3}
+    - {fileID: 135628551, guid: e4a7ec4fc1521f14896a0a93d0e1ba63, type: 3}
+    - {fileID: -1332535107, guid: e4a7ec4fc1521f14896a0a93d0e1ba63, type: 3}
+    - {fileID: -1915003682, guid: e4a7ec4fc1521f14896a0a93d0e1ba63, type: 3}
+    - {fileID: 775533404, guid: e4a7ec4fc1521f14896a0a93d0e1ba63, type: 3}
+    - {fileID: 1771286035, guid: e4a7ec4fc1521f14896a0a93d0e1ba63, type: 3}
+    - {fileID: 1673832035, guid: e4a7ec4fc1521f14896a0a93d0e1ba63, type: 3}
+    - {fileID: -1994235407, guid: e4a7ec4fc1521f14896a0a93d0e1ba63, type: 3}
+    - {fileID: -1428974801, guid: e4a7ec4fc1521f14896a0a93d0e1ba63, type: 3}
+    - {fileID: 204292859, guid: e4a7ec4fc1521f14896a0a93d0e1ba63, type: 3}
+    - {fileID: 705652895, guid: e4a7ec4fc1521f14896a0a93d0e1ba63, type: 3}
+    - {fileID: 1707516992, guid: e4a7ec4fc1521f14896a0a93d0e1ba63, type: 3}
+    - {fileID: 1023040994, guid: e4a7ec4fc1521f14896a0a93d0e1ba63, type: 3}
+    - {fileID: -558596710, guid: e4a7ec4fc1521f14896a0a93d0e1ba63, type: 3}
+    - {fileID: 1224004410, guid: e4a7ec4fc1521f14896a0a93d0e1ba63, type: 3}
+    - {fileID: -377599081, guid: e4a7ec4fc1521f14896a0a93d0e1ba63, type: 3}
+    - {fileID: -437558511, guid: e4a7ec4fc1521f14896a0a93d0e1ba63, type: 3}
+    - {fileID: -1020234476, guid: e4a7ec4fc1521f14896a0a93d0e1ba63, type: 3}
+    - {fileID: 1742762631, guid: e4a7ec4fc1521f14896a0a93d0e1ba63, type: 3}
+    - {fileID: 1861208859, guid: e4a7ec4fc1521f14896a0a93d0e1ba63, type: 3}
+    - {fileID: -924320201, guid: e4a7ec4fc1521f14896a0a93d0e1ba63, type: 3}
+    - {fileID: 826318444, guid: e4a7ec4fc1521f14896a0a93d0e1ba63, type: 3}
+    - {fileID: 289182993, guid: e4a7ec4fc1521f14896a0a93d0e1ba63, type: 3}
+    - {fileID: -1458362303, guid: e4a7ec4fc1521f14896a0a93d0e1ba63, type: 3}
+    - {fileID: -1321332421, guid: e4a7ec4fc1521f14896a0a93d0e1ba63, type: 3}
+    - {fileID: 1482681339, guid: e4a7ec4fc1521f14896a0a93d0e1ba63, type: 3}
+    MainQuestionSubtitle: How did Sam feel when he came back and found the mess that
+      Spot made?
+    NudgeQuestionSubtitle: 'Please tell me: How did Sam feel?'
+    MaxVADRecordLength: 15
+    Completed: 1
+  - ENGQuestionAudioClip: {fileID: 8300000, guid: 2ab669ccad2ade94bb564d108e6bcad6,
+      type: 3}
+    ENGPromptQuestionAudioClip: {fileID: 8300000, guid: e9d0f2b1d6d820640b7c0911e598e3c7,
+      type: 3}
+    SSWQuestionAudioClip: {fileID: 8300000, guid: 332793212f1b76e4095d3d5eda16d2f8,
+      type: 3}
+    SSWPromptQuestionAudioClip: {fileID: 8300000, guid: 7ab041966a3042f4d9e80958d97274a3,
+      type: 3}
+    StorySpriteSheet:
+    - {fileID: 1259517718, guid: 12a52ec8341498645997c7a2f45381e4, type: 3}
+    - {fileID: 1161370644, guid: 12a52ec8341498645997c7a2f45381e4, type: 3}
+    - {fileID: 177636269, guid: 12a52ec8341498645997c7a2f45381e4, type: 3}
+    - {fileID: 1456540856, guid: 12a52ec8341498645997c7a2f45381e4, type: 3}
+    - {fileID: 1805526487, guid: 12a52ec8341498645997c7a2f45381e4, type: 3}
+    - {fileID: 1381928296, guid: 12a52ec8341498645997c7a2f45381e4, type: 3}
+    - {fileID: -1389755038, guid: 12a52ec8341498645997c7a2f45381e4, type: 3}
+    - {fileID: 962648740, guid: 12a52ec8341498645997c7a2f45381e4, type: 3}
+    - {fileID: -1677723097, guid: 12a52ec8341498645997c7a2f45381e4, type: 3}
+    - {fileID: -1334261339, guid: 12a52ec8341498645997c7a2f45381e4, type: 3}
+    - {fileID: -584401258, guid: 12a52ec8341498645997c7a2f45381e4, type: 3}
+    - {fileID: -1303021568, guid: 12a52ec8341498645997c7a2f45381e4, type: 3}
+    - {fileID: 405830453, guid: 12a52ec8341498645997c7a2f45381e4, type: 3}
+    - {fileID: 824524634, guid: 12a52ec8341498645997c7a2f45381e4, type: 3}
+    - {fileID: 412783097, guid: 12a52ec8341498645997c7a2f45381e4, type: 3}
+    - {fileID: 1050121031, guid: 12a52ec8341498645997c7a2f45381e4, type: 3}
+    MainQuestionSubtitle: And how did Spot feel about making the mess?
+    NudgeQuestionSubtitle: 'Please tell me: How did Spot feel?'
+    MaxVADRecordLength: 15
+    Completed: 1
+  - ENGQuestionAudioClip: {fileID: 8300000, guid: 15439cda34157fa4789e0a8470c42a90,
+      type: 3}
+    ENGPromptQuestionAudioClip: {fileID: 8300000, guid: 8dd844f8b012e864f9543ec80389ed1d,
+      type: 3}
+    SSWQuestionAudioClip: {fileID: 8300000, guid: 4dd55245df436044db053c026263172e,
+      type: 3}
+    SSWPromptQuestionAudioClip: {fileID: 8300000, guid: d137d45ac2c5fa241bea2e9adad6180b,
+      type: 3}
+    StorySpriteSheet:
+    - {fileID: 210721441, guid: 39fb520db36a7e24eb0bc0a2a010d674, type: 3}
+    - {fileID: -1188005991, guid: 39fb520db36a7e24eb0bc0a2a010d674, type: 3}
+    - {fileID: 816193314, guid: 39fb520db36a7e24eb0bc0a2a010d674, type: 3}
+    - {fileID: 1121160058, guid: 39fb520db36a7e24eb0bc0a2a010d674, type: 3}
+    - {fileID: -1248844406, guid: 39fb520db36a7e24eb0bc0a2a010d674, type: 3}
+    - {fileID: 2031812869, guid: 39fb520db36a7e24eb0bc0a2a010d674, type: 3}
+    - {fileID: 1362035856, guid: 39fb520db36a7e24eb0bc0a2a010d674, type: 3}
+    - {fileID: 1188409575, guid: 39fb520db36a7e24eb0bc0a2a010d674, type: 3}
+    - {fileID: 1158938214, guid: 39fb520db36a7e24eb0bc0a2a010d674, type: 3}
+    - {fileID: 1479494519, guid: 39fb520db36a7e24eb0bc0a2a010d674, type: 3}
+    - {fileID: -506683072, guid: 39fb520db36a7e24eb0bc0a2a010d674, type: 3}
+    - {fileID: -830974601, guid: 39fb520db36a7e24eb0bc0a2a010d674, type: 3}
+    - {fileID: 1208355331, guid: 39fb520db36a7e24eb0bc0a2a010d674, type: 3}
+    - {fileID: -1021959330, guid: 39fb520db36a7e24eb0bc0a2a010d674, type: 3}
+    - {fileID: 1150504986, guid: 39fb520db36a7e24eb0bc0a2a010d674, type: 3}
+    - {fileID: -173583084, guid: 39fb520db36a7e24eb0bc0a2a010d674, type: 3}
+    MainQuestionSubtitle: Oh the mess! And why were there muddy prints on the school
+      papers?
+    NudgeQuestionSubtitle: 'Please tell me: Why were there muddy prints?'
+    MaxVADRecordLength: 15
+    Completed: 1

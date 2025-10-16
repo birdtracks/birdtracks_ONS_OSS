@@ -1,0 +1,63 @@
+
+Note: frame rate for these are 30 frames per second
+
+
+SCENE 04 Spritesheet start frames:
+
+
+Grasshopper_01: 175
+ 
+Spot: 943 start frame
+
+Grasshopper_02: 3236
+
+Grasshopper_03: 4695
+
+
+
+SCENE 03 SPRITESHEET START FRAME AND BREAKDOWN:
+
+
+
+Scene_3_Grasshopper_01: Start frame: 1672
+
+Scene_3_Grasshopper_02: Start frame: 2579
+
+
+Scene_3_Cats_and_frogs_01: Start frame: 1196
+Play once and go into next slide (sheet is 169 frames)
+
+Scene_3_Cats_and_frogs_02: Play once and go into next slide (sheet is 169 frames)
+
+Scene_3_Cats_and_frogs_03: Play once and go into next slide (sheet is 169 frames)
+
+Scene_3_Cats_and_frogs_04: Play once and go into next slide (sheet is 169 frames)
+
+Scene_3_Cats_and_frogs_05: Play once. (sheet is 169 frames)
+
+
+
+SCENE 02 SPRITESHEET START FRAME AND BREAKDOWN:
+
+There will be 3 spritesheets with a flying loop, you can choose 2 butterflies to use (I recommended the purple and orange one as the yellow one is used in scene 1), they can just play on loop.
+
+Butterfly 1 can start on frame: 180
+
+Butterfly 2 can start: 2190
+
+
+SCENE 01 SPRITESHEET START FRAME AND BREAKDOWN:
+
+
+Scene_01_Butterfly_01A: Start frame 1698
+Scene_01_Butterfly_01B: Start immediately after A
+
+Scene_01_chicks-and_nest: Start frame 1952
+
+Scene_01_Butterfly_02A: Start frame 2224 -----> This aniamtion is the same as the above, just flipped the otherway, so if it will help reduce the size of teh game you can use the above spritesheet for this animation
+Scene_01_Butterfly_02B: Start immediately after A
+
+Scene_01_Butterfly_03: Start frame 2958 and loop the animation (this is just a flying loop so it can play on repeat)
+
+
+

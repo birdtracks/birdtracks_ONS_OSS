@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00239477b0149f748b8e81a511ec9340, type: 3}
+  m_Name: QuestionData_S1_01
+  m_EditorClassIdentifier: 
+  questionText: Well, what did you see up there?
+  ENGQuestionAudioClip: {fileID: 8300000, guid: 3db77581d4cdbab41a7cb3d30055b074,
+    type: 3}
+  SSWQuestionAudioClip: {fileID: 8300000, guid: 9b46f41252eec474b905a094a1350192,
+    type: 3}
+  ENGPromptQuestionAudioClip: {fileID: 8300000, guid: d83b88b60e2412c48a274108012b5e06,
+    type: 3}
+  SSWPromptQuestionAudioClip: {fileID: 8300000, guid: 6296cbffae7d13140a7112ce6285a723,
+    type: 3}
+  ENGAcknowledgeAnswerAudioClipP1: {fileID: 8300000, guid: 6941bf3ee649a1a4683e3925c43e0ce5,
+    type: 3}
+  ENGAcknowledgeAnswerAudioClipP2: {fileID: 8300000, guid: 5abc92b4dab33e2459b2ff60ccaea53c,
+    type: 3}
+  SSWAcknowledgeAnswerAudioClipP1: {fileID: 8300000, guid: bb78c978bff5ecd41931431e356c6451,
+    type: 3}
+  SSWAcknowledgeAnswerAudioClipP2: {fileID: 8300000, guid: 705915d2302f2764496ce4ea6cb38aaa,
+    type: 3}
+  questions:
+  - Image: {fileID: 21300000, guid: e83dc50167d5a3b40aa454e03839bbb1, type: 3}
+    IsCorrectAnswer: 0
+  - Image: {fileID: 21300000, guid: 229da41b9e2c07f4dbd28cf503782475, type: 3}
+    IsCorrectAnswer: 0
+  - Image: {fileID: 21300000, guid: 7abdcaa0192c5a746beca39311c567e8, type: 3}
+    IsCorrectAnswer: 1

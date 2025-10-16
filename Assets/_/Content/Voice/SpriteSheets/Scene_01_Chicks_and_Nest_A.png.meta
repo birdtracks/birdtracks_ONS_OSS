@@ -1,0 +1,3858 @@
+fileFormatVersion: 2
+guid: 479dd9728cbbae04f89dfe54cc4c52c9
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5472.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0b8fde07a40164aac163c7a7f97fe9
+      internalID: 862937079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_1
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 5472.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b4c5fca54d31d4f956c6af1fb1066a
+      internalID: -1658775221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_2
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 5472.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8fdee1b602f9649845d33c24336ec7
+      internalID: -273170009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_3
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 5472.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce2a0b4c4419c24d907a281d7b473a7
+      internalID: -1909764088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_4
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 5472.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c87d061ad8d1d4d81b6bb12db9dc03
+      internalID: 1891366176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_5
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 5472.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8051b83502650244b3876f1508dd1d9
+      internalID: -959472346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_6
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 5472.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72841d1fafd21a4b96ddbe9dda7c95c
+      internalID: -1530505077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_7
+      rect:
+        serializedVersion: 2
+        x: 3192
+        y: 5472.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d046ad06e3af7d4d847672a0011d5d1
+      internalID: 170715402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_8
+      rect:
+        serializedVersion: 2
+        x: 3648
+        y: 5472.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1254ce04bc5bec24581831ff4df7ef26
+      internalID: -89977477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_9
+      rect:
+        serializedVersion: 2
+        x: 4104
+        y: 5472.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0df3521cddea3c42ba41fd47c902f35
+      internalID: -1231003101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_10
+      rect:
+        serializedVersion: 2
+        x: 4560
+        y: 5472.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101c659a31ef5704e80bd02d466331c6
+      internalID: -888695412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_11
+      rect:
+        serializedVersion: 2
+        x: 5016
+        y: 5472.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d8e794cb26688e46a65316db5b1a318
+      internalID: -2001005077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_12
+      rect:
+        serializedVersion: 2
+        x: 5472
+        y: 5472.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d27eeed04550c41b195c24469bf864
+      internalID: -1268859794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5016.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2974ef04821067f4784e677b27cf01c4
+      internalID: 1518913739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_14
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 5016.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c5ac4eee0728f4ba2e8ed11a1d53b4
+      internalID: -273831441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_15
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 5016.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ba4ad6b68381e458440abe007486cb
+      internalID: 609791559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_16
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 5016.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186aa88b19efd19458a364d5061befbf
+      internalID: 1935038645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_17
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 5016.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083e7122d887bff4dbf9771ca7ff7993
+      internalID: -1347909378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_18
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 5016.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 078e5b7862fbec248aa0ebcca651e0fe
+      internalID: 337569492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_19
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 5016.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e464bb6e374ea54e8e25cd8ffffe13c
+      internalID: 2085520530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_20
+      rect:
+        serializedVersion: 2
+        x: 3192
+        y: 5016.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9b8e43e6a3a6b4086ada29dd35e5b9
+      internalID: 199932574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_21
+      rect:
+        serializedVersion: 2
+        x: 3648
+        y: 5016.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d29bdc24f42d5314e85aaa5feb638acc
+      internalID: -1749742594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_22
+      rect:
+        serializedVersion: 2
+        x: 4104
+        y: 5016.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 920089aacb554464a835c2b64c4874b1
+      internalID: 845479639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_23
+      rect:
+        serializedVersion: 2
+        x: 4560
+        y: 5016.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082163a3f99a9d14d926ca9f6234dfa7
+      internalID: -1633336304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_24
+      rect:
+        serializedVersion: 2
+        x: 5016
+        y: 5016.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd14a17424158ec4686a2aa890fd16da
+      internalID: 1695665369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_25
+      rect:
+        serializedVersion: 2
+        x: 5472
+        y: 5016.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd40441ce312c3946a37b4e3bd06acee
+      internalID: 986619960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4560.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43cb73c624162754aaceb288fd1370fe
+      internalID: 499307243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_27
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 4560.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae432b5f99732f046af1b4de493b3d19
+      internalID: -2069724847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_28
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 4560.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2826199abbb25b4faf4cfe5474a8c42
+      internalID: -1498816042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_29
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 4560.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6abf115fa6d039440882b12d4d3d1d72
+      internalID: 917168624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_30
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 4560.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70fc1018084f5ec40948917f81b834f4
+      internalID: 622792923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_31
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 4560.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6654e84fee4c4254d99ef09deaf448d0
+      internalID: -2059505001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_32
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 4560.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d71991989d166c42b01fb22e400d3ce
+      internalID: -164621841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_33
+      rect:
+        serializedVersion: 2
+        x: 3192
+        y: 4560.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c59edcafdb4d724a914d4fe1fd5d46a
+      internalID: 596897217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_34
+      rect:
+        serializedVersion: 2
+        x: 3648
+        y: 4560.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c56ed1e2bb639046949f205a61a46eb
+      internalID: -2016092642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_35
+      rect:
+        serializedVersion: 2
+        x: 4104
+        y: 4560.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a836b3f7ee7cb478ad5a79c044454c
+      internalID: 1134682867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_36
+      rect:
+        serializedVersion: 2
+        x: 4560
+        y: 4560.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b323cf8d98cc4a545b26263ca44b113a
+      internalID: -1198039419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_37
+      rect:
+        serializedVersion: 2
+        x: 5016
+        y: 4560.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68408f67197dad3409502df4cbabece3
+      internalID: -1862868261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_38
+      rect:
+        serializedVersion: 2
+        x: 5472
+        y: 4560.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9b9915f78bddf4194e8f3437586140
+      internalID: -672962511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4104.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a173fc815bd2f4bb12530b63ca945e
+      internalID: -933192891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_40
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 4104.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f201785fcbc682f49ab4a599883a65f9
+      internalID: -1744425926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_41
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 4104.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06e8af0c91d1164390d8aaedd1797ee
+      internalID: -167510742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_42
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 4104.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca5a83cc7d4be146a0f72225413a01f
+      internalID: -1319842510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_43
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 4104.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb096cab15280ed4b9e6fad99523a082
+      internalID: 1743501833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_44
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 4104.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78743db19f35adf4ebfa79aa4ef1a114
+      internalID: -1806842288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_45
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 4104.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856996f83da196e4db792243f4fc007d
+      internalID: 221885221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_46
+      rect:
+        serializedVersion: 2
+        x: 3192
+        y: 4104.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d19abefcdf1e142870deb8faa00dc6
+      internalID: 1870358890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_47
+      rect:
+        serializedVersion: 2
+        x: 3648
+        y: 4104.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3a4b4b7d1cb6c4db4164416d8defb6
+      internalID: -999803209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_48
+      rect:
+        serializedVersion: 2
+        x: 4104
+        y: 4104.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd652381b3e9ea47a2ece4265438373
+      internalID: -300445455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_49
+      rect:
+        serializedVersion: 2
+        x: 4560
+        y: 4104.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a8301e160ba974e8376aa2425bf460
+      internalID: -531980610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_50
+      rect:
+        serializedVersion: 2
+        x: 5016
+        y: 4104.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d7ec2a865c04945990f3eb0659e949
+      internalID: 358747003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_51
+      rect:
+        serializedVersion: 2
+        x: 5472
+        y: 4104.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218966b896c0aa7419a6ef638bfed910
+      internalID: -802975354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3648.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641e2afde47a0e8469d3a91e4f12e91c
+      internalID: -51106134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_53
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 3648.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56440757e0728e348a3d893453f76360
+      internalID: 832295162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_54
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 3648.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e95dd025d65ba47bfee9291455361f
+      internalID: 1966361890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_55
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 3648.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed64fc620f91927418338828939a5576
+      internalID: -1548130550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_56
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 3648.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b85c139349b2645bed8f639dc4e284
+      internalID: 1323393481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_57
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 3648.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abcea6da2d50ace49afce47f98194811
+      internalID: -1730342916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_58
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 3648.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970b3f98ca6e2b94ab5c604662b645db
+      internalID: -1576174939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_59
+      rect:
+        serializedVersion: 2
+        x: 3192
+        y: 3648.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be4fcd58f26e25428a44c0265183a99
+      internalID: 1633003134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_60
+      rect:
+        serializedVersion: 2
+        x: 3648
+        y: 3648.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3a7989a2c9738419adb35d426db853
+      internalID: -164211049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_61
+      rect:
+        serializedVersion: 2
+        x: 4104
+        y: 3648.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c91bbb783f89044f8a4e2e8bd708357
+      internalID: 1343620157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_62
+      rect:
+        serializedVersion: 2
+        x: 4560
+        y: 3648.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dbaa57911c74d6428c7bb23b87029e6
+      internalID: -811185952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_63
+      rect:
+        serializedVersion: 2
+        x: 5016
+        y: 3648.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b0fc049e3786e469ac0f0c72ba5e63
+      internalID: -143417612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_64
+      rect:
+        serializedVersion: 2
+        x: 5472
+        y: 3648.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cfb2ec6196224c499e6968b3e63f8d4
+      internalID: -1973222084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3192.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: becb739f482a02c4a8cf568b742d7242
+      internalID: 776056678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_66
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 3192.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43da5c4e3da009e4ab39c41b3959d489
+      internalID: -1384660370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_67
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 3192.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e1d5c8fbb4cd7498ec41d0b803b7ea
+      internalID: 990718619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_68
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 3192.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6e3996b49b75f409bf7c89b602bac5
+      internalID: -1301283375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_69
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 3192.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8daa523e047ef6a499da744675272457
+      internalID: -343097830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_70
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 3192.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3947c2059c3d1e248ba018f312f3fa0b
+      internalID: -726944729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_71
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 3192.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d736bc4f25db33d459b9a468dde03928
+      internalID: 1684525455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_72
+      rect:
+        serializedVersion: 2
+        x: 3192
+        y: 3192.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df0aba149beb3a4db2b50599a686d17
+      internalID: -980984375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_73
+      rect:
+        serializedVersion: 2
+        x: 3648
+        y: 3192.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069d6ceee1da66e4280d68045caf5e43
+      internalID: 1541705425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_74
+      rect:
+        serializedVersion: 2
+        x: 4104
+        y: 3192.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6c0622d6aecd44bb2a16b36072f3e8
+      internalID: -1333840281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_75
+      rect:
+        serializedVersion: 2
+        x: 4560
+        y: 3192.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097314d760b9e47488bdab6dd9521dc0
+      internalID: 1265562947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_76
+      rect:
+        serializedVersion: 2
+        x: 5016
+        y: 3192.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7a5a9dc36eaa94ba24dc6b5e89c466
+      internalID: -1690418925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_77
+      rect:
+        serializedVersion: 2
+        x: 5472
+        y: 3192.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e04ea7aface7444a7f7690342bc879
+      internalID: 1463789268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2736.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea792f0522c228a4685d25b654fab3f2
+      internalID: 181674559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_79
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 2736.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c96d1c13dd234b419d2125196223793
+      internalID: 126798860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_80
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 2736.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dfcc2fa887974944882ece4272e8fe5
+      internalID: 1099440639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_81
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 2736.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac218ddf29ac5884f9202231077e08be
+      internalID: 1210044211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_82
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 2736.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec59a07eaaa6a6418f9771a7c5df11f
+      internalID: 1791102530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_83
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 2736.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063e94db449561c428e639ccd7e717cc
+      internalID: -1463289949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_84
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 2736.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4221a2ec5f19aa24b932fb5245756c70
+      internalID: -1931129494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_85
+      rect:
+        serializedVersion: 2
+        x: 3192
+        y: 2736.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c3d11c1a88e3d4dada6195801d7470
+      internalID: -1169579631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_86
+      rect:
+        serializedVersion: 2
+        x: 3648
+        y: 2736.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61d5b46481b06c4585d0dfccfe15fb4
+      internalID: 856592723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_87
+      rect:
+        serializedVersion: 2
+        x: 4104
+        y: 2736.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a1bffe14412674cad08d692200a915
+      internalID: -853226154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_88
+      rect:
+        serializedVersion: 2
+        x: 4560
+        y: 2736.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d87a079d179390f47bfc3403b1b24689
+      internalID: -1385394024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_89
+      rect:
+        serializedVersion: 2
+        x: 5016
+        y: 2736.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5160b10d720a1d0479790e843d759e1e
+      internalID: -924469562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_90
+      rect:
+        serializedVersion: 2
+        x: 5472
+        y: 2736.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b8d9c7af53d9e6439f6c89a09b17f14
+      internalID: 227395965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2280.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d91ca20dcda454b9aaeee5abc2ab06
+      internalID: 1192016480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_92
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 2280.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0603fd2b23af7841ac4431aa1085059
+      internalID: -1440018971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_93
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 2280.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb9b7b5b4a894942a3ba7fe6cc3d25b
+      internalID: 24561197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_94
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 2280.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983609f55cddf6e4686068b35c153a15
+      internalID: -623247557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_95
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 2280.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac3a6e0fc112114f926f5921afe1803
+      internalID: 900634900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_96
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 2280.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6685d52dca70d4abea56ac275ee988
+      internalID: -116692949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_97
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 2280.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb60dffd88f3c4419ad613123df2794
+      internalID: 1440895265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_98
+      rect:
+        serializedVersion: 2
+        x: 3192
+        y: 2280.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be703aff10f32749bf53d2d58949e30
+      internalID: -268083571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_99
+      rect:
+        serializedVersion: 2
+        x: 3648
+        y: 2280.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a738d5c4ce267334c9cb84c89958431a
+      internalID: 790929803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_100
+      rect:
+        serializedVersion: 2
+        x: 4104
+        y: 2280.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a8b7f2a0c3240488f8b402a62ff285
+      internalID: -1661097507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_101
+      rect:
+        serializedVersion: 2
+        x: 4560
+        y: 2280.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1471973c783bb214f9f298fe96824cd3
+      internalID: 680297808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_102
+      rect:
+        serializedVersion: 2
+        x: 5016
+        y: 2280.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7f7cd4b679def45b844af3ab91a57b
+      internalID: -815290682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_103
+      rect:
+        serializedVersion: 2
+        x: 5472
+        y: 2280.923
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9b74babf5d2ec46bbbf5506f5e9cf2
+      internalID: 549706666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1824.9231
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b296ba87b8ee09448abfb7df497a146b
+      internalID: 1119821016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_105
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1824.9231
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e299a53ab04cd9449a6408d7a259edc
+      internalID: 1399777917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_106
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1824.9231
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a4bcf2957223704e9185f454170fb63
+      internalID: -362114579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_107
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 1824.9231
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1f438e8b912ab438f5e511a239430a
+      internalID: 592050400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_108
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 1824.9231
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738001a6513a9854eb4f0f164e083562
+      internalID: -171752964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_109
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 1824.9231
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aecd4662c1291404385cb1a72a11de57
+      internalID: -2031180541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_110
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 1824.9231
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e2795df23a4cf146a8be5c7f2486fdb
+      internalID: 222837342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_111
+      rect:
+        serializedVersion: 2
+        x: 3192
+        y: 1824.9231
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4905a18e01ccfc047ba6308e29e456a5
+      internalID: 1916248453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_112
+      rect:
+        serializedVersion: 2
+        x: 3648
+        y: 1824.9231
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a2f93941f18364381e4642ef0ed6f6
+      internalID: -234876339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_113
+      rect:
+        serializedVersion: 2
+        x: 4104
+        y: 1824.9231
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bcfdf50c0d8eb842b288d9599f8cc5d
+      internalID: -805741662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_114
+      rect:
+        serializedVersion: 2
+        x: 4560
+        y: 1824.9231
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10fade6e76f9dd047916b744a381f5f8
+      internalID: 157140299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_115
+      rect:
+        serializedVersion: 2
+        x: 5016
+        y: 1824.9231
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1925dcf4887aea84ba4f4cf33a662135
+      internalID: -104008815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_116
+      rect:
+        serializedVersion: 2
+        x: 5472
+        y: 1824.9231
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ebd3200d879b5746b5fb1e70d85c100
+      internalID: 1427725959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1368.9231
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ea97488d820804aae54bd2ce1bef25
+      internalID: -1542472973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_118
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1368.9231
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96387de7061f08c469064832c7bd16b9
+      internalID: 1667061511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_119
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1368.9231
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23b910fd429153489a6c25b635f42ee
+      internalID: -197279529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_120
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 1368.9231
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be20e95b753d6543aa519a095bfc470
+      internalID: 1908817390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_121
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 1368.9231
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4edcd83c7117c5841a5f319f1068404f
+      internalID: 824476879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_122
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 1368.9231
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac9e143cfcca4346b3dfcb6c14ea42e
+      internalID: 1912334249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_123
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 1368.9231
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a84e2a47d2786f46966d2395bcddb2d
+      internalID: 434881725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_124
+      rect:
+        serializedVersion: 2
+        x: 3192
+        y: 1368.9231
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2466b1f7a3b12b849b70f56c7e36757a
+      internalID: 1282800098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_125
+      rect:
+        serializedVersion: 2
+        x: 3648
+        y: 1368.9231
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 112e0426856e7934da70de1fcc8c9aaf
+      internalID: 341659056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_126
+      rect:
+        serializedVersion: 2
+        x: 4104
+        y: 1368.9231
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0285bba0e379c944583853fc69ea1168
+      internalID: 827076017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_127
+      rect:
+        serializedVersion: 2
+        x: 4560
+        y: 1368.9231
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec240651988e534abdb02e03a5d06f7
+      internalID: -1115896049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_128
+      rect:
+        serializedVersion: 2
+        x: 5016
+        y: 1368.9231
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02ea280342df26489e174fc94568a12
+      internalID: -242977295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_129
+      rect:
+        serializedVersion: 2
+        x: 5472
+        y: 1368.9231
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0043bdd8381594a9d8aee9874b1565
+      internalID: -713421637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 912.9231
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a93af563f075c45bfb2015052a78df
+      internalID: -874546437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_131
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 912.9231
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8365685fa82c639418adb0d015e764a0
+      internalID: 1677556350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_132
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 912.9231
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5461bcc76267c46b80b672b764f102
+      internalID: 2033200943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_133
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 912.9231
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0a90d18d3c77542aad7a6edcfe17ac
+      internalID: -1864700443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_134
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 912.9231
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860f7dbe9c8585048ac3748990f8a8d2
+      internalID: 1644626920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_135
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 912.9231
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413db842cb429e647b479d521407cbac
+      internalID: 1480727010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_136
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 912.9231
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f83082945547f43aecdd6f204d00c9
+      internalID: 1178272713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_137
+      rect:
+        serializedVersion: 2
+        x: 3192
+        y: 912.9231
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd7779bcb5659546a81b43d235764a0
+      internalID: 1763356397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_138
+      rect:
+        serializedVersion: 2
+        x: 3648
+        y: 912.9231
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ca004f7c5ba4244919867a7497716c
+      internalID: 1328446421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_139
+      rect:
+        serializedVersion: 2
+        x: 4104
+        y: 912.9231
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b238bf7cc2fbf45a4cbd4785835510
+      internalID: -992122040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_140
+      rect:
+        serializedVersion: 2
+        x: 4560
+        y: 912.9231
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499a31a820fdf3b47b2e5fa66ea34916
+      internalID: 724000579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_141
+      rect:
+        serializedVersion: 2
+        x: 5016
+        y: 912.9231
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc94674efe189744b182bf906675f38
+      internalID: -1291399302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_142
+      rect:
+        serializedVersion: 2
+        x: 5472
+        y: 912.9231
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd199c6802afbcd4bb6be85d38cae60c
+      internalID: 2000418040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_143
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 456.92307
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e7ce8ec815ab140872add8b61ae7dc
+      internalID: -262118191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_144
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 456.92307
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce25de468fe2d64a98eaf89a9800a55
+      internalID: -113839587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_145
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 456.92307
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d42f164aee0106488c6adfe091d1691
+      internalID: 25610090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_146
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 456.92307
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a59442583d9b254088d3bc78dc92102
+      internalID: -639588588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_147
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 456.92307
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f35c2cbdc7cc44992b958757d5c734
+      internalID: -1968347582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_148
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 456.92307
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee7eba851b9bcb4eae5153059e1512d
+      internalID: 1621030369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_149
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 456.92307
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4605028a4276e5d43a59d6a8a2b4ab56
+      internalID: 2016744733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_150
+      rect:
+        serializedVersion: 2
+        x: 3192
+        y: 456.92307
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5907d7243eab2aa42acf0c518aa4b485
+      internalID: 1680324960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_151
+      rect:
+        serializedVersion: 2
+        x: 3648
+        y: 456.92307
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3780f74b7d4464783a1ddd8226efc8
+      internalID: -2139539620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_152
+      rect:
+        serializedVersion: 2
+        x: 4104
+        y: 456.92307
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb0a787112aa0e4196eff8d05d5bd76
+      internalID: 644849091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_153
+      rect:
+        serializedVersion: 2
+        x: 4560
+        y: 456.92307
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2465e1eb0bc136c49b5e8e14ec4a7b7e
+      internalID: -80327471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_154
+      rect:
+        serializedVersion: 2
+        x: 5016
+        y: 456.92307
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3a68fd12cb9f040bc34e89d6c0fedd
+      internalID: 1500692608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_155
+      rect:
+        serializedVersion: 2
+        x: 5472
+        y: 456.92307
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81803260b7ae5341bc26f7653dfd736
+      internalID: 1314631196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_156
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.9230652
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8cfb85a434b5cd459cdd1c2ce89802d
+      internalID: -33428433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_157
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 0.9230652
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148eb443a21e16f4daa0ac2881043912
+      internalID: -1018844794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_158
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 0.9230652
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c397d269825c70a44bedc00ed99b91ca
+      internalID: -1057715843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_159
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 0.9230652
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b93c9be0883404f88c5635da2a4019
+      internalID: 1053148222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_160
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 0.9230652
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53affa1bf44d5b4a86620b0b97b90e2
+      internalID: -1199722979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_161
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 0.9230652
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7097275b534a88408392198b311aacc
+      internalID: -647003158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_162
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 0.9230652
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3efcaca9ba141854583d24ced15f66b6
+      internalID: -869337480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_163
+      rect:
+        serializedVersion: 2
+        x: 3192
+        y: 0.9230652
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418ad4ebcc0a26645ab147bc45f8f13e
+      internalID: 747688957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_164
+      rect:
+        serializedVersion: 2
+        x: 3648
+        y: 0.9230652
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f58052a66fea204493d22fb647af303
+      internalID: -1104775218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_165
+      rect:
+        serializedVersion: 2
+        x: 4104
+        y: 0.9230652
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f93a736e9f2f03b49b752bf86a9a3de6
+      internalID: 1393535545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_166
+      rect:
+        serializedVersion: 2
+        x: 4560
+        y: 0.9230652
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ebd535d884f0694bb7709d4ac6f0978
+      internalID: -654836965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_167
+      rect:
+        serializedVersion: 2
+        x: 5016
+        y: 0.9230652
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a87565f1c3fed4e8b3967effb1285d
+      internalID: -358282547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_01_Chicks_and_Nest_A_168
+      rect:
+        serializedVersion: 2
+        x: 5472
+        y: 0.9230652
+        width: 456.07693
+        height: 456.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b628a6b3603584bbf53888cd2f4363
+      internalID: -1658852701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Scene_01_Chicks_and_Nest_A_0: 862937079
+      Scene_01_Chicks_and_Nest_A_1: -1658775221
+      Scene_01_Chicks_and_Nest_A_10: -888695412
+      Scene_01_Chicks_and_Nest_A_100: -1661097507
+      Scene_01_Chicks_and_Nest_A_101: 680297808
+      Scene_01_Chicks_and_Nest_A_102: -815290682
+      Scene_01_Chicks_and_Nest_A_103: 549706666
+      Scene_01_Chicks_and_Nest_A_104: 1119821016
+      Scene_01_Chicks_and_Nest_A_105: 1399777917
+      Scene_01_Chicks_and_Nest_A_106: -362114579
+      Scene_01_Chicks_and_Nest_A_107: 592050400
+      Scene_01_Chicks_and_Nest_A_108: -171752964
+      Scene_01_Chicks_and_Nest_A_109: -2031180541
+      Scene_01_Chicks_and_Nest_A_11: -2001005077
+      Scene_01_Chicks_and_Nest_A_110: 222837342
+      Scene_01_Chicks_and_Nest_A_111: 1916248453
+      Scene_01_Chicks_and_Nest_A_112: -234876339
+      Scene_01_Chicks_and_Nest_A_113: -805741662
+      Scene_01_Chicks_and_Nest_A_114: 157140299
+      Scene_01_Chicks_and_Nest_A_115: -104008815
+      Scene_01_Chicks_and_Nest_A_116: 1427725959
+      Scene_01_Chicks_and_Nest_A_117: -1542472973
+      Scene_01_Chicks_and_Nest_A_118: 1667061511
+      Scene_01_Chicks_and_Nest_A_119: -197279529
+      Scene_01_Chicks_and_Nest_A_12: -1268859794
+      Scene_01_Chicks_and_Nest_A_120: 1908817390
+      Scene_01_Chicks_and_Nest_A_121: 824476879
+      Scene_01_Chicks_and_Nest_A_122: 1912334249
+      Scene_01_Chicks_and_Nest_A_123: 434881725
+      Scene_01_Chicks_and_Nest_A_124: 1282800098
+      Scene_01_Chicks_and_Nest_A_125: 341659056
+      Scene_01_Chicks_and_Nest_A_126: 827076017
+      Scene_01_Chicks_and_Nest_A_127: -1115896049
+      Scene_01_Chicks_and_Nest_A_128: -242977295
+      Scene_01_Chicks_and_Nest_A_129: -713421637
+      Scene_01_Chicks_and_Nest_A_13: 1518913739
+      Scene_01_Chicks_and_Nest_A_130: -874546437
+      Scene_01_Chicks_and_Nest_A_131: 1677556350
+      Scene_01_Chicks_and_Nest_A_132: 2033200943
+      Scene_01_Chicks_and_Nest_A_133: -1864700443
+      Scene_01_Chicks_and_Nest_A_134: 1644626920
+      Scene_01_Chicks_and_Nest_A_135: 1480727010
+      Scene_01_Chicks_and_Nest_A_136: 1178272713
+      Scene_01_Chicks_and_Nest_A_137: 1763356397
+      Scene_01_Chicks_and_Nest_A_138: 1328446421
+      Scene_01_Chicks_and_Nest_A_139: -992122040
+      Scene_01_Chicks_and_Nest_A_14: -273831441
+      Scene_01_Chicks_and_Nest_A_140: 724000579
+      Scene_01_Chicks_and_Nest_A_141: -1291399302
+      Scene_01_Chicks_and_Nest_A_142: 2000418040
+      Scene_01_Chicks_and_Nest_A_143: -262118191
+      Scene_01_Chicks_and_Nest_A_144: -113839587
+      Scene_01_Chicks_and_Nest_A_145: 25610090
+      Scene_01_Chicks_and_Nest_A_146: -639588588
+      Scene_01_Chicks_and_Nest_A_147: -1968347582
+      Scene_01_Chicks_and_Nest_A_148: 1621030369
+      Scene_01_Chicks_and_Nest_A_149: 2016744733
+      Scene_01_Chicks_and_Nest_A_15: 609791559
+      Scene_01_Chicks_and_Nest_A_150: 1680324960
+      Scene_01_Chicks_and_Nest_A_151: -2139539620
+      Scene_01_Chicks_and_Nest_A_152: 644849091
+      Scene_01_Chicks_and_Nest_A_153: -80327471
+      Scene_01_Chicks_and_Nest_A_154: 1500692608
+      Scene_01_Chicks_and_Nest_A_155: 1314631196
+      Scene_01_Chicks_and_Nest_A_156: -33428433
+      Scene_01_Chicks_and_Nest_A_157: -1018844794
+      Scene_01_Chicks_and_Nest_A_158: -1057715843
+      Scene_01_Chicks_and_Nest_A_159: 1053148222
+      Scene_01_Chicks_and_Nest_A_16: 1935038645
+      Scene_01_Chicks_and_Nest_A_160: -1199722979
+      Scene_01_Chicks_and_Nest_A_161: -647003158
+      Scene_01_Chicks_and_Nest_A_162: -869337480
+      Scene_01_Chicks_and_Nest_A_163: 747688957
+      Scene_01_Chicks_and_Nest_A_164: -1104775218
+      Scene_01_Chicks_and_Nest_A_165: 1393535545
+      Scene_01_Chicks_and_Nest_A_166: -654836965
+      Scene_01_Chicks_and_Nest_A_167: -358282547
+      Scene_01_Chicks_and_Nest_A_168: -1658852701
+      Scene_01_Chicks_and_Nest_A_17: -1347909378
+      Scene_01_Chicks_and_Nest_A_18: 337569492
+      Scene_01_Chicks_and_Nest_A_19: 2085520530
+      Scene_01_Chicks_and_Nest_A_2: -273170009
+      Scene_01_Chicks_and_Nest_A_20: 199932574
+      Scene_01_Chicks_and_Nest_A_21: -1749742594
+      Scene_01_Chicks_and_Nest_A_22: 845479639
+      Scene_01_Chicks_and_Nest_A_23: -1633336304
+      Scene_01_Chicks_and_Nest_A_24: 1695665369
+      Scene_01_Chicks_and_Nest_A_25: 986619960
+      Scene_01_Chicks_and_Nest_A_26: 499307243
+      Scene_01_Chicks_and_Nest_A_27: -2069724847
+      Scene_01_Chicks_and_Nest_A_28: -1498816042
+      Scene_01_Chicks_and_Nest_A_29: 917168624
+      Scene_01_Chicks_and_Nest_A_3: -1909764088
+      Scene_01_Chicks_and_Nest_A_30: 622792923
+      Scene_01_Chicks_and_Nest_A_31: -2059505001
+      Scene_01_Chicks_and_Nest_A_32: -164621841
+      Scene_01_Chicks_and_Nest_A_33: 596897217
+      Scene_01_Chicks_and_Nest_A_34: -2016092642
+      Scene_01_Chicks_and_Nest_A_35: 1134682867
+      Scene_01_Chicks_and_Nest_A_36: -1198039419
+      Scene_01_Chicks_and_Nest_A_37: -1862868261
+      Scene_01_Chicks_and_Nest_A_38: -672962511
+      Scene_01_Chicks_and_Nest_A_39: -933192891
+      Scene_01_Chicks_and_Nest_A_4: 1891366176
+      Scene_01_Chicks_and_Nest_A_40: -1744425926
+      Scene_01_Chicks_and_Nest_A_41: -167510742
+      Scene_01_Chicks_and_Nest_A_42: -1319842510
+      Scene_01_Chicks_and_Nest_A_43: 1743501833
+      Scene_01_Chicks_and_Nest_A_44: -1806842288
+      Scene_01_Chicks_and_Nest_A_45: 221885221
+      Scene_01_Chicks_and_Nest_A_46: 1870358890
+      Scene_01_Chicks_and_Nest_A_47: -999803209
+      Scene_01_Chicks_and_Nest_A_48: -300445455
+      Scene_01_Chicks_and_Nest_A_49: -531980610
+      Scene_01_Chicks_and_Nest_A_5: -959472346
+      Scene_01_Chicks_and_Nest_A_50: 358747003
+      Scene_01_Chicks_and_Nest_A_51: -802975354
+      Scene_01_Chicks_and_Nest_A_52: -51106134
+      Scene_01_Chicks_and_Nest_A_53: 832295162
+      Scene_01_Chicks_and_Nest_A_54: 1966361890
+      Scene_01_Chicks_and_Nest_A_55: -1548130550
+      Scene_01_Chicks_and_Nest_A_56: 1323393481
+      Scene_01_Chicks_and_Nest_A_57: -1730342916
+      Scene_01_Chicks_and_Nest_A_58: -1576174939
+      Scene_01_Chicks_and_Nest_A_59: 1633003134
+      Scene_01_Chicks_and_Nest_A_6: -1530505077
+      Scene_01_Chicks_and_Nest_A_60: -164211049
+      Scene_01_Chicks_and_Nest_A_61: 1343620157
+      Scene_01_Chicks_and_Nest_A_62: -811185952
+      Scene_01_Chicks_and_Nest_A_63: -143417612
+      Scene_01_Chicks_and_Nest_A_64: -1973222084
+      Scene_01_Chicks_and_Nest_A_65: 776056678
+      Scene_01_Chicks_and_Nest_A_66: -1384660370
+      Scene_01_Chicks_and_Nest_A_67: 990718619
+      Scene_01_Chicks_and_Nest_A_68: -1301283375
+      Scene_01_Chicks_and_Nest_A_69: -343097830
+      Scene_01_Chicks_and_Nest_A_7: 170715402
+      Scene_01_Chicks_and_Nest_A_70: -726944729
+      Scene_01_Chicks_and_Nest_A_71: 1684525455
+      Scene_01_Chicks_and_Nest_A_72: -980984375
+      Scene_01_Chicks_and_Nest_A_73: 1541705425
+      Scene_01_Chicks_and_Nest_A_74: -1333840281
+      Scene_01_Chicks_and_Nest_A_75: 1265562947
+      Scene_01_Chicks_and_Nest_A_76: -1690418925
+      Scene_01_Chicks_and_Nest_A_77: 1463789268
+      Scene_01_Chicks_and_Nest_A_78: 181674559
+      Scene_01_Chicks_and_Nest_A_79: 126798860
+      Scene_01_Chicks_and_Nest_A_8: -89977477
+      Scene_01_Chicks_and_Nest_A_80: 1099440639
+      Scene_01_Chicks_and_Nest_A_81: 1210044211
+      Scene_01_Chicks_and_Nest_A_82: 1791102530
+      Scene_01_Chicks_and_Nest_A_83: -1463289949
+      Scene_01_Chicks_and_Nest_A_84: -1931129494
+      Scene_01_Chicks_and_Nest_A_85: -1169579631
+      Scene_01_Chicks_and_Nest_A_86: 856592723
+      Scene_01_Chicks_and_Nest_A_87: -853226154
+      Scene_01_Chicks_and_Nest_A_88: -1385394024
+      Scene_01_Chicks_and_Nest_A_89: -924469562
+      Scene_01_Chicks_and_Nest_A_9: -1231003101
+      Scene_01_Chicks_and_Nest_A_90: 227395965
+      Scene_01_Chicks_and_Nest_A_91: 1192016480
+      Scene_01_Chicks_and_Nest_A_92: -1440018971
+      Scene_01_Chicks_and_Nest_A_93: 24561197
+      Scene_01_Chicks_and_Nest_A_94: -623247557
+      Scene_01_Chicks_and_Nest_A_95: 900634900
+      Scene_01_Chicks_and_Nest_A_96: -116692949
+      Scene_01_Chicks_and_Nest_A_97: 1440895265
+      Scene_01_Chicks_and_Nest_A_98: -268083571
+      Scene_01_Chicks_and_Nest_A_99: 790929803
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

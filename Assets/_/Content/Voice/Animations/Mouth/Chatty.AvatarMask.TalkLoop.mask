@@ -1,0 +1,549 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Chatty.AvatarMask.TalkLoop
+  m_Mask: 00000000000000000100000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: ctrl_global
+    m_Weight: 1
+  - m_Path: GRP_geo
+    m_Weight: 1
+  - m_Path: GRP_geo/body
+    m_Weight: 1
+  - m_Path: GRP_geo/eyes
+    m_Weight: 1
+  - m_Path: GRP_geo/tongue
+    m_Weight: 1
+  - m_Path: grp_JNT
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_L_hip
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_L_hip/jntDrvr_L_knee
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_L_hip/jntDrvr_L_knee/jntDrvr_L_heel
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_L_hip/jntDrvr_L_knee/jntDrvr_L_heel/jntDrvr_L_ball
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_L_hip/jntDrvr_L_knee/jntDrvr_L_heel/jntDrvr_L_ball/jntDrvr_L_backToeRoot
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_L_hip/jntDrvr_L_knee/jntDrvr_L_heel/jntDrvr_L_ball/jntDrvr_L_backToeRoot/jntDrvr_L_backToe_01
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_L_hip/jntDrvr_L_knee/jntDrvr_L_heel/jntDrvr_L_ball/jntDrvr_L_backToeRoot/jntDrvr_L_backToe_01/grp_loc_L_revRackToe_01
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_L_hip/jntDrvr_L_knee/jntDrvr_L_heel/jntDrvr_L_ball/jntDrvr_L_backToeRoot/jntDrvr_L_backToe_01/grp_loc_L_revRackToe_01/loc_L_revRackToe_01
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_L_hip/jntDrvr_L_knee/jntDrvr_L_heel/jntDrvr_L_ball/jntDrvr_L_backToeRoot/jntDrvr_L_backToe_01/jntDrvr_L_backToe_02
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_L_hip/jntDrvr_L_knee/jntDrvr_L_heel/jntDrvr_L_ball/jntDrvr_L_backToeRoot/jntDrvr_L_backToe_01/jntDrvr_L_backToe_02/grp_loc_L_revInnerToe_02
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_L_hip/jntDrvr_L_knee/jntDrvr_L_heel/jntDrvr_L_ball/jntDrvr_L_backToeRoot/jntDrvr_L_backToe_01/jntDrvr_L_backToe_02/grp_loc_L_revInnerToe_02/loc_L_revInnerToe_02
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_L_hip/jntDrvr_L_knee/jntDrvr_L_heel/jntDrvr_L_ball/jntDrvr_L_backToeRoot/jntDrvr_L_backToe_01/jntDrvr_L_backToe_02/jntDrvr_L_backToe_03
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_L_hip/jntDrvr_L_knee/jntDrvr_L_heel/jntDrvr_L_ball/jntDrvr_L_backToeRoot/jntDrvr_L_backToe_01/jntDrvr_L_backToe_02/jntDrvr_L_backToe_03/grp_loc_L_revInnerToe_03
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_L_hip/jntDrvr_L_knee/jntDrvr_L_heel/jntDrvr_L_ball/jntDrvr_L_backToeRoot/jntDrvr_L_backToe_01/jntDrvr_L_backToe_02/jntDrvr_L_backToe_03/grp_loc_L_revInnerToe_03/loc_L_revInnerToe_03
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_L_hip/jntDrvr_L_knee/jntDrvr_L_heel/jntDrvr_L_ball/jntDrvr_L_innerToeRoot
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_L_hip/jntDrvr_L_knee/jntDrvr_L_heel/jntDrvr_L_ball/jntDrvr_L_innerToeRoot/jntDrvr_L_innerToe_01
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_L_hip/jntDrvr_L_knee/jntDrvr_L_heel/jntDrvr_L_ball/jntDrvr_L_innerToeRoot/jntDrvr_L_innerToe_01/grp_loc_L_revInnerToe_01
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_L_hip/jntDrvr_L_knee/jntDrvr_L_heel/jntDrvr_L_ball/jntDrvr_L_innerToeRoot/jntDrvr_L_innerToe_01/grp_loc_L_revInnerToe_01/loc_L_revInnerToe_01
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_L_hip/jntDrvr_L_knee/jntDrvr_L_heel/jntDrvr_L_ball/jntDrvr_L_innerToeRoot/jntDrvr_L_innerToe_01/jntDrvr_L_innerToe_02
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_L_hip/jntDrvr_L_knee/jntDrvr_L_heel/jntDrvr_L_ball/jntDrvr_L_innerToeRoot/jntDrvr_L_innerToe_01/jntDrvr_L_innerToe_02/grp_loc_L_revInnerToe_02
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_L_hip/jntDrvr_L_knee/jntDrvr_L_heel/jntDrvr_L_ball/jntDrvr_L_innerToeRoot/jntDrvr_L_innerToe_01/jntDrvr_L_innerToe_02/grp_loc_L_revInnerToe_02/loc_L_revInnerToe_02
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_L_hip/jntDrvr_L_knee/jntDrvr_L_heel/jntDrvr_L_ball/jntDrvr_L_innerToeRoot/jntDrvr_L_innerToe_01/jntDrvr_L_innerToe_02/jntDrvr_L_innerToe_03
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_L_hip/jntDrvr_L_knee/jntDrvr_L_heel/jntDrvr_L_ball/jntDrvr_L_innerToeRoot/jntDrvr_L_innerToe_01/jntDrvr_L_innerToe_02/jntDrvr_L_innerToe_03/grp_loc_L_revInnerToe_03
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_L_hip/jntDrvr_L_knee/jntDrvr_L_heel/jntDrvr_L_ball/jntDrvr_L_innerToeRoot/jntDrvr_L_innerToe_01/jntDrvr_L_innerToe_02/jntDrvr_L_innerToe_03/grp_loc_L_revInnerToe_03/loc_L_revInnerToe_03
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_L_hip/jntDrvr_L_knee/jntDrvr_L_heel/jntDrvr_L_ball/jntDrvr_L_midToeRoot
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_L_hip/jntDrvr_L_knee/jntDrvr_L_heel/jntDrvr_L_ball/jntDrvr_L_midToeRoot/jntDrvr_L_midToe_01
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_L_hip/jntDrvr_L_knee/jntDrvr_L_heel/jntDrvr_L_ball/jntDrvr_L_midToeRoot/jntDrvr_L_midToe_01/grp_loc_L_midToe_01
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_L_hip/jntDrvr_L_knee/jntDrvr_L_heel/jntDrvr_L_ball/jntDrvr_L_midToeRoot/jntDrvr_L_midToe_01/grp_loc_L_midToe_01/loc_L_midToe_01
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_L_hip/jntDrvr_L_knee/jntDrvr_L_heel/jntDrvr_L_ball/jntDrvr_L_midToeRoot/jntDrvr_L_midToe_01/jntDrvr_L_midToe_02
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_L_hip/jntDrvr_L_knee/jntDrvr_L_heel/jntDrvr_L_ball/jntDrvr_L_midToeRoot/jntDrvr_L_midToe_01/jntDrvr_L_midToe_02/grp_loc_L_midToe_02
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_L_hip/jntDrvr_L_knee/jntDrvr_L_heel/jntDrvr_L_ball/jntDrvr_L_midToeRoot/jntDrvr_L_midToe_01/jntDrvr_L_midToe_02/grp_loc_L_midToe_02/loc_L_midToe_02
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_L_hip/jntDrvr_L_knee/jntDrvr_L_heel/jntDrvr_L_ball/jntDrvr_L_midToeRoot/jntDrvr_L_midToe_01/jntDrvr_L_midToe_02/jntDrvr_L_midToe_03
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_L_hip/jntDrvr_L_knee/jntDrvr_L_heel/jntDrvr_L_ball/jntDrvr_L_midToeRoot/jntDrvr_L_midToe_01/jntDrvr_L_midToe_02/jntDrvr_L_midToe_03/grp_loc_L_midToe_03
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_L_hip/jntDrvr_L_knee/jntDrvr_L_heel/jntDrvr_L_ball/jntDrvr_L_midToeRoot/jntDrvr_L_midToe_01/jntDrvr_L_midToe_02/jntDrvr_L_midToe_03/grp_loc_L_midToe_03/loc_L_midToe_03
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_L_hip/jntDrvr_L_knee/jntDrvr_L_heel/jntDrvr_L_ball/jntDrvr_L_outterToeRoot
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_L_hip/jntDrvr_L_knee/jntDrvr_L_heel/jntDrvr_L_ball/jntDrvr_L_outterToeRoot/jntDrvr_L_outterToe_01
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_L_hip/jntDrvr_L_knee/jntDrvr_L_heel/jntDrvr_L_ball/jntDrvr_L_outterToeRoot/jntDrvr_L_outterToe_01/grp_loc_L_revOutterToe_01
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_L_hip/jntDrvr_L_knee/jntDrvr_L_heel/jntDrvr_L_ball/jntDrvr_L_outterToeRoot/jntDrvr_L_outterToe_01/grp_loc_L_revOutterToe_01/loc_L_revOutterToe_01
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_L_hip/jntDrvr_L_knee/jntDrvr_L_heel/jntDrvr_L_ball/jntDrvr_L_outterToeRoot/jntDrvr_L_outterToe_01/jntDrvr_L_outterToe_02
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_L_hip/jntDrvr_L_knee/jntDrvr_L_heel/jntDrvr_L_ball/jntDrvr_L_outterToeRoot/jntDrvr_L_outterToe_01/jntDrvr_L_outterToe_02/grp_loc_L_revOutterToe_02
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_L_hip/jntDrvr_L_knee/jntDrvr_L_heel/jntDrvr_L_ball/jntDrvr_L_outterToeRoot/jntDrvr_L_outterToe_01/jntDrvr_L_outterToe_02/grp_loc_L_revOutterToe_02/loc_L_revOutterToe_02
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_L_hip/jntDrvr_L_knee/jntDrvr_L_heel/jntDrvr_L_ball/jntDrvr_L_outterToeRoot/jntDrvr_L_outterToe_01/jntDrvr_L_outterToe_02/jntDrvr_L_outterToe_03
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_L_hip/jntDrvr_L_knee/jntDrvr_L_heel/jntDrvr_L_ball/jntDrvr_L_outterToeRoot/jntDrvr_L_outterToe_01/jntDrvr_L_outterToe_02/jntDrvr_L_outterToe_03/grp_loc_L_revOutterToe_03
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_L_hip/jntDrvr_L_knee/jntDrvr_L_heel/jntDrvr_L_ball/jntDrvr_L_outterToeRoot/jntDrvr_L_outterToe_01/jntDrvr_L_outterToe_02/jntDrvr_L_outterToe_03/grp_loc_L_revOutterToe_03/loc_L_revOutterToe_03
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_L_poleJnt_hip
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_L_poleJnt_hip/jntDrvr_L_poleJnt_ankle
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_L_poleJnt_shoulder
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_L_poleJnt_shoulder/jntDrvr_L_poleJnt_wrist
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_L_revRackToe_03
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_L_revRackToe_03/jntDrvr_L_revRackToe_02
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_L_revRackToe_03/jntDrvr_L_revRackToe_02/jntDrvr_L_revRackToe_01
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_L_revRackToe_03/jntDrvr_L_revRackToe_02/jntDrvr_L_revRackToe_01/jntDrvr_L_revHeel
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_L_revRackToe_03/jntDrvr_L_revRackToe_02/jntDrvr_L_revRackToe_01/jntDrvr_L_revHeel/jntDrvr_L_revInnerToe_03
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_L_revRackToe_03/jntDrvr_L_revRackToe_02/jntDrvr_L_revRackToe_01/jntDrvr_L_revHeel/jntDrvr_L_revInnerToe_03/jntDrvr_L_revInnerToe_02
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_L_revRackToe_03/jntDrvr_L_revRackToe_02/jntDrvr_L_revRackToe_01/jntDrvr_L_revHeel/jntDrvr_L_revInnerToe_03/jntDrvr_L_revInnerToe_02/jntDrvr_L_revInnerToe_01
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_L_revRackToe_03/jntDrvr_L_revRackToe_02/jntDrvr_L_revRackToe_01/jntDrvr_L_revHeel/jntDrvr_L_revOutterToe_03
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_L_revRackToe_03/jntDrvr_L_revRackToe_02/jntDrvr_L_revRackToe_01/jntDrvr_L_revHeel/jntDrvr_L_revOutterToe_03/jntDrvr_L_revOutterToe_02
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_L_revRackToe_03/jntDrvr_L_revRackToe_02/jntDrvr_L_revRackToe_01/jntDrvr_L_revHeel/jntDrvr_L_revOutterToe_03/jntDrvr_L_revOutterToe_02/jntDrvr_L_revOutterToe_01
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_L_revRackToe_03/jntDrvr_L_revRackToe_02/jntDrvr_L_revRackToe_01/jntDrvr_L_revHeel/jntDrvr_L_revToe_03
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_L_revRackToe_03/jntDrvr_L_revRackToe_02/jntDrvr_L_revRackToe_01/jntDrvr_L_revHeel/jntDrvr_L_revToe_03/jntDrvr_L_revToe_02
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_L_revRackToe_03/jntDrvr_L_revRackToe_02/jntDrvr_L_revRackToe_01/jntDrvr_L_revHeel/jntDrvr_L_revToe_03/jntDrvr_L_revToe_02/jntDrvr_L_revToe_01
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_L_revRackToe_03/jntDrvr_L_revRackToe_02/jntDrvr_L_revRackToe_01/jntDrvr_L_revHeel/jntDrvr_L_revToe_03/jntDrvr_L_revToe_02/jntDrvr_L_revToe_01/jntDrvr_L_ball
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_L_shoulder
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_L_shoulder/jntDrvr_L_elbow
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_L_shoulder/jntDrvr_L_elbow/jntDrvr_L_wrist
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_L_shoulder/jntDrvr_L_elbow/jntDrvr_L_wrist/jntDrvr_L_wristEnd
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_L_shoulder/jntDrvr_L_elbow/jntDrvr_L_wrist/loc_L_wrist
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_R_hip
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_R_hip/jntDrvr_R_knee
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_R_hip/jntDrvr_R_knee/jntDrvr_R_heel
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_R_hip/jntDrvr_R_knee/jntDrvr_R_heel/jntDrvr_R_ball
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_R_hip/jntDrvr_R_knee/jntDrvr_R_heel/jntDrvr_R_ball/jntDrvr_R_backToeRoot
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_R_hip/jntDrvr_R_knee/jntDrvr_R_heel/jntDrvr_R_ball/jntDrvr_R_backToeRoot/jntDrvr_R_backToe_01
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_R_hip/jntDrvr_R_knee/jntDrvr_R_heel/jntDrvr_R_ball/jntDrvr_R_backToeRoot/jntDrvr_R_backToe_01/grp_loc_R_revRackToe_01
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_R_hip/jntDrvr_R_knee/jntDrvr_R_heel/jntDrvr_R_ball/jntDrvr_R_backToeRoot/jntDrvr_R_backToe_01/grp_loc_R_revRackToe_01/loc_R_revRackToe_01
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_R_hip/jntDrvr_R_knee/jntDrvr_R_heel/jntDrvr_R_ball/jntDrvr_R_backToeRoot/jntDrvr_R_backToe_01/jntDrvr_R_backToe_02
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_R_hip/jntDrvr_R_knee/jntDrvr_R_heel/jntDrvr_R_ball/jntDrvr_R_backToeRoot/jntDrvr_R_backToe_01/jntDrvr_R_backToe_02/grp_loc_R_revInnerToe_02
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_R_hip/jntDrvr_R_knee/jntDrvr_R_heel/jntDrvr_R_ball/jntDrvr_R_backToeRoot/jntDrvr_R_backToe_01/jntDrvr_R_backToe_02/grp_loc_R_revInnerToe_02/loc_R_revInnerToe_02
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_R_hip/jntDrvr_R_knee/jntDrvr_R_heel/jntDrvr_R_ball/jntDrvr_R_backToeRoot/jntDrvr_R_backToe_01/jntDrvr_R_backToe_02/jntDrvr_R_backToe_03
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_R_hip/jntDrvr_R_knee/jntDrvr_R_heel/jntDrvr_R_ball/jntDrvr_R_backToeRoot/jntDrvr_R_backToe_01/jntDrvr_R_backToe_02/jntDrvr_R_backToe_03/grp_loc_R_revInnerToe_03
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_R_hip/jntDrvr_R_knee/jntDrvr_R_heel/jntDrvr_R_ball/jntDrvr_R_backToeRoot/jntDrvr_R_backToe_01/jntDrvr_R_backToe_02/jntDrvr_R_backToe_03/grp_loc_R_revInnerToe_03/loc_R_revInnerToe_03
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_R_hip/jntDrvr_R_knee/jntDrvr_R_heel/jntDrvr_R_ball/jntDrvr_R_innerToeRoot
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_R_hip/jntDrvr_R_knee/jntDrvr_R_heel/jntDrvr_R_ball/jntDrvr_R_innerToeRoot/jntDrvr_R_innerToe_01
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_R_hip/jntDrvr_R_knee/jntDrvr_R_heel/jntDrvr_R_ball/jntDrvr_R_innerToeRoot/jntDrvr_R_innerToe_01/grp_loc_R_revInnerToe_01
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_R_hip/jntDrvr_R_knee/jntDrvr_R_heel/jntDrvr_R_ball/jntDrvr_R_innerToeRoot/jntDrvr_R_innerToe_01/grp_loc_R_revInnerToe_01/loc_R_revInnerToe_01
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_R_hip/jntDrvr_R_knee/jntDrvr_R_heel/jntDrvr_R_ball/jntDrvr_R_innerToeRoot/jntDrvr_R_innerToe_01/jntDrvr_R_innerToe_02
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_R_hip/jntDrvr_R_knee/jntDrvr_R_heel/jntDrvr_R_ball/jntDrvr_R_innerToeRoot/jntDrvr_R_innerToe_01/jntDrvr_R_innerToe_02/grp_loc_R_revInnerToe_02
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_R_hip/jntDrvr_R_knee/jntDrvr_R_heel/jntDrvr_R_ball/jntDrvr_R_innerToeRoot/jntDrvr_R_innerToe_01/jntDrvr_R_innerToe_02/grp_loc_R_revInnerToe_02/loc_R_revInnerToe_02
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_R_hip/jntDrvr_R_knee/jntDrvr_R_heel/jntDrvr_R_ball/jntDrvr_R_innerToeRoot/jntDrvr_R_innerToe_01/jntDrvr_R_innerToe_02/jntDrvr_R_innerToe_03
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_R_hip/jntDrvr_R_knee/jntDrvr_R_heel/jntDrvr_R_ball/jntDrvr_R_innerToeRoot/jntDrvr_R_innerToe_01/jntDrvr_R_innerToe_02/jntDrvr_R_innerToe_03/grp_loc_R_revInnerToe_03
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_R_hip/jntDrvr_R_knee/jntDrvr_R_heel/jntDrvr_R_ball/jntDrvr_R_innerToeRoot/jntDrvr_R_innerToe_01/jntDrvr_R_innerToe_02/jntDrvr_R_innerToe_03/grp_loc_R_revInnerToe_03/loc_R_revInnerToe_03
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_R_hip/jntDrvr_R_knee/jntDrvr_R_heel/jntDrvr_R_ball/jntDrvr_R_midToeRoot
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_R_hip/jntDrvr_R_knee/jntDrvr_R_heel/jntDrvr_R_ball/jntDrvr_R_midToeRoot/jntDrvr_R_midToe_01
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_R_hip/jntDrvr_R_knee/jntDrvr_R_heel/jntDrvr_R_ball/jntDrvr_R_midToeRoot/jntDrvr_R_midToe_01/grp_loc_R_midToe_01
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_R_hip/jntDrvr_R_knee/jntDrvr_R_heel/jntDrvr_R_ball/jntDrvr_R_midToeRoot/jntDrvr_R_midToe_01/grp_loc_R_midToe_01/loc_R_midToe_01
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_R_hip/jntDrvr_R_knee/jntDrvr_R_heel/jntDrvr_R_ball/jntDrvr_R_midToeRoot/jntDrvr_R_midToe_01/jntDrvr_R_midToe_02
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_R_hip/jntDrvr_R_knee/jntDrvr_R_heel/jntDrvr_R_ball/jntDrvr_R_midToeRoot/jntDrvr_R_midToe_01/jntDrvr_R_midToe_02/grp_loc_R_midToe_02
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_R_hip/jntDrvr_R_knee/jntDrvr_R_heel/jntDrvr_R_ball/jntDrvr_R_midToeRoot/jntDrvr_R_midToe_01/jntDrvr_R_midToe_02/grp_loc_R_midToe_02/loc_R_midToe_02
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_R_hip/jntDrvr_R_knee/jntDrvr_R_heel/jntDrvr_R_ball/jntDrvr_R_midToeRoot/jntDrvr_R_midToe_01/jntDrvr_R_midToe_02/jntDrvr_R_midToe_03
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_R_hip/jntDrvr_R_knee/jntDrvr_R_heel/jntDrvr_R_ball/jntDrvr_R_midToeRoot/jntDrvr_R_midToe_01/jntDrvr_R_midToe_02/jntDrvr_R_midToe_03/grp_loc_R_midToe_03
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_R_hip/jntDrvr_R_knee/jntDrvr_R_heel/jntDrvr_R_ball/jntDrvr_R_midToeRoot/jntDrvr_R_midToe_01/jntDrvr_R_midToe_02/jntDrvr_R_midToe_03/grp_loc_R_midToe_03/loc_R_midToe_03
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_R_hip/jntDrvr_R_knee/jntDrvr_R_heel/jntDrvr_R_ball/jntDrvr_R_outterToeRoot
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_R_hip/jntDrvr_R_knee/jntDrvr_R_heel/jntDrvr_R_ball/jntDrvr_R_outterToeRoot/jntDrvr_R_outterToe_01
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_R_hip/jntDrvr_R_knee/jntDrvr_R_heel/jntDrvr_R_ball/jntDrvr_R_outterToeRoot/jntDrvr_R_outterToe_01/grp_loc_R_revOutterToe_01
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_R_hip/jntDrvr_R_knee/jntDrvr_R_heel/jntDrvr_R_ball/jntDrvr_R_outterToeRoot/jntDrvr_R_outterToe_01/grp_loc_R_revOutterToe_01/loc_R_revOutterToe_01
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_R_hip/jntDrvr_R_knee/jntDrvr_R_heel/jntDrvr_R_ball/jntDrvr_R_outterToeRoot/jntDrvr_R_outterToe_01/jntDrvr_R_outterToe_02
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_R_hip/jntDrvr_R_knee/jntDrvr_R_heel/jntDrvr_R_ball/jntDrvr_R_outterToeRoot/jntDrvr_R_outterToe_01/jntDrvr_R_outterToe_02/grp_loc_R_revOutterToe_02
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_R_hip/jntDrvr_R_knee/jntDrvr_R_heel/jntDrvr_R_ball/jntDrvr_R_outterToeRoot/jntDrvr_R_outterToe_01/jntDrvr_R_outterToe_02/grp_loc_R_revOutterToe_02/loc_R_revOutterToe_02
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_R_hip/jntDrvr_R_knee/jntDrvr_R_heel/jntDrvr_R_ball/jntDrvr_R_outterToeRoot/jntDrvr_R_outterToe_01/jntDrvr_R_outterToe_02/jntDrvr_R_outterToe_03
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_R_hip/jntDrvr_R_knee/jntDrvr_R_heel/jntDrvr_R_ball/jntDrvr_R_outterToeRoot/jntDrvr_R_outterToe_01/jntDrvr_R_outterToe_02/jntDrvr_R_outterToe_03/grp_loc_R_revOutterToe_03
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_R_hip/jntDrvr_R_knee/jntDrvr_R_heel/jntDrvr_R_ball/jntDrvr_R_outterToeRoot/jntDrvr_R_outterToe_01/jntDrvr_R_outterToe_02/jntDrvr_R_outterToe_03/grp_loc_R_revOutterToe_03/loc_R_revOutterToe_03
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_R_hip/jntDrvr_R_knee/jntDrvr_R_heel/loc_R_heel
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_R_poleJnt_hip
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_R_poleJnt_hip/jntDrvr_R_poleJnt_ankle
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_R_poleJnt_shoulder
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_R_poleJnt_shoulder/jntDrvr_R_poleJnt_wrist
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_R_revRackToe_03
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_R_revRackToe_03/jntDrvr_R_revRackToe_02
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_R_revRackToe_03/jntDrvr_R_revRackToe_02/jntDrvr_R_revRackToe_01
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_R_revRackToe_03/jntDrvr_R_revRackToe_02/jntDrvr_R_revRackToe_01/jntDrvr_R_revHeel
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_R_revRackToe_03/jntDrvr_R_revRackToe_02/jntDrvr_R_revRackToe_01/jntDrvr_R_revHeel/jntDrvr_R_revInnerToe_03
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_R_revRackToe_03/jntDrvr_R_revRackToe_02/jntDrvr_R_revRackToe_01/jntDrvr_R_revHeel/jntDrvr_R_revInnerToe_03/jntDrvr_R_revInnerToe_02
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_R_revRackToe_03/jntDrvr_R_revRackToe_02/jntDrvr_R_revRackToe_01/jntDrvr_R_revHeel/jntDrvr_R_revInnerToe_03/jntDrvr_R_revInnerToe_02/jntDrvr_R_revInnerToe_01
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_R_revRackToe_03/jntDrvr_R_revRackToe_02/jntDrvr_R_revRackToe_01/jntDrvr_R_revHeel/jntDrvr_R_revOutterToe_03
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_R_revRackToe_03/jntDrvr_R_revRackToe_02/jntDrvr_R_revRackToe_01/jntDrvr_R_revHeel/jntDrvr_R_revOutterToe_03/jntDrvr_R_revOutterToe_02
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_R_revRackToe_03/jntDrvr_R_revRackToe_02/jntDrvr_R_revRackToe_01/jntDrvr_R_revHeel/jntDrvr_R_revOutterToe_03/jntDrvr_R_revOutterToe_02/jntDrvr_R_revOutterToe_01
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_R_revRackToe_03/jntDrvr_R_revRackToe_02/jntDrvr_R_revRackToe_01/jntDrvr_R_revHeel/jntDrvr_R_revToe_03
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_R_revRackToe_03/jntDrvr_R_revRackToe_02/jntDrvr_R_revRackToe_01/jntDrvr_R_revHeel/jntDrvr_R_revToe_03/jntDrvr_R_revToe_02
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_R_revRackToe_03/jntDrvr_R_revRackToe_02/jntDrvr_R_revRackToe_01/jntDrvr_R_revHeel/jntDrvr_R_revToe_03/jntDrvr_R_revToe_02/jntDrvr_R_revToe_01
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_R_revRackToe_03/jntDrvr_R_revRackToe_02/jntDrvr_R_revRackToe_01/jntDrvr_R_revHeel/jntDrvr_R_revToe_03/jntDrvr_R_revToe_02/jntDrvr_R_revToe_01/jntDrvr_R_ball
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_R_shoulder
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_R_shoulder/jntDrvr_R_elbow
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_R_shoulder/jntDrvr_R_elbow/jntDrvr_R_wrist
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_R_shoulder/jntDrvr_R_elbow/jntDrvr_R_wrist/jntDrvr_R_wristEnd
+    m_Weight: 1
+  - m_Path: grp_JNT/grp_JNTDRVR/jntDrvr_R_shoulder/jntDrvr_R_elbow/jntDrvr_R_wrist/loc_L_wrist1
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_hip
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_hip/jnt_tailRoot
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_hip/jnt_tailRoot/jnt_tail
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_hip/jnt_tailRoot/jnt_tail/jtn_L_outerTailFeatherA_01
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_hip/jnt_tailRoot/jnt_tail/jtn_L_outerTailFeatherA_01/jtn_L_outerTailFeatherA_02
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_hip/jnt_tailRoot/jnt_tail/jtn_L_outerTailFeatherA_01/jtn_L_outerTailFeatherA_02/jtn_L_outerTailFeatherA_03
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_hip/jnt_tailRoot/jnt_tail/jtn_L_outerTailFeatherB_01
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_hip/jnt_tailRoot/jnt_tail/jtn_L_outerTailFeatherB_01/jtn_L_outerTailFeatherB_02
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_hip/jnt_tailRoot/jnt_tail/jtn_L_outerTailFeatherB_01/jtn_L_outerTailFeatherB_02/jtn_L_outerTailFeatherB_03
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_hip/jnt_tailRoot/jnt_tail/jtn_middleTailFeather01
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_hip/jnt_tailRoot/jnt_tail/jtn_middleTailFeather01/jtn_middleTailFeather02
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_hip/jnt_tailRoot/jnt_tail/jtn_middleTailFeather01/jtn_middleTailFeather02/jtn_middleTailFeather03
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_hip/jnt_tailRoot/jnt_tail/jtn_R_outerTailFeatherA_01
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_hip/jnt_tailRoot/jnt_tail/jtn_R_outerTailFeatherA_01/jtn_R_outerTailFeatherA_02
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_hip/jnt_tailRoot/jnt_tail/jtn_R_outerTailFeatherA_01/jtn_R_outerTailFeatherA_02/jtn_R_outerTailFeatherA_03
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_hip/jnt_tailRoot/jnt_tail/jtn_R_outerTailFeatherB_01
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_hip/jnt_tailRoot/jnt_tail/jtn_R_outerTailFeatherB_01/jtn_R_outerTailFeatherB_02
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_hip/jnt_tailRoot/jnt_tail/jtn_R_outerTailFeatherB_01/jtn_R_outerTailFeatherB_02/jtn_R_outerTailFeatherB_03
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_hip/jntHld_backSclComp
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_hip/jntHld_backSclComp/jnt_back
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_hip/jntHld_backSclComp/jnt_back/jntHld_neckSclComp
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_hip/jntHld_backSclComp/jnt_back/jntHld_neckSclComp/jnt_L_clavicle
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_hip/jntHld_backSclComp/jnt_back/jntHld_neckSclComp/jnt_L_clavicle/jnt_L_shoulder
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_hip/jntHld_backSclComp/jnt_back/jntHld_neckSclComp/jnt_L_clavicle/jnt_L_shoulder/jnt_L_elbow
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_hip/jntHld_backSclComp/jnt_back/jntHld_neckSclComp/jnt_L_clavicle/jnt_L_shoulder/jnt_L_elbow/jnt_L_wrist
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_hip/jntHld_backSclComp/jnt_back/jntHld_neckSclComp/jnt_L_clavicle/jnt_L_shoulder/jnt_L_elbow/jnt_L_wrist/jnt_L_indexFeather01
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_hip/jntHld_backSclComp/jnt_back/jntHld_neckSclComp/jnt_L_clavicle/jnt_L_shoulder/jnt_L_elbow/jnt_L_wrist/jnt_L_indexFeather01/jnt_L_indexFeather02
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_hip/jntHld_backSclComp/jnt_back/jntHld_neckSclComp/jnt_L_clavicle/jnt_L_shoulder/jnt_L_elbow/jnt_L_wrist/jnt_L_indexFeather01/jnt_L_indexFeather02/jnt_L_indexFeather03
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_hip/jntHld_backSclComp/jnt_back/jntHld_neckSclComp/jnt_L_clavicle/jnt_L_shoulder/jnt_L_elbow/jnt_L_wrist/jnt_L_midFeatherA01
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_hip/jntHld_backSclComp/jnt_back/jntHld_neckSclComp/jnt_L_clavicle/jnt_L_shoulder/jnt_L_elbow/jnt_L_wrist/jnt_L_midFeatherA01/jnt_L_midFeatherA02
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_hip/jntHld_backSclComp/jnt_back/jntHld_neckSclComp/jnt_L_clavicle/jnt_L_shoulder/jnt_L_elbow/jnt_L_wrist/jnt_L_midFeatherA01/jnt_L_midFeatherA02/jnt_L_midFeatherA03
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_hip/jntHld_backSclComp/jnt_back/jntHld_neckSclComp/jnt_L_clavicle/jnt_L_shoulder/jnt_L_elbow/jnt_L_wrist/jnt_L_midFeatherB01
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_hip/jntHld_backSclComp/jnt_back/jntHld_neckSclComp/jnt_L_clavicle/jnt_L_shoulder/jnt_L_elbow/jnt_L_wrist/jnt_L_midFeatherB01/jnt_L_midFeatherB02
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_hip/jntHld_backSclComp/jnt_back/jntHld_neckSclComp/jnt_L_clavicle/jnt_L_shoulder/jnt_L_elbow/jnt_L_wrist/jnt_L_midFeatherB01/jnt_L_midFeatherB02/jnt_L_midFeatherB03
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_hip/jntHld_backSclComp/jnt_back/jntHld_neckSclComp/jnt_L_clavicle/jnt_L_shoulder/jnt_L_elbow/jnt_L_wrist/jnt_L_pinkieFeather01
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_hip/jntHld_backSclComp/jnt_back/jntHld_neckSclComp/jnt_L_clavicle/jnt_L_shoulder/jnt_L_elbow/jnt_L_wrist/jnt_L_pinkieFeather01/jnt_L_pinkieFeather02
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_hip/jntHld_backSclComp/jnt_back/jntHld_neckSclComp/jnt_L_clavicle/jnt_L_shoulder/jnt_L_elbow/jnt_L_wrist/jnt_L_pinkieFeather01/jnt_L_pinkieFeather02/jnt_L_pinkieFeather03
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_hip/jntHld_backSclComp/jnt_back/jntHld_neckSclComp/jnt_L_clavicle/jnt_L_shoulder/jnt_L_elbow/jnt_L_wrist/jnt_L_ringFeather01
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_hip/jntHld_backSclComp/jnt_back/jntHld_neckSclComp/jnt_L_clavicle/jnt_L_shoulder/jnt_L_elbow/jnt_L_wrist/jnt_L_ringFeather01/jnt_L_ringFeather02
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_hip/jntHld_backSclComp/jnt_back/jntHld_neckSclComp/jnt_L_clavicle/jnt_L_shoulder/jnt_L_elbow/jnt_L_wrist/jnt_L_ringFeather01/jnt_L_ringFeather02/jnt_L_ringFeather03
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_hip/jntHld_backSclComp/jnt_back/jntHld_neckSclComp/jnt_neck
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_hip/jntHld_backSclComp/jnt_back/jntHld_neckSclComp/jnt_neck/jntHld_headBaseSclComp
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_hip/jntHld_backSclComp/jnt_back/jntHld_neckSclComp/jnt_neck/jntHld_headBaseSclComp/jnt_headBase
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_hip/jntHld_backSclComp/jnt_back/jntHld_neckSclComp/jnt_neck/jntHld_headBaseSclComp/jnt_headBase/jnt_jaw
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_hip/jntHld_backSclComp/jnt_back/jntHld_neckSclComp/jnt_neck/jntHld_headBaseSclComp/jnt_headBase/jnt_jaw/jnt_jawEnd
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_hip/jntHld_backSclComp/jnt_back/jntHld_neckSclComp/jnt_neck/jntHld_headBaseSclComp/jnt_headBase/jnt_jaw/tongue01
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_hip/jntHld_backSclComp/jnt_back/jntHld_neckSclComp/jnt_neck/jntHld_headBaseSclComp/jnt_headBase/jnt_jaw/tongue01/tongue02
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_hip/jntHld_backSclComp/jnt_back/jntHld_neckSclComp/jnt_neck/jntHld_headBaseSclComp/jnt_headBase/jnt_jaw/tongue01/tongue02/tongue03
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_hip/jntHld_backSclComp/jnt_back/jntHld_neckSclComp/jnt_neck/jntHld_headBaseSclComp/jnt_headBase/jnt_jaw/tongue01/tongue02/tongue03/tongue04
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_hip/jntHld_backSclComp/jnt_back/jntHld_neckSclComp/jnt_neck/jntHld_headBaseSclComp/jnt_headBase/jnt_L_eyeScale
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_hip/jntHld_backSclComp/jnt_back/jntHld_neckSclComp/jnt_neck/jntHld_headBaseSclComp/jnt_headBase/jnt_L_eyeScale/jnt_L_eye
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_hip/jntHld_backSclComp/jnt_back/jntHld_neckSclComp/jnt_neck/jntHld_headBaseSclComp/jnt_headBase/jnt_R_eyeScale
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_hip/jntHld_backSclComp/jnt_back/jntHld_neckSclComp/jnt_neck/jntHld_headBaseSclComp/jnt_headBase/jnt_R_eyeScale/jnt_R_eye
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_hip/jntHld_backSclComp/jnt_back/jntHld_neckSclComp/jnt_neck/jntHld_headBaseSclComp/jnt_headBase/jntHld_headEndSclComp
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_hip/jntHld_backSclComp/jnt_back/jntHld_neckSclComp/jnt_neck/jntHld_headBaseSclComp/jnt_headBase/jntHld_headEndSclComp/jnt_headend
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_hip/jntHld_backSclComp/jnt_back/jntHld_neckSclComp/jnt_neck/jntHld_headBaseSclComp/jnt_headBase/jntHld_headEndSclComp/jnt_headend/jnt_hairPiece01
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_hip/jntHld_backSclComp/jnt_back/jntHld_neckSclComp/jnt_neck/jntHld_headBaseSclComp/jnt_headBase/jntHld_headEndSclComp/jnt_headend/jnt_hairPiece01/jnt_hairPiece02
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_hip/jntHld_backSclComp/jnt_back/jntHld_neckSclComp/jnt_neck/jntHld_headBaseSclComp/jnt_headBase/jntHld_headEndSclComp/jnt_headend/jnt_hairPiece01/jnt_hairPiece02/jnt_hairPiece03
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_hip/jntHld_backSclComp/jnt_back/jntHld_neckSclComp/jnt_neck/jntHld_headBaseSclComp/jnt_headBase/jntHld_headEndSclComp/jnt_headend/jnt_hairPiece01/jnt_hairPiece02/jnt_hairPiece03/jnt_hairPiece04
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_hip/jntHld_backSclComp/jnt_back/jntHld_neckSclComp/jnt_neck/jntHld_headBaseSclComp/jnt_headBase/jntHld_headEndSclComp/jnt_headend/jnt_hairPiece01/jnt_hairPiece02/jnt_hairPiece03/jnt_hairPiece04/jnt_hairPieceEnd
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_hip/jntHld_backSclComp/jnt_back/jntHld_neckSclComp/jnt_R_clavicle
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_hip/jntHld_backSclComp/jnt_back/jntHld_neckSclComp/jnt_R_clavicle/jnt_R_shoulder
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_hip/jntHld_backSclComp/jnt_back/jntHld_neckSclComp/jnt_R_clavicle/jnt_R_shoulder/jnt_R_elbow
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_hip/jntHld_backSclComp/jnt_back/jntHld_neckSclComp/jnt_R_clavicle/jnt_R_shoulder/jnt_R_elbow/jnt_R_wrist
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_hip/jntHld_backSclComp/jnt_back/jntHld_neckSclComp/jnt_R_clavicle/jnt_R_shoulder/jnt_R_elbow/jnt_R_wrist/jnt_R_indexFeather01
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_hip/jntHld_backSclComp/jnt_back/jntHld_neckSclComp/jnt_R_clavicle/jnt_R_shoulder/jnt_R_elbow/jnt_R_wrist/jnt_R_indexFeather01/jnt_R_indexFeather02
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_hip/jntHld_backSclComp/jnt_back/jntHld_neckSclComp/jnt_R_clavicle/jnt_R_shoulder/jnt_R_elbow/jnt_R_wrist/jnt_R_indexFeather01/jnt_R_indexFeather02/jnt_R_indexFeather03
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_hip/jntHld_backSclComp/jnt_back/jntHld_neckSclComp/jnt_R_clavicle/jnt_R_shoulder/jnt_R_elbow/jnt_R_wrist/jnt_R_midFeatherA01
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_hip/jntHld_backSclComp/jnt_back/jntHld_neckSclComp/jnt_R_clavicle/jnt_R_shoulder/jnt_R_elbow/jnt_R_wrist/jnt_R_midFeatherA01/jnt_R_midFeatherA02
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_hip/jntHld_backSclComp/jnt_back/jntHld_neckSclComp/jnt_R_clavicle/jnt_R_shoulder/jnt_R_elbow/jnt_R_wrist/jnt_R_midFeatherA01/jnt_R_midFeatherA02/jnt_R_midFeatherA03
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_hip/jntHld_backSclComp/jnt_back/jntHld_neckSclComp/jnt_R_clavicle/jnt_R_shoulder/jnt_R_elbow/jnt_R_wrist/jnt_R_midFeatherB01
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_hip/jntHld_backSclComp/jnt_back/jntHld_neckSclComp/jnt_R_clavicle/jnt_R_shoulder/jnt_R_elbow/jnt_R_wrist/jnt_R_midFeatherB01/jnt_R_midFeatherB02
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_hip/jntHld_backSclComp/jnt_back/jntHld_neckSclComp/jnt_R_clavicle/jnt_R_shoulder/jnt_R_elbow/jnt_R_wrist/jnt_R_midFeatherB01/jnt_R_midFeatherB02/jnt_R_midFeatherB03
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_hip/jntHld_backSclComp/jnt_back/jntHld_neckSclComp/jnt_R_clavicle/jnt_R_shoulder/jnt_R_elbow/jnt_R_wrist/jnt_R_pinkieFeather01
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_hip/jntHld_backSclComp/jnt_back/jntHld_neckSclComp/jnt_R_clavicle/jnt_R_shoulder/jnt_R_elbow/jnt_R_wrist/jnt_R_pinkieFeather01/jnt_R_pinkieFeather02
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_hip/jntHld_backSclComp/jnt_back/jntHld_neckSclComp/jnt_R_clavicle/jnt_R_shoulder/jnt_R_elbow/jnt_R_wrist/jnt_R_pinkieFeather01/jnt_R_pinkieFeather02/jnt_R_pinkieFeather03
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_hip/jntHld_backSclComp/jnt_back/jntHld_neckSclComp/jnt_R_clavicle/jnt_R_shoulder/jnt_R_elbow/jnt_R_wrist/jnt_R_ringFeather01
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_hip/jntHld_backSclComp/jnt_back/jntHld_neckSclComp/jnt_R_clavicle/jnt_R_shoulder/jnt_R_elbow/jnt_R_wrist/jnt_R_ringFeather01/jnt_R_ringFeather02
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_hip/jntHld_backSclComp/jnt_back/jntHld_neckSclComp/jnt_R_clavicle/jnt_R_shoulder/jnt_R_elbow/jnt_R_wrist/jnt_R_ringFeather01/jnt_R_ringFeather02/jnt_R_ringFeather03
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_L_hip
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_L_hip/jntHld_L_kneeSclComp
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_L_hip/jntHld_L_kneeSclComp/jnt_L_knee
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_L_hip/jntHld_L_kneeSclComp/jnt_L_knee/jntHld_L_ankleSclComp
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_L_hip/jntHld_L_kneeSclComp/jnt_L_knee/jntHld_L_ankleSclComp/jnt_L_ankle
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_L_hip/jntHld_L_kneeSclComp/jnt_L_knee/jntHld_L_ankleSclComp/jnt_L_ankle/jntHld_L_ballSclComp
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_L_hip/jntHld_L_kneeSclComp/jnt_L_knee/jntHld_L_ankleSclComp/jnt_L_ankle/jntHld_L_ballSclComp/jnt_L_ball
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_L_hip/jntHld_L_kneeSclComp/jnt_L_knee/jntHld_L_ankleSclComp/jnt_L_ankle/jntHld_L_ballSclComp/jnt_L_ball/jnt_L_backToeRoot
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_L_hip/jntHld_L_kneeSclComp/jnt_L_knee/jntHld_L_ankleSclComp/jnt_L_ankle/jntHld_L_ballSclComp/jnt_L_ball/jnt_L_backToeRoot/jnt_L_backToe_01
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_L_hip/jntHld_L_kneeSclComp/jnt_L_knee/jntHld_L_ankleSclComp/jnt_L_ankle/jntHld_L_ballSclComp/jnt_L_ball/jnt_L_backToeRoot/jnt_L_backToe_01/jnt_L_backToe_02
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_L_hip/jntHld_L_kneeSclComp/jnt_L_knee/jntHld_L_ankleSclComp/jnt_L_ankle/jntHld_L_ballSclComp/jnt_L_ball/jnt_L_backToeRoot/jnt_L_backToe_01/jnt_L_backToe_02/jnt_L_backToe_03
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_L_hip/jntHld_L_kneeSclComp/jnt_L_knee/jntHld_L_ankleSclComp/jnt_L_ankle/jntHld_L_ballSclComp/jnt_L_ball/jnt_L_innerToeRoot
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_L_hip/jntHld_L_kneeSclComp/jnt_L_knee/jntHld_L_ankleSclComp/jnt_L_ankle/jntHld_L_ballSclComp/jnt_L_ball/jnt_L_innerToeRoot/jnt_L_innerToe_01
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_L_hip/jntHld_L_kneeSclComp/jnt_L_knee/jntHld_L_ankleSclComp/jnt_L_ankle/jntHld_L_ballSclComp/jnt_L_ball/jnt_L_innerToeRoot/jnt_L_innerToe_01/jnt_L_innerToe_02
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_L_hip/jntHld_L_kneeSclComp/jnt_L_knee/jntHld_L_ankleSclComp/jnt_L_ankle/jntHld_L_ballSclComp/jnt_L_ball/jnt_L_innerToeRoot/jnt_L_innerToe_01/jnt_L_innerToe_02/jnt_L_innerToe_03
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_L_hip/jntHld_L_kneeSclComp/jnt_L_knee/jntHld_L_ankleSclComp/jnt_L_ankle/jntHld_L_ballSclComp/jnt_L_ball/jnt_L_middleToeRoot
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_L_hip/jntHld_L_kneeSclComp/jnt_L_knee/jntHld_L_ankleSclComp/jnt_L_ankle/jntHld_L_ballSclComp/jnt_L_ball/jnt_L_middleToeRoot/jnt_L_middleToe_01
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_L_hip/jntHld_L_kneeSclComp/jnt_L_knee/jntHld_L_ankleSclComp/jnt_L_ankle/jntHld_L_ballSclComp/jnt_L_ball/jnt_L_middleToeRoot/jnt_L_middleToe_01/jnt_L_middleToe_02
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_L_hip/jntHld_L_kneeSclComp/jnt_L_knee/jntHld_L_ankleSclComp/jnt_L_ankle/jntHld_L_ballSclComp/jnt_L_ball/jnt_L_middleToeRoot/jnt_L_middleToe_01/jnt_L_middleToe_02/jnt_L_middleToe_03
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_L_hip/jntHld_L_kneeSclComp/jnt_L_knee/jntHld_L_ankleSclComp/jnt_L_ankle/jntHld_L_ballSclComp/jnt_L_ball/jnt_L_outterToeRoot
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_L_hip/jntHld_L_kneeSclComp/jnt_L_knee/jntHld_L_ankleSclComp/jnt_L_ankle/jntHld_L_ballSclComp/jnt_L_ball/jnt_L_outterToeRoot/jnt_L_outterToe_01
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_L_hip/jntHld_L_kneeSclComp/jnt_L_knee/jntHld_L_ankleSclComp/jnt_L_ankle/jntHld_L_ballSclComp/jnt_L_ball/jnt_L_outterToeRoot/jnt_L_outterToe_01/jnt_L_outterToe_02
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_L_hip/jntHld_L_kneeSclComp/jnt_L_knee/jntHld_L_ankleSclComp/jnt_L_ankle/jntHld_L_ballSclComp/jnt_L_ball/jnt_L_outterToeRoot/jnt_L_outterToe_01/jnt_L_outterToe_02/jnt_L_outterToe_03
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_R_hip
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_R_hip/jntHld_R_kneeSclComp
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_R_hip/jntHld_R_kneeSclComp/jnt_R_knee
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_R_hip/jntHld_R_kneeSclComp/jnt_R_knee/jntHld_R_ankleSclComp
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_R_hip/jntHld_R_kneeSclComp/jnt_R_knee/jntHld_R_ankleSclComp/jnt_R_ankle
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_R_hip/jntHld_R_kneeSclComp/jnt_R_knee/jntHld_R_ankleSclComp/jnt_R_ankle/jntHld_R_ballSclComp
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_R_hip/jntHld_R_kneeSclComp/jnt_R_knee/jntHld_R_ankleSclComp/jnt_R_ankle/jntHld_R_ballSclComp/jnt_R_ball
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_R_hip/jntHld_R_kneeSclComp/jnt_R_knee/jntHld_R_ankleSclComp/jnt_R_ankle/jntHld_R_ballSclComp/jnt_R_ball/jnt_R_backToeRoot
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_R_hip/jntHld_R_kneeSclComp/jnt_R_knee/jntHld_R_ankleSclComp/jnt_R_ankle/jntHld_R_ballSclComp/jnt_R_ball/jnt_R_backToeRoot/jnt_R_backToe_01
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_R_hip/jntHld_R_kneeSclComp/jnt_R_knee/jntHld_R_ankleSclComp/jnt_R_ankle/jntHld_R_ballSclComp/jnt_R_ball/jnt_R_backToeRoot/jnt_R_backToe_01/jnt_R_backToe_02
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_R_hip/jntHld_R_kneeSclComp/jnt_R_knee/jntHld_R_ankleSclComp/jnt_R_ankle/jntHld_R_ballSclComp/jnt_R_ball/jnt_R_backToeRoot/jnt_R_backToe_01/jnt_R_backToe_02/jnt_R_backToe_03
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_R_hip/jntHld_R_kneeSclComp/jnt_R_knee/jntHld_R_ankleSclComp/jnt_R_ankle/jntHld_R_ballSclComp/jnt_R_ball/jnt_R_innerToeRoot
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_R_hip/jntHld_R_kneeSclComp/jnt_R_knee/jntHld_R_ankleSclComp/jnt_R_ankle/jntHld_R_ballSclComp/jnt_R_ball/jnt_R_innerToeRoot/jnt_R_innerToe_01
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_R_hip/jntHld_R_kneeSclComp/jnt_R_knee/jntHld_R_ankleSclComp/jnt_R_ankle/jntHld_R_ballSclComp/jnt_R_ball/jnt_R_innerToeRoot/jnt_R_innerToe_01/jnt_R_innerToe_02
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_R_hip/jntHld_R_kneeSclComp/jnt_R_knee/jntHld_R_ankleSclComp/jnt_R_ankle/jntHld_R_ballSclComp/jnt_R_ball/jnt_R_innerToeRoot/jnt_R_innerToe_01/jnt_R_innerToe_02/jnt_R_innerToe_03
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_R_hip/jntHld_R_kneeSclComp/jnt_R_knee/jntHld_R_ankleSclComp/jnt_R_ankle/jntHld_R_ballSclComp/jnt_R_ball/jnt_R_middleToeRoot
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_R_hip/jntHld_R_kneeSclComp/jnt_R_knee/jntHld_R_ankleSclComp/jnt_R_ankle/jntHld_R_ballSclComp/jnt_R_ball/jnt_R_middleToeRoot/jnt_R_middleToe_01
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_R_hip/jntHld_R_kneeSclComp/jnt_R_knee/jntHld_R_ankleSclComp/jnt_R_ankle/jntHld_R_ballSclComp/jnt_R_ball/jnt_R_middleToeRoot/jnt_R_middleToe_01/jnt_R_middleToe_02
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_R_hip/jntHld_R_kneeSclComp/jnt_R_knee/jntHld_R_ankleSclComp/jnt_R_ankle/jntHld_R_ballSclComp/jnt_R_ball/jnt_R_middleToeRoot/jnt_R_middleToe_01/jnt_R_middleToe_02/jnt_R_middleToe_03
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_R_hip/jntHld_R_kneeSclComp/jnt_R_knee/jntHld_R_ankleSclComp/jnt_R_ankle/jntHld_R_ballSclComp/jnt_R_ball/jnt_R_outterToeRoot
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_R_hip/jntHld_R_kneeSclComp/jnt_R_knee/jntHld_R_ankleSclComp/jnt_R_ankle/jntHld_R_ballSclComp/jnt_R_ball/jnt_R_outterToeRoot/jnt_R_outterToe_01
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_R_hip/jntHld_R_kneeSclComp/jnt_R_knee/jntHld_R_ankleSclComp/jnt_R_ankle/jntHld_R_ballSclComp/jnt_R_ball/jnt_R_outterToeRoot/jnt_R_outterToe_01/jnt_R_outterToe_02
+    m_Weight: 1
+  - m_Path: grp_JNT/jnt_root/jnt_R_hip/jntHld_R_kneeSclComp/jnt_R_knee/jntHld_R_ankleSclComp/jnt_R_ankle/jntHld_R_ballSclComp/jnt_R_ball/jnt_R_outterToeRoot/jnt_R_outterToe_01/jnt_R_outterToe_02/jnt_R_outterToe_03
+    m_Weight: 1

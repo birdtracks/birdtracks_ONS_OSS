@@ -1,0 +1,1436 @@
+fileFormatVersion: 2
+guid: 1b8e99199760e3d4da11b5a75896086e
+importerOverride:
+  nativeImporterType: 2089858483
+  scriptedImporterType:
+    serializedVersion: 2
+    Hash: b10b55a1aa6a1aa32521bc0cab59632e
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: Nest_Front
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 2531
+      height: 1661
+    spriteID: dd8d34c9754af0b49a33a5e12d1e70e4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -226, y: -414}
+    spritePosition: {x: 230, y: 418}
+  - name: Frog2_Mouth
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1780
+      y: 3086
+      width: 223
+      height: 87
+    spriteID: 3d638be7349befe4bbc0c34903c5ea47
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 219, y: 1179}
+    spritePosition: {x: 1561, y: 1907}
+  - name: Frog2_Head
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2077
+      y: 1673
+      width: 833
+      height: 586
+    spriteID: 5a91f2d9ea91392488b7a7cc83add652
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2077, y: 1673}
+    spritePosition: {x: 1326, y: 1671}
+  - name: Frog2_Pupil1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 776
+      y: 3086
+      width: 154
+      height: 154
+    spriteID: 7729f3ce211363247b4481e47e42f0a5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -1068, y: 1076}
+    spritePosition: {x: 1844, y: 2010}
+  - name: Frog2_Pupil2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1027
+      y: 3086
+      width: 154
+      height: 154
+    spriteID: 25ea5b96e96713f42941a08db39316a4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -340, y: 1031}
+    spritePosition: {x: 1367, y: 2055}
+  - name: Frog2_EyeWhite
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2543
+      y: 1400
+      width: 639
+      height: 228
+    spriteID: e1be87e21ad8e044b9204093d5e947e3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2543, y: 1400}
+    spritePosition: {x: 1393, y: 1994}
+  - name: Frog2_Leg1_Mid
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 583
+      y: 2860
+      width: 185
+      height: 386
+    spriteID: 35207c923a621554495befa63f0dd991
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 583, y: 2860}
+    spritePosition: {x: 1748, y: 1101}
+  - name: Frog2_Leg1_Top
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3816
+      y: 2231
+      width: 211
+      height: 354
+    spriteID: d9a2964a545cf3048a54f446c5f5c584
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3816, y: 2231}
+    spritePosition: {x: 1775, y: 1325}
+  - name: Frog2_Leg1_Foot
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3717
+      y: 1320
+      width: 243
+      height: 218
+    spriteID: ad5cbde2d10db5a4bab47980cac80e77
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3717, y: 1320}
+    spritePosition: {x: 1752, y: 943}
+  - name: Frog2_Leg2_Mid
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2860
+      width: 185
+      height: 387
+    spriteID: fa50697d24519cc4284c645a3081ea63
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 2860}
+    spritePosition: {x: 1542, y: 1118}
+  - name: Frog2_Leg2_Top
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3268
+      y: 1349
+      width: 243
+      height: 218
+    spriteID: d26a7cda26578c246ab194d8ca3d9c1f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3268, y: 1349}
+    spritePosition: {x: 1481, y: 958}
+  - name: Frog2_Leg2_Foot
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2526
+      y: 2267
+      width: 211
+      height: 354
+    spriteID: 7fa967cf1e580d94c8a6e04de628def7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2526, y: 2267}
+    spritePosition: {x: 1489, y: 1343}
+  - name: Frog2_Body
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2543
+      y: 4
+      width: 717
+      height: 690
+    spriteID: 395ade57d897ce140b802cd655eea255
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2543, y: 4}
+    spritePosition: {x: 1454, y: 1205}
+  - name: Frog2_Leg3_Mid
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3268
+      y: 395
+      width: 345
+      height: 469
+    spriteID: 883c337fa9691e943b69e895a36e2807
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3268, y: 395}
+    spritePosition: {x: 1335, y: 1280}
+  - name: Frog2_Leg3_Foot
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 776
+      y: 2860
+      width: 243
+      height: 218
+    spriteID: f7670c859a5039b4bbf70450afd87ae4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 776, y: 2860}
+    spritePosition: {x: 1441, y: 1128}
+  - name: Frog2_Leg3_Top
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2077
+      y: 2267
+      width: 441
+      height: 383
+    spriteID: d2b1c64304f079a41b04c23f8bbbe219
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2077, y: 2267}
+    spritePosition: {x: 1331, y: 1391}
+  - name: Frog2_Leg3_Mid
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3268
+      y: 872
+      width: 345
+      height: 469
+    spriteID: fd2af50aa4190cd43a6422c4aa131dcb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3268, y: 872}
+    spritePosition: {x: 2035, y: 1212}
+  - name: Frog2_Leg3_Foot
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1027
+      y: 2860
+      width: 243
+      height: 218
+    spriteID: 899f0ffd7f901ef47890606cb9ba214b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1027, y: 2860}
+    spritePosition: {x: 2031, y: 1060}
+  - name: Frog2_Leg3_Top
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2918
+      y: 2231
+      width: 441
+      height: 383
+    spriteID: 82264f8525280094698b2fa849d7ed36
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2918, y: 2231}
+    spritePosition: {x: 1943, y: 1323}
+  - name: Frog1_Mouth
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3765
+      y: 2035
+      width: 223
+      height: 83
+    spriteID: 713be53212a23c8428bec9c208cc7e3c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2861, y: 89}
+    spritePosition: {x: 904, y: 1946}
+  - name: Frog1_Head
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2918
+      y: 1673
+      width: 839
+      height: 550
+    spriteID: 0c086cccf1610314dbaf7991e2c4fef1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2918, y: 1673}
+    spritePosition: {x: 590, y: 1678}
+  - name: Frog1_Pupil2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1278
+      y: 3086
+      width: 154
+      height: 154
+    spriteID: 705099604032d884494758999284a457
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 94, y: 1049}
+    spritePosition: {x: 1184, y: 2037}
+  - name: Frog1_Pupil1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1529
+      y: 3086
+      width: 154
+      height: 154
+    spriteID: c6013e60828024f448e140d248a21551
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 832, y: 1055}
+    spritePosition: {x: 697, y: 2031}
+  - name: Frog1_EyeWhite
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2665
+      width: 659
+      height: 187
+    spriteID: 7ada90ba8baf2b1458c5871519beeae4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 2665}
+    spritePosition: {x: 669, y: 2008}
+  - name: Frog1_Leg1_Mid
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 197
+      y: 2860
+      width: 185
+      height: 387
+    spriteID: cc3a451aa29236942abe747dce9e0013
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 197, y: 2860}
+    spritePosition: {x: 771, y: 1097}
+  - name: Frog1_Leg1_Foot
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1278
+      y: 2860
+      width: 243
+      height: 218
+    spriteID: a9c9bb401d8c28941b05b36e7fddea35
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1278, y: 2860}
+    spritePosition: {x: 714, y: 936}
+  - name: Frog1_Leg1_Top
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3765
+      y: 1673
+      width: 211
+      height: 354
+    spriteID: 203f9554d68bb2740bb5396dba35ee28
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3765, y: 1673}
+    spritePosition: {x: 718, y: 1322}
+  - name: Frog1_Leg2_Mid
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 390
+      y: 2860
+      width: 185
+      height: 387
+    spriteID: 56207f32b2062124eb3a66474c62a3b9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 390, y: 2860}
+    spritePosition: {x: 1047, y: 1091}
+  - name: Frog1_Leg2_Foot
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1529
+      y: 2860
+      width: 243
+      height: 218
+    spriteID: 8d308adbc4621b14b9b4d9e50724de6c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1529, y: 2860}
+    spritePosition: {x: 1049, y: 926}
+  - name: Frog1_Leg2_Top
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3717
+      y: 958
+      width: 211
+      height: 354
+    spriteID: 46e6082389b0f4e449aa2b540ff392cf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3717, y: 958}
+    spritePosition: {x: 1074, y: 1316}
+  - name: Frog1_Body
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2543
+      y: 702
+      width: 717
+      height: 690
+    spriteID: 470c0751895dcf44eac5a99863d38b5c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2543, y: 702}
+    spritePosition: {x: 662, y: 1172}
+  - name: Frog1_Leg3_Mid
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3717
+      y: 4
+      width: 345
+      height: 469
+    spriteID: 0834ddc882843cd46bf1355f8ed076b7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3717, y: 4}
+    spritePosition: {x: 458, y: 1220}
+  - name: Frog1_Leg3_Foot
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1780
+      y: 2860
+      width: 243
+      height: 218
+    spriteID: 3cb0f16a83382c8448f5d064f4ee6031
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1780, y: 2860}
+    spritePosition: {x: 564, y: 1068}
+  - name: Frog1_Leg3_Top
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3367
+      y: 2231
+      width: 441
+      height: 383
+    spriteID: ea705f4cb3165824ca179370732107eb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3367, y: 2231}
+    spritePosition: {x: 454, y: 1331}
+  - name: Frog1_Leg4_Mid
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3717
+      y: 481
+      width: 345
+      height: 469
+    spriteID: 8dff0635d38d98d4391ab39a8d0529cf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3717, y: 481}
+    spritePosition: {x: 1233, y: 1222}
+  - name: Frog1_Leg4_Foot
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2031
+      y: 2860
+      width: 243
+      height: 218
+    spriteID: c0cc8c490f6c7874097426392decdb3f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2031, y: 2860}
+    spritePosition: {x: 1229, y: 1070}
+  - name: Frog1_Leg4_Top
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3268
+      y: 4
+      width: 441
+      height: 383
+    spriteID: 245cf669db1a7d14aabc89bce5b34c00
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3268, y: 4}
+    spritePosition: {x: 1141, y: 1333}
+  - name: Nest_back
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1673
+      width: 2065
+      height: 984
+    spriteID: 883fcbc77716e26428f8b81e44a69dab
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -359, y: 857}
+    spritePosition: {x: 363, y: 816}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  sharedRigSpriteImportData: []
+  sharedRigCharacterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  platformSettings: []
+  mosaicLayers: 1
+  characterMode: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  layerMappingOption: 2
+  generatePhysicsShape: 0
+  paperDollMode: 0
+  keepDupilcateSpriteName: 1
+  skeletonAssetReferenceID: 
+  pipeline: {instanceID: 0}
+  pipelineVersion: 
+  padding: 4
+  spriteSizeExpand: 0
+  spriteCategoryList:
+    categories: []
+  spritePackingTag: 
+  resliceFromLayer: 0
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: Nest_Front
+    spriteName: Nest_Front
+    isGroup: 0
+    parentIndex: -1
+    spriteID: dd8d34c9754af0b49a33a5e12d1e70e4
+    layerID: 202
+    mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Frog2
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: ad9de0043bb19614f8f7c7441dcd1e3d
+    layerID: 201
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Frog2_Mouth
+    spriteName: Frog2_Mouth
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 3d638be7349befe4bbc0c34903c5ea47
+    layerID: 186
+    mosaicPosition: {x: 1780, y: 3086}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Frog2_Head
+    spriteName: Frog2_Head
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 5a91f2d9ea91392488b7a7cc83add652
+    layerID: 200
+    mosaicPosition: {x: 2077, y: 1673}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Frog2_Pupil1
+    spriteName: Frog2_Pupil1
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 7729f3ce211363247b4481e47e42f0a5
+    layerID: 197
+    mosaicPosition: {x: 776, y: 3086}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Frog2_Pupil2
+    spriteName: Frog2_Pupil2
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 25ea5b96e96713f42941a08db39316a4
+    layerID: 191
+    mosaicPosition: {x: 1027, y: 3086}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Frog2_EyeWhite
+    spriteName: Frog2_EyeWhite
+    isGroup: 0
+    parentIndex: 1
+    spriteID: e1be87e21ad8e044b9204093d5e947e3
+    layerID: 190
+    mosaicPosition: {x: 2543, y: 1400}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Frog2_Leg1
+    spriteName: 
+    isGroup: 1
+    parentIndex: 1
+    spriteID: 5d2ee670d87a496489485d34f15590fa
+    layerID: 179
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Frog2_Leg1_Mid
+    spriteName: Frog2_Leg1_Mid
+    isGroup: 0
+    parentIndex: 7
+    spriteID: 35207c923a621554495befa63f0dd991
+    layerID: 178
+    mosaicPosition: {x: 583, y: 2860}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Frog2_Leg1_Top
+    spriteName: Frog2_Leg1_Top
+    isGroup: 0
+    parentIndex: 7
+    spriteID: d9a2964a545cf3048a54f446c5f5c584
+    layerID: 172
+    mosaicPosition: {x: 3816, y: 2231}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Frog2_Leg1_Foot
+    spriteName: Frog2_Leg1_Foot
+    isGroup: 0
+    parentIndex: 7
+    spriteID: ad5cbde2d10db5a4bab47980cac80e77
+    layerID: 167
+    mosaicPosition: {x: 3717, y: 1320}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Frog2_Leg2
+    spriteName: 
+    isGroup: 1
+    parentIndex: 1
+    spriteID: d76930bea2b33814ab8940f87776a115
+    layerID: 161
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Frog2_Leg2_Mid
+    spriteName: Frog2_Leg2_Mid
+    isGroup: 0
+    parentIndex: 11
+    spriteID: fa50697d24519cc4284c645a3081ea63
+    layerID: 160
+    mosaicPosition: {x: 4, y: 2860}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Frog2_Leg2_Top
+    spriteName: Frog2_Leg2_Top
+    isGroup: 0
+    parentIndex: 11
+    spriteID: d26a7cda26578c246ab194d8ca3d9c1f
+    layerID: 154
+    mosaicPosition: {x: 3268, y: 1349}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Frog2_Leg2_Foot
+    spriteName: Frog2_Leg2_Foot
+    isGroup: 0
+    parentIndex: 11
+    spriteID: 7fa967cf1e580d94c8a6e04de628def7
+    layerID: 149
+    mosaicPosition: {x: 2526, y: 2267}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Frog2_Body
+    spriteName: Frog2_Body
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 395ade57d897ce140b802cd655eea255
+    layerID: 143
+    mosaicPosition: {x: 2543, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Frog2_Leg3
+    spriteName: 
+    isGroup: 1
+    parentIndex: 1
+    spriteID: ba0ba2d252bb7a144836ad5c18b01f89
+    layerID: 138
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Frog2_Leg3_Mid
+    spriteName: Frog2_Leg3_Mid
+    isGroup: 0
+    parentIndex: 16
+    spriteID: 883c337fa9691e943b69e895a36e2807
+    layerID: 137
+    mosaicPosition: {x: 3268, y: 395}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Frog2_Leg3_Foot
+    spriteName: Frog2_Leg3_Foot
+    isGroup: 0
+    parentIndex: 16
+    spriteID: f7670c859a5039b4bbf70450afd87ae4
+    layerID: 131
+    mosaicPosition: {x: 776, y: 2860}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Frog2_Leg3_Top
+    spriteName: Frog2_Leg3_Top
+    isGroup: 0
+    parentIndex: 16
+    spriteID: d2b1c64304f079a41b04c23f8bbbe219
+    layerID: 126
+    mosaicPosition: {x: 2077, y: 2267}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Frog2_Leg4
+    spriteName: 
+    isGroup: 1
+    parentIndex: 1
+    spriteID: 19d16b3424725504484d0cc5b30adcec
+    layerID: 120
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Frog2_Leg3_Mid
+    spriteName: Frog2_Leg3_Mid
+    isGroup: 0
+    parentIndex: 20
+    spriteID: fd2af50aa4190cd43a6422c4aa131dcb
+    layerID: 119
+    mosaicPosition: {x: 3268, y: 872}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Frog2_Leg3_Foot
+    spriteName: Frog2_Leg3_Foot
+    isGroup: 0
+    parentIndex: 20
+    spriteID: 899f0ffd7f901ef47890606cb9ba214b
+    layerID: 115
+    mosaicPosition: {x: 1027, y: 2860}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Frog2_Leg3_Top
+    spriteName: Frog2_Leg3_Top
+    isGroup: 0
+    parentIndex: 20
+    spriteID: 82264f8525280094698b2fa849d7ed36
+    layerID: 110
+    mosaicPosition: {x: 2918, y: 2231}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Frog1
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 9a4fafc3d1445f14298dc6b44c3179dc
+    layerID: 104
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Frog_1_Head
+    spriteName: 
+    isGroup: 1
+    parentIndex: 24
+    spriteID: 4cb31eaf4dadc9b40b809542d37e9c06
+    layerID: 103
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Frog1_Mouth
+    spriteName: Frog1_Mouth
+    isGroup: 0
+    parentIndex: 25
+    spriteID: 713be53212a23c8428bec9c208cc7e3c
+    layerID: 89
+    mosaicPosition: {x: 3765, y: 2035}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Frog1_Head
+    spriteName: Frog1_Head
+    isGroup: 0
+    parentIndex: 25
+    spriteID: 0c086cccf1610314dbaf7991e2c4fef1
+    layerID: 102
+    mosaicPosition: {x: 2918, y: 1673}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Frog1_Pupil2
+    spriteName: Frog1_Pupil2
+    isGroup: 0
+    parentIndex: 25
+    spriteID: 705099604032d884494758999284a457
+    layerID: 100
+    mosaicPosition: {x: 1278, y: 3086}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Frog1_Pupil1
+    spriteName: Frog1_Pupil1
+    isGroup: 0
+    parentIndex: 25
+    spriteID: c6013e60828024f448e140d248a21551
+    layerID: 94
+    mosaicPosition: {x: 1529, y: 3086}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Frog1_EyeWhite
+    spriteName: Frog1_EyeWhite
+    isGroup: 0
+    parentIndex: 25
+    spriteID: 7ada90ba8baf2b1458c5871519beeae4
+    layerID: 93
+    mosaicPosition: {x: 4, y: 2665}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Frog1_Leg1
+    spriteName: 
+    isGroup: 1
+    parentIndex: 24
+    spriteID: c46212e96c226e341a94e6fcd4b5ddb2
+    layerID: 62
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Frog1_Leg1_Mid
+    spriteName: Frog1_Leg1_Mid
+    isGroup: 0
+    parentIndex: 31
+    spriteID: cc3a451aa29236942abe747dce9e0013
+    layerID: 61
+    mosaicPosition: {x: 197, y: 2860}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Frog1_Leg1_Foot
+    spriteName: Frog1_Leg1_Foot
+    isGroup: 0
+    parentIndex: 31
+    spriteID: a9c9bb401d8c28941b05b36e7fddea35
+    layerID: 55
+    mosaicPosition: {x: 1278, y: 2860}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Frog1_Leg1_Top
+    spriteName: Frog1_Leg1_Top
+    isGroup: 0
+    parentIndex: 31
+    spriteID: 203f9554d68bb2740bb5396dba35ee28
+    layerID: 50
+    mosaicPosition: {x: 3765, y: 1673}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Frog1_Leg2
+    spriteName: 
+    isGroup: 1
+    parentIndex: 24
+    spriteID: e5146cf80c47d454c88920f2ac03e375
+    layerID: 80
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Frog1_Leg2_Mid
+    spriteName: Frog1_Leg2_Mid
+    isGroup: 0
+    parentIndex: 35
+    spriteID: 56207f32b2062124eb3a66474c62a3b9
+    layerID: 79
+    mosaicPosition: {x: 390, y: 2860}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Frog1_Leg2_Foot
+    spriteName: Frog1_Leg2_Foot
+    isGroup: 0
+    parentIndex: 35
+    spriteID: 8d308adbc4621b14b9b4d9e50724de6c
+    layerID: 73
+    mosaicPosition: {x: 1529, y: 2860}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Frog1_Leg2_Top
+    spriteName: Frog1_Leg2_Top
+    isGroup: 0
+    parentIndex: 35
+    spriteID: 46e6082389b0f4e449aa2b540ff392cf
+    layerID: 68
+    mosaicPosition: {x: 3717, y: 958}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Frog1_Body
+    spriteName: Frog1_Body
+    isGroup: 0
+    parentIndex: 24
+    spriteID: 470c0751895dcf44eac5a99863d38b5c
+    layerID: 44
+    mosaicPosition: {x: 2543, y: 702}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Frog1_Leg3
+    spriteName: 
+    isGroup: 1
+    parentIndex: 24
+    spriteID: f5cd09919d0c89842a1e7149fa1baf29
+    layerID: 39
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Frog1_Leg3_Mid
+    spriteName: Frog1_Leg3_Mid
+    isGroup: 0
+    parentIndex: 40
+    spriteID: 0834ddc882843cd46bf1355f8ed076b7
+    layerID: 38
+    mosaicPosition: {x: 3717, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Frog1_Leg3_Foot
+    spriteName: Frog1_Leg3_Foot
+    isGroup: 0
+    parentIndex: 40
+    spriteID: 3cb0f16a83382c8448f5d064f4ee6031
+    layerID: 32
+    mosaicPosition: {x: 1780, y: 2860}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Frog1_Leg3_Top
+    spriteName: Frog1_Leg3_Top
+    isGroup: 0
+    parentIndex: 40
+    spriteID: ea705f4cb3165824ca179370732107eb
+    layerID: 27
+    mosaicPosition: {x: 3367, y: 2231}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Frog1_Leg4
+    spriteName: 
+    isGroup: 1
+    parentIndex: 24
+    spriteID: 5f467db4c4ddaee4d924e86b13436f01
+    layerID: 21
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Frog1_Leg4_Mid
+    spriteName: Frog1_Leg4_Mid
+    isGroup: 0
+    parentIndex: 44
+    spriteID: 8dff0635d38d98d4391ab39a8d0529cf
+    layerID: 20
+    mosaicPosition: {x: 3717, y: 481}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Frog1_Leg4_Foot
+    spriteName: Frog1_Leg4_Foot
+    isGroup: 0
+    parentIndex: 44
+    spriteID: c0cc8c490f6c7874097426392decdb3f
+    layerID: 14
+    mosaicPosition: {x: 2031, y: 2860}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Frog1_Leg4_Top
+    spriteName: Frog1_Leg4_Top
+    isGroup: 0
+    parentIndex: 44
+    spriteID: 245cf669db1a7d14aabc89bce5b34c00
+    layerID: 9
+    mosaicPosition: {x: 3268, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Nest_back
+    spriteName: Nest_back
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 883fcbc77716e26428f8b81e44a69dab
+    layerID: 2
+    mosaicPosition: {x: 4, y: 1673}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  sharedRigPSDLayers: []
+  pSDLayerImportSetting: []
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  spriteSizeExpandChanged: 0
+  generateGOHierarchy: 0
+  textureAssetName: 
+  prefabAssetName: 
+  spriteLibAssetName: 
+  skeletonAssetName: 
+  secondarySpriteTextures: []

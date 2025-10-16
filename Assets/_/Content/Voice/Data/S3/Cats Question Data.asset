@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dff2ec958edc25a429b6f9df77109df3, type: 3}
+  m_Name: Cats Question Data
+  m_EditorClassIdentifier: 
+  CatsQuestionList:
+  - ENGQuestionAudioClip: {fileID: 8300000, guid: 09d4fb5e163ead247bf37f17378fd7df,
+      type: 3}
+    SSWQuestionAudioClip: {fileID: 8300000, guid: 8f9c0a17e11dc814c8c7aee51b79c8d9,
+      type: 3}
+    ENGPromptQuestionAudioClip: {fileID: 8300000, guid: 8e9afda02d9e3574f818310b79580eb1,
+      type: 3}
+    SSWPromptQuestionAudioClip: {fileID: 8300000, guid: ceb6a53e0ad5acc428fb2717b0e1f375,
+      type: 3}
+    MainQuestionSubtitle: Can you tell me how many cats there were?
+    NudgeQuestionSubtitle: 'Please tell me: How many cats were there?'
+    AcknowledgeSubtitle: Right...I think there were two cats
+    maxListeningTime: 15
+    Completed: 0
+  - ENGQuestionAudioClip: {fileID: 8300000, guid: 15667fb8f58ce4b419ee2d55225b83e9,
+      type: 3}
+    SSWQuestionAudioClip: {fileID: 8300000, guid: 5dcb31e0c0da89947898aa6d618f9e3f,
+      type: 3}
+    ENGPromptQuestionAudioClip: {fileID: 8300000, guid: eea8945eec142e74896415e188679aaf,
+      type: 3}
+    SSWPromptQuestionAudioClip: {fileID: 8300000, guid: 9cd8b69430bbbb84eb1e34eef075099e,
+      type: 3}
+    MainQuestionSubtitle: What kind of animal were the cats playing with?
+    NudgeQuestionSubtitle: 'Please tell me: what kind of animal were the cats playing
+      with?'
+    AcknowledgeSubtitle: Right...It sounded like the cats were playing with a frog.
+    maxListeningTime: 15
+    Completed: 0
+  - ENGQuestionAudioClip: {fileID: 8300000, guid: 36cf3c8b73c86a044a36a5c5bfecfd52,
+      type: 3}
+    SSWQuestionAudioClip: {fileID: 8300000, guid: ec5cb69d164089646a6a54d4c9091327,
+      type: 3}
+    ENGPromptQuestionAudioClip: {fileID: 8300000, guid: 05b63f8fa1890ee4681224b1b244d12f,
+      type: 3}
+    SSWPromptQuestionAudioClip: {fileID: 8300000, guid: c81db3dec01b9f943a0c321b372b50b9,
+      type: 3}
+    MainQuestionSubtitle: What colour was the frog?
+    NudgeQuestionSubtitle: Please tell me, what colour was the frog?
+    AcknowledgeSubtitle: Mm=hmm, frogs are green!
+    maxListeningTime: 15
+    Completed: 0

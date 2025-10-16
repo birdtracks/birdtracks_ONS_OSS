@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad3ada4e39e3e3c4c841739fdfdf8818, type: 3}
+  m_Name: VideoVoiceOverAudioLibrary
+  m_EditorClassIdentifier: 
+  ActiveLanguage: 0
+  VoiceOverPacks:
+  - ID: A-01
+    EnglishClip: {fileID: 8300000, guid: 1b35783e29662174b96e0799d2b17ad1, type: 3}
+    SeswatiClip: {fileID: 8300000, guid: d1fb9f251a6382b4f902b332feb1d1d3, type: 3}
+  - ID: A-02
+    EnglishClip: {fileID: 8300000, guid: 1c9ddd7fd5ed2b340a8bc46bc1810400, type: 3}
+    SeswatiClip: {fileID: 8300000, guid: e2be511827264f1469d6b24f489484c9, type: 3}
+  - ID: A-03
+    EnglishClip: {fileID: 8300000, guid: 40621e4b7c6e60146991403df28c3399, type: 3}
+    SeswatiClip: {fileID: 8300000, guid: 7b8ebab462da38b49a700f8ae019bd4e, type: 3}
+  - ID: A-05
+    EnglishClip: {fileID: 8300000, guid: d9cb17487cf2f774aa20a518453a09b4, type: 3}
+    SeswatiClip: {fileID: 8300000, guid: 3a8a572da0bfdf24bb476b3c773760a2, type: 3}
+  - ID: A-11
+    EnglishClip: {fileID: 8300000, guid: 7c551cf4c1801c44f9d554266aaa27e6, type: 3}
+    SeswatiClip: {fileID: 8300000, guid: 72921bb872e01af40b3c89c4584cba0f, type: 3}
+  - ID: A-12
+    EnglishClip: {fileID: 8300000, guid: cd94145608c5094429c7c2cd75488bf7, type: 3}
+    SeswatiClip: {fileID: 8300000, guid: 19c3aaae5d4a2e4488fe993849c00707, type: 3}
+  - ID: A-13
+    EnglishClip: {fileID: 8300000, guid: e58e9de8e8e2ea94ea04a91aec4b2b55, type: 3}
+    SeswatiClip: {fileID: 8300000, guid: 3ec43325c9086b64bbe8c60fb2cac79f, type: 3}
+  - ID: A-14
+    EnglishClip: {fileID: 8300000, guid: 4d00b71f3362be446a6148d1c77c2f58, type: 3}
+    SeswatiClip: {fileID: 8300000, guid: 4d00b71f3362be446a6148d1c77c2f58, type: 3}
+  - ID: A-15
+    EnglishClip: {fileID: 8300000, guid: 3380f138f385b364aa5ca2db68fe42d6, type: 3}
+    SeswatiClip: {fileID: 8300000, guid: 6c587eaf55370b549ba61a57144cf9e2, type: 3}
+  - ID: A-16
+    EnglishClip: {fileID: 8300000, guid: 7155e7d644d47b640a6233e2a4ab8238, type: 3}
+    SeswatiClip: {fileID: 8300000, guid: 870f1ca01587d93419bcadcab415c450, type: 3}
+  - ID: A-18
+    EnglishClip: {fileID: 8300000, guid: 0223f757357534b4d9c0926f3a1a338d, type: 3}
+    SeswatiClip: {fileID: 8300000, guid: 05d9fe211cc5c6441b5a7b1c7b789d9b, type: 3}

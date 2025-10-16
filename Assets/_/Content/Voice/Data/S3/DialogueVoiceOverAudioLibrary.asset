@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad3ada4e39e3e3c4c841739fdfdf8818, type: 3}
+  m_Name: DialogueVoiceOverAudioLibrary
+  m_EditorClassIdentifier: 
+  ActiveLanguage: 0
+  VoiceOverPacks:
+  - ID: 3-01
+    EnglishClip: {fileID: 8300000, guid: 3f48536ab3427394c9af65fe633e012f, type: 3}
+    SeswatiClip: {fileID: 8300000, guid: a53cfd5077c88df47a7edcc3cf978e28, type: 3}
+  - ID: 3-02
+    EnglishClip: {fileID: 8300000, guid: 71e585f1ee62cab4787416db2eec1542, type: 3}
+    SeswatiClip: {fileID: 8300000, guid: 498c7927824d36045b2750bd2225d9f4, type: 3}
+  - ID: 3-03
+    EnglishClip: {fileID: 8300000, guid: 1fa7a6bb8e60c734a976824c89ed2477, type: 3}
+    SeswatiClip: {fileID: 8300000, guid: 99fc70a8334f6cd4eb34f9a5deda5284, type: 3}
+  - ID: 3-04
+    EnglishClip: {fileID: 8300000, guid: 5f883a89d8d1e8a4dbbfb54f766fec3c, type: 3}
+    SeswatiClip: {fileID: 8300000, guid: 2e76671314aa8e34eb8ff73d812e6f40, type: 3}
+  - ID: 3-05
+    EnglishClip: {fileID: 8300000, guid: 4417237228793a84c85f493750bcdcfb, type: 3}
+    SeswatiClip: {fileID: 8300000, guid: f380b2381cb638044b4e7cc0fb9ff171, type: 3}
+  - ID: 3-06
+    EnglishClip: {fileID: 8300000, guid: e5d4b32b5c65e2e4193afcd8d50e5338, type: 3}
+    SeswatiClip: {fileID: 8300000, guid: a25ccf888693e644ebb3709984b7499e, type: 3}
+  - ID: 3-71
+    EnglishClip: {fileID: 8300000, guid: b47f476c11a14e84f98420509a2fb980, type: 3}
+    SeswatiClip: {fileID: 8300000, guid: c600472c9be44324b998b19769833d71, type: 3}
+  - ID: 3-07
+    EnglishClip: {fileID: 8300000, guid: b9a3c1544b3350948bea13b61669b187, type: 3}
+    SeswatiClip: {fileID: 8300000, guid: 96061ce5b7d939f4f9b2b58df6c2f557, type: 3}
+  - ID: 3-72
+    EnglishClip: {fileID: 8300000, guid: a2cd926e4115b084798637b431fca173, type: 3}
+    SeswatiClip: {fileID: 8300000, guid: 5b23c9d49ea0fcf40a7828b3d7a5c27e, type: 3}
+  - ID: 3-08
+    EnglishClip: {fileID: 8300000, guid: 9f64316f1ba339d43a348fb5c830b61a, type: 3}
+    SeswatiClip: {fileID: 8300000, guid: 8bc9d878142fd7c4f9fd5b42385838e8, type: 3}
+  - ID: 3-73
+    EnglishClip: {fileID: 8300000, guid: 9c24f51afad7e3f4fb5a027989ccb0bb, type: 3}
+    SeswatiClip: {fileID: 8300000, guid: a89068394cbbc4b41889a6c51e634da2, type: 3}
+  - ID: 3-09
+    EnglishClip: {fileID: 8300000, guid: 9c24f51afad7e3f4fb5a027989ccb0bb, type: 3}
+    SeswatiClip: {fileID: 8300000, guid: d5ffe44fb42c5e4449509b26f10d974a, type: 3}
+  - ID: 3-10
+    EnglishClip: {fileID: 8300000, guid: 91cc76dbc1c7d1f4fb30de93e1c70e38, type: 3}
+    SeswatiClip: {fileID: 8300000, guid: bc7701744cdb70a46957c94faecd1387, type: 3}
+  - ID: 3-74
+    EnglishClip: {fileID: 8300000, guid: d8b5f40ea05485048a4498d747176acb, type: 3}
+    SeswatiClip: {fileID: 8300000, guid: 40a8a057baa93a14e8d7c462625de02b, type: 3}
+  - ID: 3-11
+    EnglishClip: {fileID: 8300000, guid: 40f9f3edf63c8be409ed3e2025f7b251, type: 3}
+    SeswatiClip: {fileID: 8300000, guid: c57b2c66b1de28048bb87902b115ddc4, type: 3}
+  - ID: 3-12
+    EnglishClip: {fileID: 8300000, guid: 1722d67ff29122b4daa6ed2bb5c3af14, type: 3}
+    SeswatiClip: {fileID: 8300000, guid: e99e5c1fc3c7cc14d934cff9d08aa026, type: 3}
+  - ID: 3-13
+    EnglishClip: {fileID: 8300000, guid: c10b74fb040726e4792824d7c73720de, type: 3}
+    SeswatiClip: {fileID: 8300000, guid: 12b368e262712f24e8f2645ab5418454, type: 3}
+  - ID: 3-15
+    EnglishClip: {fileID: 8300000, guid: 2bf046af4cb127c459d7d46ba1e17bb3, type: 3}
+    SeswatiClip: {fileID: 8300000, guid: 6da951dadd8fa63409f05a95b2204384, type: 3}

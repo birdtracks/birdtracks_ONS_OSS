@@ -1,0 +1,3858 @@
+fileFormatVersion: 2
+guid: 560a17f6425f97f4c936f6e74228edf8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9230.77
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc1b6a58622af148b21f83c8b78c2df
+      internalID: 771829616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_1
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 9230.77
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b40f3c93b407d8449ed74f713a3f3bc
+      internalID: 763708235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_2
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 9230.77
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7d5d48c0617314eb0006d161b4dcf6
+      internalID: -927672184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_3
+      rect:
+        serializedVersion: 2
+        x: 2307
+        y: 9230.77
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f80ef52c14492e34b9b15001b74b2f00
+      internalID: 1113667318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_4
+      rect:
+        serializedVersion: 2
+        x: 3076
+        y: 9230.77
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c750f23d683b5bf4796bbd60df497a76
+      internalID: 303968172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_5
+      rect:
+        serializedVersion: 2
+        x: 3845
+        y: 9230.77
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ad431893120544c9aba5ce94582d39
+      internalID: -1245054216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_6
+      rect:
+        serializedVersion: 2
+        x: 4614
+        y: 9230.77
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bdcaa446cf018744bb23c39c2ecc9e7
+      internalID: 40337124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_7
+      rect:
+        serializedVersion: 2
+        x: 5383
+        y: 9230.77
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b343bb558adcb4fb47fe947495b6ba
+      internalID: -1380502213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_8
+      rect:
+        serializedVersion: 2
+        x: 6152
+        y: 9230.77
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8aaf88e43766d4cae89959e5b49327
+      internalID: -1036779180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_9
+      rect:
+        serializedVersion: 2
+        x: 6921
+        y: 9230.77
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2021f9fdcd9dc0145808992915042082
+      internalID: 1903395550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_10
+      rect:
+        serializedVersion: 2
+        x: 7690
+        y: 9230.77
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93c6844a421d414a992b32f498dbbb8
+      internalID: -1570798352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_11
+      rect:
+        serializedVersion: 2
+        x: 8459
+        y: 9230.77
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c48bcffd13f29d4f97740d2dfdf1c36
+      internalID: 769331243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_12
+      rect:
+        serializedVersion: 2
+        x: 9228
+        y: 9230.77
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6260165226e1854fbc55aff6fbb4188
+      internalID: -1279897517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8461.77
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7730fa01c57462245940dd4b94cd030a
+      internalID: 438717103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_14
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 8461.77
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d592343d0d62654e96010d53a02d803
+      internalID: 899079773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_15
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 8461.77
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0e84c0f7b2e2148960e622123ac62c
+      internalID: -816240774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_16
+      rect:
+        serializedVersion: 2
+        x: 2307
+        y: 8461.77
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e1b972ebf546ee48b48164107c56d21
+      internalID: -363624767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_17
+      rect:
+        serializedVersion: 2
+        x: 3076
+        y: 8461.77
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f22bc137ebdeb14188d0d29a6f2a8f9
+      internalID: 854388597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_18
+      rect:
+        serializedVersion: 2
+        x: 3845
+        y: 8461.77
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347863ac58a254c4787c538aadf089b0
+      internalID: -2132314621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_19
+      rect:
+        serializedVersion: 2
+        x: 4614
+        y: 8461.77
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdde69e2cde08b34e9b256673a6d14b3
+      internalID: 1733097498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_20
+      rect:
+        serializedVersion: 2
+        x: 5383
+        y: 8461.77
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b9b97f952a2134b8258f5c7f4430cd
+      internalID: 2105935341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_21
+      rect:
+        serializedVersion: 2
+        x: 6152
+        y: 8461.77
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b994e8cb32c413847837c84d0fc052f0
+      internalID: -1369643969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_22
+      rect:
+        serializedVersion: 2
+        x: 6921
+        y: 8461.77
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df0c27bf261396428184b31a265dfbe
+      internalID: 336850260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_23
+      rect:
+        serializedVersion: 2
+        x: 7690
+        y: 8461.77
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e7eb30532b1ee4e841a236bc1d804a
+      internalID: -1410560649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_24
+      rect:
+        serializedVersion: 2
+        x: 8459
+        y: 8461.77
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02329c3b8a133e4d842d1686cccaf9f
+      internalID: 2129217246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_25
+      rect:
+        serializedVersion: 2
+        x: 9228
+        y: 8461.77
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5684527eb9baf4181b9d023737baad
+      internalID: 1701289849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7692.769
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f021b21c1116f9048954062c74ac253c
+      internalID: -111367091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_27
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 7692.769
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d8b7cb27201404e930d0b38c672049
+      internalID: -106888860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_28
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 7692.769
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988089b47bb7b60479ebdbe9d9c5c178
+      internalID: 1325842676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_29
+      rect:
+        serializedVersion: 2
+        x: 2307
+        y: 7692.769
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c856f7f3f7a753844bd623f320368161
+      internalID: 1319751701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_30
+      rect:
+        serializedVersion: 2
+        x: 3076
+        y: 7692.769
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccaefd766c6883044974f4fa0606c69e
+      internalID: 187251182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_31
+      rect:
+        serializedVersion: 2
+        x: 3845
+        y: 7692.769
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4891f7dfeefd442b48ed61579fa5e4
+      internalID: 1487650916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_32
+      rect:
+        serializedVersion: 2
+        x: 4614
+        y: 7692.769
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560cabe0088c4cb4796102064edde207
+      internalID: 603787414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_33
+      rect:
+        serializedVersion: 2
+        x: 5383
+        y: 7692.769
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7dfce7f872ba24bb423b5cc7ca9585
+      internalID: 294230901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_34
+      rect:
+        serializedVersion: 2
+        x: 6152
+        y: 7692.769
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fea6bcd571129344baf9737a8893386
+      internalID: -328364719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_35
+      rect:
+        serializedVersion: 2
+        x: 6921
+        y: 7692.769
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e78129b5b1cdd445bb6e2bb62ce65d8
+      internalID: 1924440666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_36
+      rect:
+        serializedVersion: 2
+        x: 7690
+        y: 7692.769
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54cc92c812a501489a40105fb2be28e
+      internalID: -1095240616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_37
+      rect:
+        serializedVersion: 2
+        x: 8459
+        y: 7692.769
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d959ed4a566a84ca142b430e9f7df2
+      internalID: -904155084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_38
+      rect:
+        serializedVersion: 2
+        x: 9228
+        y: 7692.769
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ef744009f34164a98d651f865adb0f
+      internalID: 128749149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6923.769
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d0a30e0e7d30842a7a85f14690899a
+      internalID: -558125067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_40
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 6923.769
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf09f6aabccdff4bb7dab9cc27328ff
+      internalID: -606767912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_41
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 6923.769
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e1a00c44af45b4c9c59391d259f439
+      internalID: 385768125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_42
+      rect:
+        serializedVersion: 2
+        x: 2307
+        y: 6923.769
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3b9df235f9aeb429b92d26686f31c9
+      internalID: -804991410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_43
+      rect:
+        serializedVersion: 2
+        x: 3076
+        y: 6923.769
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61bcc9bbd37f80a499c65fbb4fde9222
+      internalID: -14496334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_44
+      rect:
+        serializedVersion: 2
+        x: 3845
+        y: 6923.769
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091b2c51522b85f4bb1a2a3f13bb3e2b
+      internalID: 700850291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_45
+      rect:
+        serializedVersion: 2
+        x: 4614
+        y: 6923.769
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a363da0612671640a342888fe8410e3
+      internalID: 1209659514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_46
+      rect:
+        serializedVersion: 2
+        x: 5383
+        y: 6923.769
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71e5ab3174045045ae4276edd4a6291
+      internalID: 557559403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_47
+      rect:
+        serializedVersion: 2
+        x: 6152
+        y: 6923.769
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ee0c7bc21f30a44a717f8be43229dd
+      internalID: -1292289613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_48
+      rect:
+        serializedVersion: 2
+        x: 6921
+        y: 6923.769
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57eab50d6cb57f1458993bcee0fcb967
+      internalID: 1348980216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_49
+      rect:
+        serializedVersion: 2
+        x: 7690
+        y: 6923.769
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64dd462a20227204db24a3db1306c37f
+      internalID: -653584484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_50
+      rect:
+        serializedVersion: 2
+        x: 8459
+        y: 6923.769
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54a15c851a1a9b41aed81b217e5cffe
+      internalID: -19619089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_51
+      rect:
+        serializedVersion: 2
+        x: 9228
+        y: 6923.769
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe9d1b92cac2a345b52dcb26577c5df
+      internalID: 2057556866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6154.769
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6404018417684045afa6f2abf1bffe5
+      internalID: 402527017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_53
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 6154.769
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a6fab7831ba89459a9ab940d72fb4a
+      internalID: -1754678596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_54
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 6154.769
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c415285f792c2e449f497ccc025a952
+      internalID: -1127126503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_55
+      rect:
+        serializedVersion: 2
+        x: 2307
+        y: 6154.769
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e47823121ed135408ff8ff5d693005f
+      internalID: -913426502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_56
+      rect:
+        serializedVersion: 2
+        x: 3076
+        y: 6154.769
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c948c79ec86ecb46beb2bae1814b651
+      internalID: 1133103196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_57
+      rect:
+        serializedVersion: 2
+        x: 3845
+        y: 6154.769
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e96783bb3760e42a91b09a33d15280
+      internalID: 974490177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_58
+      rect:
+        serializedVersion: 2
+        x: 4614
+        y: 6154.769
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ce9ccdfd31dd24687d2879d19e855c
+      internalID: 1701869860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_59
+      rect:
+        serializedVersion: 2
+        x: 5383
+        y: 6154.769
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58e36ced850ac14bbb7036e91f6e1ca
+      internalID: 189045393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_60
+      rect:
+        serializedVersion: 2
+        x: 6152
+        y: 6154.769
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1cf39e7402258c48918ebbd48e72bbd
+      internalID: 1054490014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_61
+      rect:
+        serializedVersion: 2
+        x: 6921
+        y: 6154.769
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dace5b790e22dec4fa4623ece68e1b45
+      internalID: -729148388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_62
+      rect:
+        serializedVersion: 2
+        x: 7690
+        y: 6154.769
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3235bfe0949b95e4b82075154b2e8a47
+      internalID: -1881104595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_63
+      rect:
+        serializedVersion: 2
+        x: 8459
+        y: 6154.769
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef65d0408352f144a845513780f4fd26
+      internalID: -1468979884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_64
+      rect:
+        serializedVersion: 2
+        x: 9228
+        y: 6154.769
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ce91e84dd1581428d6f9211d55155d
+      internalID: -1127621464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5385.769
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba872b7ac2e00ca41959174e7aac42f2
+      internalID: 1827526425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_66
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 5385.769
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d66a0e037652745a30e67ed9f4ec99
+      internalID: -198272283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_67
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 5385.769
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4109a90f893ffbd43a5033fb0defcb58
+      internalID: -518878125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_68
+      rect:
+        serializedVersion: 2
+        x: 2307
+        y: 5385.769
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1745552cbf3b94c9d9c910277cde1b
+      internalID: 771254004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_69
+      rect:
+        serializedVersion: 2
+        x: 3076
+        y: 5385.769
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44088bc1756078f4193502ad9258c0bd
+      internalID: 1192151287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_70
+      rect:
+        serializedVersion: 2
+        x: 3845
+        y: 5385.769
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c7bf8ba26b3e7418b750ca64f5cd01
+      internalID: 774578344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_71
+      rect:
+        serializedVersion: 2
+        x: 4614
+        y: 5385.769
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff83cdffad27a814f97cf5e0ee3afb38
+      internalID: 311069164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_72
+      rect:
+        serializedVersion: 2
+        x: 5383
+        y: 5385.769
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3aa979c4e9fe704792dfd1329fc3967
+      internalID: 193631227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_73
+      rect:
+        serializedVersion: 2
+        x: 6152
+        y: 5385.769
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c10b662d642f244ba3617ec3517e09
+      internalID: 428559932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_74
+      rect:
+        serializedVersion: 2
+        x: 6921
+        y: 5385.769
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375debe42dc16bb439a6d50d3012ec23
+      internalID: -1137117783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_75
+      rect:
+        serializedVersion: 2
+        x: 7690
+        y: 5385.769
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b369dd70645c1941b9d0294919b7492
+      internalID: -2110373224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_76
+      rect:
+        serializedVersion: 2
+        x: 8459
+        y: 5385.769
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d9e7fecc6c6024180b0b68d5b502ff
+      internalID: -1983169105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_77
+      rect:
+        serializedVersion: 2
+        x: 9228
+        y: 5385.769
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2caf590e0526a48b1fb498fef24e14
+      internalID: -1253062523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4616.769
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be14168cbb5a85419f459ec7fdf9040
+      internalID: -1134702088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_79
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 4616.769
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f0f6d993d27e74b99f8ffb127f288e
+      internalID: -1480314026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_80
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 4616.769
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5189c12f7173e7459103d60f1c1e8df
+      internalID: -877800594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_81
+      rect:
+        serializedVersion: 2
+        x: 2307
+        y: 4616.769
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188e136b1cdc4144b970fe4e9fca9a59
+      internalID: 74928738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_82
+      rect:
+        serializedVersion: 2
+        x: 3076
+        y: 4616.769
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14f053a0f43965439432f157210585e
+      internalID: 1323763875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_83
+      rect:
+        serializedVersion: 2
+        x: 3845
+        y: 4616.769
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3cad28cc0e9ac4e983581e6f4197e6
+      internalID: -970492573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_84
+      rect:
+        serializedVersion: 2
+        x: 4614
+        y: 4616.769
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d8c83c696ce138458acbbb4f47c2c75
+      internalID: 1038482922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_85
+      rect:
+        serializedVersion: 2
+        x: 5383
+        y: 4616.769
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc471768c0355384ebc2b6df5d07eebd
+      internalID: 1817222540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_86
+      rect:
+        serializedVersion: 2
+        x: 6152
+        y: 4616.769
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339100d720826054da441615344afecc
+      internalID: -1342242481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_87
+      rect:
+        serializedVersion: 2
+        x: 6921
+        y: 4616.769
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44162fde4a01f5b41b476e6a83cec44b
+      internalID: -1173755115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_88
+      rect:
+        serializedVersion: 2
+        x: 7690
+        y: 4616.769
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719b6d2412130f34f816c9adb444e2c2
+      internalID: -29611806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_89
+      rect:
+        serializedVersion: 2
+        x: 8459
+        y: 4616.769
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109a993de0c6dfa4a81212dcb22f3f47
+      internalID: -140785054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_90
+      rect:
+        serializedVersion: 2
+        x: 9228
+        y: 4616.769
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9178891355bd14eb216a8f33fc60dc
+      internalID: 776428967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3847.7693
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7560fb2502763b429fb07b4efd8bdca
+      internalID: 1093932290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_92
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 3847.7693
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e338986211cfa534fa7db804cd956994
+      internalID: 211259720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_93
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 3847.7693
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39ef1a28c3b9d74fb046f053c1feac3
+      internalID: -408470407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_94
+      rect:
+        serializedVersion: 2
+        x: 2307
+        y: 3847.7693
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694616340670518418c5cc788c318641
+      internalID: 286601331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_95
+      rect:
+        serializedVersion: 2
+        x: 3076
+        y: 3847.7693
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8575902e1dcf5a548890ca35e14607ee
+      internalID: -111290521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_96
+      rect:
+        serializedVersion: 2
+        x: 3845
+        y: 3847.7693
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bbd6d2564607f0429292359c7f53bb2
+      internalID: -2013792648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_97
+      rect:
+        serializedVersion: 2
+        x: 4614
+        y: 3847.7693
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b9488ea3e5c9a42b40c34eb2cf61c5
+      internalID: -2020620284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_98
+      rect:
+        serializedVersion: 2
+        x: 5383
+        y: 3847.7693
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce73284a3446fa4b9a38a1510218bc4
+      internalID: 1652725140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_99
+      rect:
+        serializedVersion: 2
+        x: 6152
+        y: 3847.7693
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb210f1083928bb48bd2c9288920ee53
+      internalID: -310791362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_100
+      rect:
+        serializedVersion: 2
+        x: 6921
+        y: 3847.7693
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917bffc6b8f4d524db2a6c599a39886e
+      internalID: -1722510362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_101
+      rect:
+        serializedVersion: 2
+        x: 7690
+        y: 3847.7693
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c08e2ea77c5cb04caff97a7ff72e683
+      internalID: -1433782416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_102
+      rect:
+        serializedVersion: 2
+        x: 8459
+        y: 3847.7693
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 715ec930f76408444bfdf2e66018d582
+      internalID: -1133492298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_103
+      rect:
+        serializedVersion: 2
+        x: 9228
+        y: 3847.7693
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd46cafe5188e84285a415aa9e45c37
+      internalID: -1857344413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3078.7693
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7080d27af3fd6ec4389a1179a87ce6a7
+      internalID: 1801129249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_105
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 3078.7693
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86b763bb2dd7134083b6fe90bfeead6
+      internalID: -2112843240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_106
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 3078.7693
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 255b48cd3c00ac142acdd5d49d6e4d00
+      internalID: 337422034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_107
+      rect:
+        serializedVersion: 2
+        x: 2307
+        y: 3078.7693
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82146eee639dad544848f877b64b2b06
+      internalID: 695436625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_108
+      rect:
+        serializedVersion: 2
+        x: 3076
+        y: 3078.7693
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25cc7a77666ea5a46afd73c9478b56b1
+      internalID: -906862010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_109
+      rect:
+        serializedVersion: 2
+        x: 3845
+        y: 3078.7693
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: febac1b7493c83e41a82178ae32a0437
+      internalID: -1521186852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_110
+      rect:
+        serializedVersion: 2
+        x: 4614
+        y: 3078.7693
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ef2696da8de844eb95b29bbde3dcb5
+      internalID: 1363915293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_111
+      rect:
+        serializedVersion: 2
+        x: 5383
+        y: 3078.7693
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371ed515ef6cf174a9355c31a9c94c9b
+      internalID: -1362179751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_112
+      rect:
+        serializedVersion: 2
+        x: 6152
+        y: 3078.7693
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8c27643be926a409ed8ffbe76115ea
+      internalID: 430926162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_113
+      rect:
+        serializedVersion: 2
+        x: 6921
+        y: 3078.7693
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8f3f833e1fe7442b26e34c318a6197
+      internalID: 1387441329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_114
+      rect:
+        serializedVersion: 2
+        x: 7690
+        y: 3078.7693
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed1edbc17eb804343829c644b5000e58
+      internalID: 925081613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_115
+      rect:
+        serializedVersion: 2
+        x: 8459
+        y: 3078.7693
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd9f7a628d9e544589524e1504741a4
+      internalID: -726434390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_116
+      rect:
+        serializedVersion: 2
+        x: 9228
+        y: 3078.7693
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b436034bd0a83624b876fdbdd7e09983
+      internalID: -918669728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2309.7693
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d7f04beccdf694f8c7506595505c3d
+      internalID: -1720938596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_118
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 2309.7693
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46294881c85ab1848889fae69f8c3d77
+      internalID: -1652192887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_119
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 2309.7693
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310be11e8b5448b41ba6b249086bf85d
+      internalID: -56128118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_120
+      rect:
+        serializedVersion: 2
+        x: 2307
+        y: 2309.7693
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c411b75710f3f44386bd8fc9c6308b3
+      internalID: -2097484359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_121
+      rect:
+        serializedVersion: 2
+        x: 3076
+        y: 2309.7693
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e0dad409de87a4d8f200ef0cac6959
+      internalID: -1097385108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_122
+      rect:
+        serializedVersion: 2
+        x: 3845
+        y: 2309.7693
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9464ca723703a9742800a5a549e81c5e
+      internalID: 382253832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_123
+      rect:
+        serializedVersion: 2
+        x: 4614
+        y: 2309.7693
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db1a0bcc2def4f40b18c9e51bf0a100
+      internalID: 1443652432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_124
+      rect:
+        serializedVersion: 2
+        x: 5383
+        y: 2309.7693
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56fb63d6a6bd1d149bebf7b3b0d45c0e
+      internalID: 823032821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_125
+      rect:
+        serializedVersion: 2
+        x: 6152
+        y: 2309.7693
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b94c33ac4c4d0145bef659bec9a62e6
+      internalID: 1140043691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_126
+      rect:
+        serializedVersion: 2
+        x: 6921
+        y: 2309.7693
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78d4e2a12aadc94a9c2fa0bb6bd0b74
+      internalID: 408079772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_127
+      rect:
+        serializedVersion: 2
+        x: 7690
+        y: 2309.7693
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6f574d73bac694d8c9ea642239bbe8
+      internalID: 8226680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_128
+      rect:
+        serializedVersion: 2
+        x: 8459
+        y: 2309.7693
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435df1ae97dcc1c428cd9d96002653f0
+      internalID: 686257023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_129
+      rect:
+        serializedVersion: 2
+        x: 9228
+        y: 2309.7693
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5b309fe7dc206439478e0c5df1a325
+      internalID: 1655307240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1540.7693
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338aa114dc51b394e98210038210b99c
+      internalID: 358485044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_131
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 1540.7693
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d5fae0b2310354cb6cbc4b68dd5952
+      internalID: 1700765800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_132
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 1540.7693
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3cecd3d15e0e994f8c3ba5d22bfe68f
+      internalID: 2122256778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_133
+      rect:
+        serializedVersion: 2
+        x: 2307
+        y: 1540.7693
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b11f5edb041794b84808eb847cb7f0
+      internalID: 212007022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_134
+      rect:
+        serializedVersion: 2
+        x: 3076
+        y: 1540.7693
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909539d035fc5e047998fc46c192dc31
+      internalID: 2020192313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_135
+      rect:
+        serializedVersion: 2
+        x: 3845
+        y: 1540.7693
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4a47766b734af4488e3b7ed6fc7a15
+      internalID: 1431818989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_136
+      rect:
+        serializedVersion: 2
+        x: 4614
+        y: 1540.7693
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6999862955d4c3b46a1b77a805fa6970
+      internalID: 1572503173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_137
+      rect:
+        serializedVersion: 2
+        x: 5383
+        y: 1540.7693
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05e0ba452b5b034b8f4ba8d06175f82
+      internalID: -1283518335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_138
+      rect:
+        serializedVersion: 2
+        x: 6152
+        y: 1540.7693
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dec1d7ab25c028468b85096ab410271
+      internalID: -1879412281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_139
+      rect:
+        serializedVersion: 2
+        x: 6921
+        y: 1540.7693
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91e0f0a61d78224ea38607ee41e8647
+      internalID: 273787367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_140
+      rect:
+        serializedVersion: 2
+        x: 7690
+        y: 1540.7693
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad22f731813ae04a98b01e43a4c3829
+      internalID: -763425587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_141
+      rect:
+        serializedVersion: 2
+        x: 8459
+        y: 1540.7693
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37844997469ab04f96f462635951915
+      internalID: 1649530137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_142
+      rect:
+        serializedVersion: 2
+        x: 9228
+        y: 1540.7693
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e236a6b3687b2249a56a2107dd2c07d
+      internalID: 356549401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_143
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 771.7692
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d6ffac6e15abd43bc742a1cc16fa70
+      internalID: 1409686515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_144
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 771.7692
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8ea6dea2003e54bad44f2cd5869dda
+      internalID: 692277112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_145
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 771.7692
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ebff828b4da01143a767c4fec23a34a
+      internalID: 1448680788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_146
+      rect:
+        serializedVersion: 2
+        x: 2307
+        y: 771.7692
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a368c3099e225e54bb93bb56e75d8f98
+      internalID: -968226966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_147
+      rect:
+        serializedVersion: 2
+        x: 3076
+        y: 771.7692
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0311b7608f9912a4d9e8748441e21df4
+      internalID: -113533595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_148
+      rect:
+        serializedVersion: 2
+        x: 3845
+        y: 771.7692
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90055c7fe97074f498ecd90e5957be7f
+      internalID: -1042319685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_149
+      rect:
+        serializedVersion: 2
+        x: 4614
+        y: 771.7692
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a501d448f3420dd4c84e848bfe8435ca
+      internalID: 947214446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_150
+      rect:
+        serializedVersion: 2
+        x: 5383
+        y: 771.7692
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39adbec60de187c499f38ed4ca1ce082
+      internalID: -742054954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_151
+      rect:
+        serializedVersion: 2
+        x: 6152
+        y: 771.7692
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471e6bdb7c9f1f04682255abadd7a572
+      internalID: -1906930281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_152
+      rect:
+        serializedVersion: 2
+        x: 6921
+        y: 771.7692
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d1e502effbfdf45b862968acb106a1
+      internalID: 670376907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_153
+      rect:
+        serializedVersion: 2
+        x: 7690
+        y: 771.7692
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0df97eb99367e40997f0b640504c37
+      internalID: -1816735693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_154
+      rect:
+        serializedVersion: 2
+        x: 8459
+        y: 771.7692
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a776467334109a42bd960ba2f7ff730
+      internalID: 293434739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_155
+      rect:
+        serializedVersion: 2
+        x: 9228
+        y: 771.7692
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f63a9e1a396c404d8d5656ea192b2f5
+      internalID: 1709866666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_156
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2.769226
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d89e82363834e4b8753578532f6082
+      internalID: -2041580685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_157
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 2.769226
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ed32da90c32334e9092b868e22e489
+      internalID: 349307594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_158
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 2.769226
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50980f8b535c2f84eb40ccb895d0d8e1
+      internalID: 1026915403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_159
+      rect:
+        serializedVersion: 2
+        x: 2307
+        y: 2.769226
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3606bb749257ee34d8aaed8165fd60e1
+      internalID: 1902308169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_160
+      rect:
+        serializedVersion: 2
+        x: 3076
+        y: 2.769226
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af95ff7b8cfc7e41838e4c9d88b1f20
+      internalID: 1840634582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_161
+      rect:
+        serializedVersion: 2
+        x: 3845
+        y: 2.769226
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31aaecdca0ffd8e448b7702e3f62148e
+      internalID: 636871882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_162
+      rect:
+        serializedVersion: 2
+        x: 4614
+        y: 2.769226
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31bf28b59893e3f4d96be176199410af
+      internalID: 1480778542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_163
+      rect:
+        serializedVersion: 2
+        x: 5383
+        y: 2.769226
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a66ed69898cbd540ab11659aa80acdc
+      internalID: 1096613495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_164
+      rect:
+        serializedVersion: 2
+        x: 6152
+        y: 2.769226
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3edd3736428e3254bb47e9d557c498f1
+      internalID: 2006756793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_165
+      rect:
+        serializedVersion: 2
+        x: 6921
+        y: 2.769226
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad1f4cacb834f4b43af96e8cbf194f7d
+      internalID: -726248619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_166
+      rect:
+        serializedVersion: 2
+        x: 7690
+        y: 2.769226
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf8dd577209286418775b1240b0139e
+      internalID: -1245912580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_167
+      rect:
+        serializedVersion: 2
+        x: 8459
+        y: 2.769226
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501f8eaf5512e8640affc425f779e9b0
+      internalID: 500419499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cats_and_Meow_Sheet_01_168
+      rect:
+        serializedVersion: 2
+        x: 9228
+        y: 2.769226
+        width: 769.2308
+        height: 769.2308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801d70320a5e3634c966dea78ccef6e7
+      internalID: 1977653228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8f507926e5e68bd4891ea6c0d2f5624c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Cats_and_Meow_Sheet_01_0: 771829616
+      Cats_and_Meow_Sheet_01_1: 763708235
+      Cats_and_Meow_Sheet_01_10: -1570798352
+      Cats_and_Meow_Sheet_01_100: -1722510362
+      Cats_and_Meow_Sheet_01_101: -1433782416
+      Cats_and_Meow_Sheet_01_102: -1133492298
+      Cats_and_Meow_Sheet_01_103: -1857344413
+      Cats_and_Meow_Sheet_01_104: 1801129249
+      Cats_and_Meow_Sheet_01_105: -2112843240
+      Cats_and_Meow_Sheet_01_106: 337422034
+      Cats_and_Meow_Sheet_01_107: 695436625
+      Cats_and_Meow_Sheet_01_108: -906862010
+      Cats_and_Meow_Sheet_01_109: -1521186852
+      Cats_and_Meow_Sheet_01_11: 769331243
+      Cats_and_Meow_Sheet_01_110: 1363915293
+      Cats_and_Meow_Sheet_01_111: -1362179751
+      Cats_and_Meow_Sheet_01_112: 430926162
+      Cats_and_Meow_Sheet_01_113: 1387441329
+      Cats_and_Meow_Sheet_01_114: 925081613
+      Cats_and_Meow_Sheet_01_115: -726434390
+      Cats_and_Meow_Sheet_01_116: -918669728
+      Cats_and_Meow_Sheet_01_117: -1720938596
+      Cats_and_Meow_Sheet_01_118: -1652192887
+      Cats_and_Meow_Sheet_01_119: -56128118
+      Cats_and_Meow_Sheet_01_12: -1279897517
+      Cats_and_Meow_Sheet_01_120: -2097484359
+      Cats_and_Meow_Sheet_01_121: -1097385108
+      Cats_and_Meow_Sheet_01_122: 382253832
+      Cats_and_Meow_Sheet_01_123: 1443652432
+      Cats_and_Meow_Sheet_01_124: 823032821
+      Cats_and_Meow_Sheet_01_125: 1140043691
+      Cats_and_Meow_Sheet_01_126: 408079772
+      Cats_and_Meow_Sheet_01_127: 8226680
+      Cats_and_Meow_Sheet_01_128: 686257023
+      Cats_and_Meow_Sheet_01_129: 1655307240
+      Cats_and_Meow_Sheet_01_13: 438717103
+      Cats_and_Meow_Sheet_01_130: 358485044
+      Cats_and_Meow_Sheet_01_131: 1700765800
+      Cats_and_Meow_Sheet_01_132: 2122256778
+      Cats_and_Meow_Sheet_01_133: 212007022
+      Cats_and_Meow_Sheet_01_134: 2020192313
+      Cats_and_Meow_Sheet_01_135: 1431818989
+      Cats_and_Meow_Sheet_01_136: 1572503173
+      Cats_and_Meow_Sheet_01_137: -1283518335
+      Cats_and_Meow_Sheet_01_138: -1879412281
+      Cats_and_Meow_Sheet_01_139: 273787367
+      Cats_and_Meow_Sheet_01_14: 899079773
+      Cats_and_Meow_Sheet_01_140: -763425587
+      Cats_and_Meow_Sheet_01_141: 1649530137
+      Cats_and_Meow_Sheet_01_142: 356549401
+      Cats_and_Meow_Sheet_01_143: 1409686515
+      Cats_and_Meow_Sheet_01_144: 692277112
+      Cats_and_Meow_Sheet_01_145: 1448680788
+      Cats_and_Meow_Sheet_01_146: -968226966
+      Cats_and_Meow_Sheet_01_147: -113533595
+      Cats_and_Meow_Sheet_01_148: -1042319685
+      Cats_and_Meow_Sheet_01_149: 947214446
+      Cats_and_Meow_Sheet_01_15: -816240774
+      Cats_and_Meow_Sheet_01_150: -742054954
+      Cats_and_Meow_Sheet_01_151: -1906930281
+      Cats_and_Meow_Sheet_01_152: 670376907
+      Cats_and_Meow_Sheet_01_153: -1816735693
+      Cats_and_Meow_Sheet_01_154: 293434739
+      Cats_and_Meow_Sheet_01_155: 1709866666
+      Cats_and_Meow_Sheet_01_156: -2041580685
+      Cats_and_Meow_Sheet_01_157: 349307594
+      Cats_and_Meow_Sheet_01_158: 1026915403
+      Cats_and_Meow_Sheet_01_159: 1902308169
+      Cats_and_Meow_Sheet_01_16: -363624767
+      Cats_and_Meow_Sheet_01_160: 1840634582
+      Cats_and_Meow_Sheet_01_161: 636871882
+      Cats_and_Meow_Sheet_01_162: 1480778542
+      Cats_and_Meow_Sheet_01_163: 1096613495
+      Cats_and_Meow_Sheet_01_164: 2006756793
+      Cats_and_Meow_Sheet_01_165: -726248619
+      Cats_and_Meow_Sheet_01_166: -1245912580
+      Cats_and_Meow_Sheet_01_167: 500419499
+      Cats_and_Meow_Sheet_01_168: 1977653228
+      Cats_and_Meow_Sheet_01_17: 854388597
+      Cats_and_Meow_Sheet_01_18: -2132314621
+      Cats_and_Meow_Sheet_01_19: 1733097498
+      Cats_and_Meow_Sheet_01_2: -927672184
+      Cats_and_Meow_Sheet_01_20: 2105935341
+      Cats_and_Meow_Sheet_01_21: -1369643969
+      Cats_and_Meow_Sheet_01_22: 336850260
+      Cats_and_Meow_Sheet_01_23: -1410560649
+      Cats_and_Meow_Sheet_01_24: 2129217246
+      Cats_and_Meow_Sheet_01_25: 1701289849
+      Cats_and_Meow_Sheet_01_26: -111367091
+      Cats_and_Meow_Sheet_01_27: -106888860
+      Cats_and_Meow_Sheet_01_28: 1325842676
+      Cats_and_Meow_Sheet_01_29: 1319751701
+      Cats_and_Meow_Sheet_01_3: 1113667318
+      Cats_and_Meow_Sheet_01_30: 187251182
+      Cats_and_Meow_Sheet_01_31: 1487650916
+      Cats_and_Meow_Sheet_01_32: 603787414
+      Cats_and_Meow_Sheet_01_33: 294230901
+      Cats_and_Meow_Sheet_01_34: -328364719
+      Cats_and_Meow_Sheet_01_35: 1924440666
+      Cats_and_Meow_Sheet_01_36: -1095240616
+      Cats_and_Meow_Sheet_01_37: -904155084
+      Cats_and_Meow_Sheet_01_38: 128749149
+      Cats_and_Meow_Sheet_01_39: -558125067
+      Cats_and_Meow_Sheet_01_4: 303968172
+      Cats_and_Meow_Sheet_01_40: -606767912
+      Cats_and_Meow_Sheet_01_41: 385768125
+      Cats_and_Meow_Sheet_01_42: -804991410
+      Cats_and_Meow_Sheet_01_43: -14496334
+      Cats_and_Meow_Sheet_01_44: 700850291
+      Cats_and_Meow_Sheet_01_45: 1209659514
+      Cats_and_Meow_Sheet_01_46: 557559403
+      Cats_and_Meow_Sheet_01_47: -1292289613
+      Cats_and_Meow_Sheet_01_48: 1348980216
+      Cats_and_Meow_Sheet_01_49: -653584484
+      Cats_and_Meow_Sheet_01_5: -1245054216
+      Cats_and_Meow_Sheet_01_50: -19619089
+      Cats_and_Meow_Sheet_01_51: 2057556866
+      Cats_and_Meow_Sheet_01_52: 402527017
+      Cats_and_Meow_Sheet_01_53: -1754678596
+      Cats_and_Meow_Sheet_01_54: -1127126503
+      Cats_and_Meow_Sheet_01_55: -913426502
+      Cats_and_Meow_Sheet_01_56: 1133103196
+      Cats_and_Meow_Sheet_01_57: 974490177
+      Cats_and_Meow_Sheet_01_58: 1701869860
+      Cats_and_Meow_Sheet_01_59: 189045393
+      Cats_and_Meow_Sheet_01_6: 40337124
+      Cats_and_Meow_Sheet_01_60: 1054490014
+      Cats_and_Meow_Sheet_01_61: -729148388
+      Cats_and_Meow_Sheet_01_62: -1881104595
+      Cats_and_Meow_Sheet_01_63: -1468979884
+      Cats_and_Meow_Sheet_01_64: -1127621464
+      Cats_and_Meow_Sheet_01_65: 1827526425
+      Cats_and_Meow_Sheet_01_66: -198272283
+      Cats_and_Meow_Sheet_01_67: -518878125
+      Cats_and_Meow_Sheet_01_68: 771254004
+      Cats_and_Meow_Sheet_01_69: 1192151287
+      Cats_and_Meow_Sheet_01_7: -1380502213
+      Cats_and_Meow_Sheet_01_70: 774578344
+      Cats_and_Meow_Sheet_01_71: 311069164
+      Cats_and_Meow_Sheet_01_72: 193631227
+      Cats_and_Meow_Sheet_01_73: 428559932
+      Cats_and_Meow_Sheet_01_74: -1137117783
+      Cats_and_Meow_Sheet_01_75: -2110373224
+      Cats_and_Meow_Sheet_01_76: -1983169105
+      Cats_and_Meow_Sheet_01_77: -1253062523
+      Cats_and_Meow_Sheet_01_78: -1134702088
+      Cats_and_Meow_Sheet_01_79: -1480314026
+      Cats_and_Meow_Sheet_01_8: -1036779180
+      Cats_and_Meow_Sheet_01_80: -877800594
+      Cats_and_Meow_Sheet_01_81: 74928738
+      Cats_and_Meow_Sheet_01_82: 1323763875
+      Cats_and_Meow_Sheet_01_83: -970492573
+      Cats_and_Meow_Sheet_01_84: 1038482922
+      Cats_and_Meow_Sheet_01_85: 1817222540
+      Cats_and_Meow_Sheet_01_86: -1342242481
+      Cats_and_Meow_Sheet_01_87: -1173755115
+      Cats_and_Meow_Sheet_01_88: -29611806
+      Cats_and_Meow_Sheet_01_89: -140785054
+      Cats_and_Meow_Sheet_01_9: 1903395550
+      Cats_and_Meow_Sheet_01_90: 776428967
+      Cats_and_Meow_Sheet_01_91: 1093932290
+      Cats_and_Meow_Sheet_01_92: 211259720
+      Cats_and_Meow_Sheet_01_93: -408470407
+      Cats_and_Meow_Sheet_01_94: 286601331
+      Cats_and_Meow_Sheet_01_95: -111290521
+      Cats_and_Meow_Sheet_01_96: -2013792648
+      Cats_and_Meow_Sheet_01_97: -2020620284
+      Cats_and_Meow_Sheet_01_98: 1652725140
+      Cats_and_Meow_Sheet_01_99: -310791362
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

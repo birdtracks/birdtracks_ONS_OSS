@@ -1,0 +1,14 @@
+{
+    "name": "Sweet.uTility.Editor",
+    "references": [
+        "Sweet.uTility",
+        "UnityEditor.UI",
+        "UnityEngine.UI"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}

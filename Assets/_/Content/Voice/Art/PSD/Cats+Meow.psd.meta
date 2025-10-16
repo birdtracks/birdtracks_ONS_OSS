@@ -1,0 +1,1664 @@
+fileFormatVersion: 2
+guid: 9d91278a3aa85464387c84425aa87e45
+importerOverride:
+  nativeImporterType: 2089858483
+  scriptedImporterType:
+    serializedVersion: 2
+    Hash: b10b55a1aa6a1aa32521bc0cab59632e
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: CatOrange_MouthTop
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1157
+      y: 4517
+      width: 293
+      height: 194
+    spriteID: 63662f29c46198841894f09419e22a88
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1157, y: 4517}
+    spritePosition: {x: 1808, y: 1302}
+  - name: CatOrange_MouthBottom
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1299
+      y: 2334
+      width: 226
+      height: 271
+    spriteID: 0119892effd453d499dc83b99152c43a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1299, y: 2334}
+    spritePosition: {x: 1848, y: 1196}
+  - name: CatOrange_Head
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1222
+      width: 1298
+      height: 1104
+    spriteID: 7be11da763e410548bbe9068ccc76fb5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1222}
+    spritePosition: {x: 1118, y: 1108}
+  - name: CatOrange_Lid1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1534
+      y: 1764
+      width: 381
+      height: 301
+    spriteID: 5870bd985d3a6e64cbf442e7a3555356
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1534, y: 1764}
+    spritePosition: {x: 2001, y: 1476}
+  - name: CatOrange_Lid2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1534
+      y: 2295
+      width: 370
+      height: 246
+    spriteID: 4980451cd4ed87e42aa49523f71f299c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1534, y: 2295}
+    spritePosition: {x: 2015, y: 1347}
+  - name: CatOrange_Lid3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1075
+      y: 6424
+      width: 438
+      height: 299
+    spriteID: 1ef217d6938778548b61077c2aff1249
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1075, y: 6424}
+    spritePosition: {x: 1427, y: 1396}
+  - name: CatOrange_Lid4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1534
+      y: 2073
+      width: 435
+      height: 214
+    spriteID: ceb1aaee32f0f02489ff832deb280108
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1534, y: 2073}
+    spritePosition: {x: 1430, y: 1259}
+  - name: CatOrange_Pupil1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1923
+      y: 1764
+      width: 178
+      height: 287
+    spriteID: 37e0030c6cdecf64d9262cbf63eef61b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1923, y: 1764}
+    spritePosition: {x: 2150, y: 1345}
+  - name: CatOrange_Pupil2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 442
+      y: 7450
+      width: 178
+      height: 287
+    spriteID: 6775cd810ae5b594eb37e521a9fc020f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 442, y: 7450}
+    spritePosition: {x: 1616, y: 1270}
+  - name: CatOrange_EyeColour
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 637
+      y: 6014
+      width: 869
+      height: 402
+    spriteID: 01f116dee2eadbe4e94d670656aafdbe
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -838, y: 4708}
+    spritePosition: {x: 1475, y: 1306}
+  - name: CatOrange_Leg1_foot
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1075
+      y: 6731
+      width: 289
+      height: 195
+    spriteID: 6916149799a004049b78c58e96c2061b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1075, y: 6731}
+    spritePosition: {x: 975, y: 49}
+  - name: CatOrange_Leg1_Mid
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 7961
+      width: 593
+      height: 191
+    spriteID: c4d930dd6e1dec740b17ac45a57f1e32
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 7961}
+    spritePosition: {x: 557, y: 80}
+  - name: CatOrange_Leg1_Top
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 671
+      y: 3438
+      width: 625
+      height: 772
+    spriteID: 069f80afae4c16740ba5a36f9588851e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 671, y: 3438}
+    spritePosition: {x: 531, y: 136}
+  - name: CatOrange_Leg2_Foot
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1534
+      y: 3083
+      width: 337
+      height: 222
+    spriteID: 2318df46266513943b3f6196b6f693d9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1534, y: 3083}
+    spritePosition: {x: 1709, y: 79}
+  - name: CatOrange_Leg2_Mid
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 7450
+      width: 430
+      height: 503
+    spriteID: 6e4a4292c5a829b4c8fc2a3be3356f77
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 7450}
+    spritePosition: {x: 1426, y: 136}
+  - name: CatOrange_Leg2_Top
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 637
+      y: 7391
+      width: 305
+      height: 635
+    spriteID: 1e1bf9ceba6cf1a4ea8b79fc4369b9c2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 637, y: 7391}
+    spritePosition: {x: 1338, y: 480}
+  - name: CatOrange_Body
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 1522
+      height: 1210
+    spriteID: e773d1de4db096d43943dc90db8b8223
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+    spritePosition: {x: 520, y: 322}
+  - name: CatOrange_Leg3_Foot
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1534
+      y: 3313
+      width: 337
+      height: 222
+    spriteID: faef19946aafb4247bd84e46b331e14a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1534, y: 3313}
+    spritePosition: {x: 1964, y: 276}
+  - name: CatOrange_Leg3_Mid
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 637
+      y: 6424
+      width: 430
+      height: 503
+    spriteID: 7829f27b7fa844f46b77a21629ba58ff
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 637, y: 6424}
+    spritePosition: {x: 1681, y: 333}
+  - name: CatOrange_Leg3_Top
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1123
+      y: 6935
+      width: 305
+      height: 635
+    spriteID: 91672e651e85036499d959bc2825fff5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1123, y: 6935}
+    spritePosition: {x: 1593, y: 677}
+  - name: CatOrange_Leg4_foot
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1534
+      y: 3864
+      width: 289
+      height: 195
+    spriteID: 6d972900cf50eef47ba07754b7d1de78
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1534, y: 3864}
+    spritePosition: {x: 1250, y: 191}
+  - name: CatOrange_Leg4_Mid
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2134
+      y: 938
+      width: 593
+      height: 191
+    spriteID: aecfd5923632eea41aa8b956abeed4c7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2134, y: 938}
+    spritePosition: {x: 832, y: 222}
+  - name: CatOrange_Leg4_Top
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 5481
+      width: 625
+      height: 772
+    spriteID: b90a4f68a7080a14f890fd8da262d3ea
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 5481}
+    spritePosition: {x: 806, y: 278}
+  - name: CatOrange_Tail
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3438
+      width: 659
+      height: 1279
+    spriteID: b3baf9e7a5c30024fa56d891104d553a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 3438}
+    spritePosition: {x: 57, y: 793}
+  - name: TinCan
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4725
+      width: 946
+      height: 748
+    spriteID: ad99b54fd11f35d4bb9d8b60dea89516
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4725}
+    spritePosition: {x: 2550, y: 144}
+  - name: GreyCat_MouthTop
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1879
+      y: 3083
+      width: 246
+      height: 222
+    spriteID: 471833234fc673a42849cad999f4c8f9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1879, y: 3083}
+    spritePosition: {x: 3717, y: 1302}
+  - name: GreyCat_MouthBottom
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1912
+      y: 2295
+      width: 188
+      height: 191
+    spriteID: bfaa5312740fda8448fb2493cd104c61
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1912, y: 2295}
+    spritePosition: {x: 3700, y: 1243}
+  - name: GreyCat_Head
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2334
+      width: 1287
+      height: 1096
+    spriteID: db8efa3b98aabba429ed3641d6145504
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 2334}
+    spritePosition: {x: 3222, y: 984}
+  - name: GreyCat_Lid1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1534
+      y: 2549
+      width: 302
+      height: 270
+    spriteID: d3f41450766fd8b4e988a27f7ddf0c9d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1534, y: 2549}
+    spritePosition: {x: 3456, y: 1521}
+  - name: GreyCat_Lid2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1847
+      y: 2827
+      width: 270
+      height: 237
+    spriteID: d8658b3ce96179847a76cdf114cc631d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1847, y: 2827}
+    spritePosition: {x: 3441, y: 1437}
+  - name: GreyCat_Lid3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1157
+      y: 4218
+      width: 324
+      height: 291
+    spriteID: 392bee6da28323a428e7795fed8d02af
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1157, y: 4218}
+    spritePosition: {x: 4043, y: 1258}
+  - name: GreyCat_Lid4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1534
+      y: 2827
+      width: 305
+      height: 248
+    spriteID: 80bcf4bc2c9955b4a94a1e1bc5587713
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1534, y: 2827}
+    spritePosition: {x: 4030, y: 1146}
+  - name: GreyCat_Pupil1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1888
+      y: 1248
+      width: 229
+      height: 313
+    spriteID: 49afb6577d25413408fb29d75d43355f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1888, y: 1248}
+    spritePosition: {x: 3433, y: 1400}
+  - name: GreyCat_Pupil2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1534
+      y: 3543
+      width: 229
+      height: 313
+    spriteID: 6e9797af66eb577469ace305451ab6b2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1534, y: 3543}
+    spritePosition: {x: 4038, y: 1167}
+  - name: GreyCat_EyeColour
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 637
+      y: 5481
+      width: 875
+      height: 525
+    spriteID: 6457de488d4b70b4b91e4cb8bc75f9cf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -2807, y: 4275}
+    spritePosition: {x: 3444, y: 1206}
+  - name: GreyCat_Leg1_Foot
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1534
+      y: 4067
+      width: 270
+      height: 198
+    spriteID: d341b38e7a5c6384aaf56eba30681314
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1534, y: 4067}
+    spritePosition: {x: 3794, y: 217}
+  - name: GreyCat_Leg1_Mid
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 671
+      y: 4218
+      width: 478
+      height: 448
+    spriteID: 560bc28a58fe0e9498556fcc2503f091
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 671, y: 4218}
+    spritePosition: {x: 3930, y: 288}
+  - name: GreyCat_Leg1_Top
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1123
+      y: 7578
+      width: 346
+      height: 508
+    spriteID: 0b75a79d976149a4290b1659e5217681
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1123, y: 7578}
+    spritePosition: {x: 4200, y: 586}
+  - name: GreyCat_Leg2_Foot
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1844
+      y: 2549
+      width: 265
+      height: 208
+    spriteID: 4f2ba6be31ef55c4b828987ef158a1e8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1844, y: 2549}
+    spritePosition: {x: 4422, y: 188}
+  - name: GreyCat_Leg2_Mid
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1534
+      y: 938
+      width: 592
+      height: 302
+    spriteID: 40f9ec6bdff77a9458b909dfd26d7c7e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1534, y: 938}
+    spritePosition: {x: 4567, y: 241}
+  - name: GreyCat_Leg2_Top
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 958
+      y: 4725
+      width: 551
+      height: 664
+    spriteID: 72125fcfc6a2f934c8c21f84a98ad861
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 958, y: 4725}
+    spritePosition: {x: 4652, y: 410}
+  - name: GreyCat_Body
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1534
+      y: 4
+      width: 1523
+      height: 926
+    spriteID: f9abfd6f7aad11a47aed4d70c684c582
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1534, y: 4}
+    spritePosition: {x: 3712, y: 466}
+  - name: GreyCat_Leg3_Foot
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1534
+      y: 4273
+      width: 270
+      height: 198
+    spriteID: 7ef0c14ec38d7ae44804e6e0c16c3e3e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1534, y: 4273}
+    spritePosition: {x: 3615, y: 420}
+  - name: GreyCat_Leg3_Mid
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 637
+      y: 6935
+      width: 478
+      height: 448
+    spriteID: c5b021baeb3b76c41941f10d797a3d74
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 637, y: 6935}
+    spritePosition: {x: 3751, y: 491}
+  - name: GreyCat_Leg3_Top
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1534
+      y: 1248
+      width: 346
+      height: 508
+    spriteID: db761b788922e6d488eb795241dfabf4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1534, y: 1248}
+    spritePosition: {x: 4021, y: 789}
+  - name: GreyCat_Tail
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 6261
+      width: 397
+      height: 1181
+    spriteID: 082a237a1f8c16640ac50edc606826a3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 6261}
+    spritePosition: {x: 4946, y: 918}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  sharedRigSpriteImportData: []
+  sharedRigCharacterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  platformSettings: []
+  mosaicLayers: 1
+  characterMode: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  layerMappingOption: 2
+  generatePhysicsShape: 0
+  paperDollMode: 0
+  keepDupilcateSpriteName: 1
+  skeletonAssetReferenceID: 
+  pipeline: {instanceID: 0}
+  pipelineVersion: 
+  padding: 4
+  spriteSizeExpand: 0
+  spriteCategoryList:
+    categories: []
+  spritePackingTag: 
+  resliceFromLayer: 0
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: CatOrange
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 9497600f80cb50349a23fd043a0fef2e
+    layerID: 82
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: CatOrange_MouthTop
+    spriteName: CatOrange_MouthTop
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 63662f29c46198841894f09419e22a88
+    layerID: 174
+    mosaicPosition: {x: 1157, y: 4517}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: CatOrange_MouthBottom
+    spriteName: CatOrange_MouthBottom
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 0119892effd453d499dc83b99152c43a
+    layerID: 173
+    mosaicPosition: {x: 1299, y: 2334}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: CatOrange_Head
+    spriteName: CatOrange_Head
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 7be11da763e410548bbe9068ccc76fb5
+    layerID: 172
+    mosaicPosition: {x: 4, y: 1222}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: CatOrange_Lid1
+    spriteName: CatOrange_Lid1
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 5870bd985d3a6e64cbf442e7a3555356
+    layerID: 76
+    mosaicPosition: {x: 1534, y: 1764}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: CatOrange_Lid2
+    spriteName: CatOrange_Lid2
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 4980451cd4ed87e42aa49523f71f299c
+    layerID: 72
+    mosaicPosition: {x: 1534, y: 2295}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: CatOrange_Lid3
+    spriteName: CatOrange_Lid3
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 1ef217d6938778548b61077c2aff1249
+    layerID: 64
+    mosaicPosition: {x: 1075, y: 6424}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: CatOrange_Lid4
+    spriteName: CatOrange_Lid4
+    isGroup: 0
+    parentIndex: 0
+    spriteID: ceb1aaee32f0f02489ff832deb280108
+    layerID: 68
+    mosaicPosition: {x: 1534, y: 2073}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: CatOrange_Pupil1
+    spriteName: CatOrange_Pupil1
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 37e0030c6cdecf64d9262cbf63eef61b
+    layerID: 163
+    mosaicPosition: {x: 1923, y: 1764}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: CatOrange_Pupil2
+    spriteName: CatOrange_Pupil2
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 6775cd810ae5b594eb37e521a9fc020f
+    layerID: 59
+    mosaicPosition: {x: 442, y: 7450}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: CatOrange_EyeColour
+    spriteName: CatOrange_EyeColour
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 01f116dee2eadbe4e94d670656aafdbe
+    layerID: 58
+    mosaicPosition: {x: 637, y: 6014}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: CatOrange_Leg1
+    spriteName: 
+    isGroup: 1
+    parentIndex: 0
+    spriteID: f55f9d2a43e77df43a533e8cd1551264
+    layerID: 57
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: CatOrange_Leg1_foot
+    spriteName: CatOrange_Leg1_foot
+    isGroup: 0
+    parentIndex: 11
+    spriteID: 6916149799a004049b78c58e96c2061b
+    layerID: 56
+    mosaicPosition: {x: 1075, y: 6731}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: CatOrange_Leg1_Mid
+    spriteName: CatOrange_Leg1_Mid
+    isGroup: 0
+    parentIndex: 11
+    spriteID: c4d930dd6e1dec740b17ac45a57f1e32
+    layerID: 52
+    mosaicPosition: {x: 4, y: 7961}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: CatOrange_Leg1_Top
+    spriteName: CatOrange_Leg1_Top
+    isGroup: 0
+    parentIndex: 11
+    spriteID: 069f80afae4c16740ba5a36f9588851e
+    layerID: 48
+    mosaicPosition: {x: 671, y: 3438}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: CatOrange_Leg2
+    spriteName: 
+    isGroup: 1
+    parentIndex: 0
+    spriteID: bdf582650a7f41f4589cbf90b8b66c62
+    layerID: 43
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: CatOrange_Leg2_Foot
+    spriteName: CatOrange_Leg2_Foot
+    isGroup: 0
+    parentIndex: 15
+    spriteID: 2318df46266513943b3f6196b6f693d9
+    layerID: 42
+    mosaicPosition: {x: 1534, y: 3083}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: CatOrange_Leg2_Mid
+    spriteName: CatOrange_Leg2_Mid
+    isGroup: 0
+    parentIndex: 15
+    spriteID: 6e4a4292c5a829b4c8fc2a3be3356f77
+    layerID: 38
+    mosaicPosition: {x: 4, y: 7450}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: CatOrange_Leg2_Top
+    spriteName: CatOrange_Leg2_Top
+    isGroup: 0
+    parentIndex: 15
+    spriteID: 1e1bf9ceba6cf1a4ea8b79fc4369b9c2
+    layerID: 34
+    mosaicPosition: {x: 637, y: 7391}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: CatOrange_Body
+    spriteName: CatOrange_Body
+    isGroup: 0
+    parentIndex: 0
+    spriteID: e773d1de4db096d43943dc90db8b8223
+    layerID: 29
+    mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: CatOrange_Leg3
+    spriteName: 
+    isGroup: 1
+    parentIndex: 0
+    spriteID: cbe9ae5874ea1754fb541622b059096f
+    layerID: 25
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: CatOrange_Leg3_Foot
+    spriteName: CatOrange_Leg3_Foot
+    isGroup: 0
+    parentIndex: 20
+    spriteID: faef19946aafb4247bd84e46b331e14a
+    layerID: 24
+    mosaicPosition: {x: 1534, y: 3313}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: CatOrange_Leg3_Mid
+    spriteName: CatOrange_Leg3_Mid
+    isGroup: 0
+    parentIndex: 20
+    spriteID: 7829f27b7fa844f46b77a21629ba58ff
+    layerID: 20
+    mosaicPosition: {x: 637, y: 6424}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: CatOrange_Leg3_Top
+    spriteName: CatOrange_Leg3_Top
+    isGroup: 0
+    parentIndex: 20
+    spriteID: 91672e651e85036499d959bc2825fff5
+    layerID: 16
+    mosaicPosition: {x: 1123, y: 6935}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: CatOrange_Leg4
+    spriteName: 
+    isGroup: 1
+    parentIndex: 0
+    spriteID: 0ad95e29795145343b2e0fdcbc02229d
+    layerID: 169
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: CatOrange_Leg4_foot
+    spriteName: CatOrange_Leg4_foot
+    isGroup: 0
+    parentIndex: 24
+    spriteID: 6d972900cf50eef47ba07754b7d1de78
+    layerID: 168
+    mosaicPosition: {x: 1534, y: 3864}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: CatOrange_Leg4_Mid
+    spriteName: CatOrange_Leg4_Mid
+    isGroup: 0
+    parentIndex: 24
+    spriteID: aecfd5923632eea41aa8b956abeed4c7
+    layerID: 167
+    mosaicPosition: {x: 2134, y: 938}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: CatOrange_Leg4_Top
+    spriteName: CatOrange_Leg4_Top
+    isGroup: 0
+    parentIndex: 24
+    spriteID: b90a4f68a7080a14f890fd8da262d3ea
+    layerID: 166
+    mosaicPosition: {x: 4, y: 5481}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: CatOrange_Tail
+    spriteName: CatOrange_Tail
+    isGroup: 0
+    parentIndex: 0
+    spriteID: b3baf9e7a5c30024fa56d891104d553a
+    layerID: 11
+    mosaicPosition: {x: 4, y: 3438}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: TinCan
+    spriteName: TinCan
+    isGroup: 0
+    parentIndex: -1
+    spriteID: ad99b54fd11f35d4bb9d8b60dea89516
+    layerID: 6
+    mosaicPosition: {x: 4, y: 4725}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: GreyCat
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 0e85207805ad34341961fcd948dd1a6b
+    layerID: 161
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: GreyCat_MouthTop
+    spriteName: GreyCat_MouthTop
+    isGroup: 0
+    parentIndex: 30
+    spriteID: 471833234fc673a42849cad999f4c8f9
+    layerID: 177
+    mosaicPosition: {x: 1879, y: 3083}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: GreyCat_MouthBottom
+    spriteName: GreyCat_MouthBottom
+    isGroup: 0
+    parentIndex: 30
+    spriteID: bfaa5312740fda8448fb2493cd104c61
+    layerID: 176
+    mosaicPosition: {x: 1912, y: 2295}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: GreyCat_Head
+    spriteName: GreyCat_Head
+    isGroup: 0
+    parentIndex: 30
+    spriteID: db8efa3b98aabba429ed3641d6145504
+    layerID: 175
+    mosaicPosition: {x: 4, y: 2334}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: GreyCat_Lid1
+    spriteName: GreyCat_Lid1
+    isGroup: 0
+    parentIndex: 30
+    spriteID: d3f41450766fd8b4e988a27f7ddf0c9d
+    layerID: 145
+    mosaicPosition: {x: 1534, y: 2549}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: GreyCat_Lid2
+    spriteName: GreyCat_Lid2
+    isGroup: 0
+    parentIndex: 30
+    spriteID: d8658b3ce96179847a76cdf114cc631d
+    layerID: 140
+    mosaicPosition: {x: 1847, y: 2827}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: GreyCat_Lid3
+    spriteName: GreyCat_Lid3
+    isGroup: 0
+    parentIndex: 30
+    spriteID: 392bee6da28323a428e7795fed8d02af
+    layerID: 155
+    mosaicPosition: {x: 1157, y: 4218}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: GreyCat_Lid4
+    spriteName: GreyCat_Lid4
+    isGroup: 0
+    parentIndex: 30
+    spriteID: 80bcf4bc2c9955b4a94a1e1bc5587713
+    layerID: 150
+    mosaicPosition: {x: 1534, y: 2827}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: GreyCat_Pupil1
+    spriteName: GreyCat_Pupil1
+    isGroup: 0
+    parentIndex: 30
+    spriteID: 49afb6577d25413408fb29d75d43355f
+    layerID: 135
+    mosaicPosition: {x: 1888, y: 1248}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: GreyCat_Pupil2
+    spriteName: GreyCat_Pupil2
+    isGroup: 0
+    parentIndex: 30
+    spriteID: 6e9797af66eb577469ace305451ab6b2
+    layerID: 170
+    mosaicPosition: {x: 1534, y: 3543}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: GreyCat_EyeColour
+    spriteName: GreyCat_EyeColour
+    isGroup: 0
+    parentIndex: 30
+    spriteID: 6457de488d4b70b4b91e4cb8bc75f9cf
+    layerID: 134
+    mosaicPosition: {x: 637, y: 5481}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: GreyCat_Leg1
+    spriteName: 
+    isGroup: 1
+    parentIndex: 30
+    spriteID: 4633678ad7295aa4ba43edf57b97fcc8
+    layerID: 133
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: GreyCat_Leg1_Foot
+    spriteName: GreyCat_Leg1_Foot
+    isGroup: 0
+    parentIndex: 41
+    spriteID: d341b38e7a5c6384aaf56eba30681314
+    layerID: 132
+    mosaicPosition: {x: 1534, y: 4067}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: GreyCat_Leg1_Mid
+    spriteName: GreyCat_Leg1_Mid
+    isGroup: 0
+    parentIndex: 41
+    spriteID: 560bc28a58fe0e9498556fcc2503f091
+    layerID: 128
+    mosaicPosition: {x: 671, y: 4218}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: GreyCat_Leg1_Top
+    spriteName: GreyCat_Leg1_Top
+    isGroup: 0
+    parentIndex: 41
+    spriteID: 0b75a79d976149a4290b1659e5217681
+    layerID: 124
+    mosaicPosition: {x: 1123, y: 7578}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: GreyCat_Leg2
+    spriteName: 
+    isGroup: 1
+    parentIndex: 30
+    spriteID: 26ca9326de224ec44b4049fa67d3faf0
+    layerID: 119
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: GreyCat_Leg2_Foot
+    spriteName: GreyCat_Leg2_Foot
+    isGroup: 0
+    parentIndex: 45
+    spriteID: 4f2ba6be31ef55c4b828987ef158a1e8
+    layerID: 118
+    mosaicPosition: {x: 1844, y: 2549}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: GreyCat_Leg2_Mid
+    spriteName: GreyCat_Leg2_Mid
+    isGroup: 0
+    parentIndex: 45
+    spriteID: 40f9ec6bdff77a9458b909dfd26d7c7e
+    layerID: 114
+    mosaicPosition: {x: 1534, y: 938}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: GreyCat_Leg2_Top
+    spriteName: GreyCat_Leg2_Top
+    isGroup: 0
+    parentIndex: 45
+    spriteID: 72125fcfc6a2f934c8c21f84a98ad861
+    layerID: 110
+    mosaicPosition: {x: 958, y: 4725}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: GreyCat_Body
+    spriteName: GreyCat_Body
+    isGroup: 0
+    parentIndex: 30
+    spriteID: f9abfd6f7aad11a47aed4d70c684c582
+    layerID: 105
+    mosaicPosition: {x: 1534, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: GreyCat_Leg3
+    spriteName: 
+    isGroup: 1
+    parentIndex: 30
+    spriteID: 943606f8a30f8ae438e591aaa44a1499
+    layerID: 101
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: GreyCat_Leg3_Foot
+    spriteName: GreyCat_Leg3_Foot
+    isGroup: 0
+    parentIndex: 50
+    spriteID: 7ef0c14ec38d7ae44804e6e0c16c3e3e
+    layerID: 100
+    mosaicPosition: {x: 1534, y: 4273}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: GreyCat_Leg3_Mid
+    spriteName: GreyCat_Leg3_Mid
+    isGroup: 0
+    parentIndex: 50
+    spriteID: c5b021baeb3b76c41941f10d797a3d74
+    layerID: 96
+    mosaicPosition: {x: 637, y: 6935}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: GreyCat_Leg3_Top
+    spriteName: GreyCat_Leg3_Top
+    isGroup: 0
+    parentIndex: 50
+    spriteID: db761b788922e6d488eb795241dfabf4
+    layerID: 92
+    mosaicPosition: {x: 1534, y: 1248}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: GreyCat_Tail
+    spriteName: GreyCat_Tail
+    isGroup: 0
+    parentIndex: 30
+    spriteID: 082a237a1f8c16640ac50edc606826a3
+    layerID: 87
+    mosaicPosition: {x: 4, y: 6261}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  sharedRigPSDLayers: []
+  pSDLayerImportSetting: []
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  spriteSizeExpandChanged: 0
+  generateGOHierarchy: 0
+  textureAssetName: 
+  prefabAssetName: 
+  spriteLibAssetName: 
+  skeletonAssetName: 
+  secondarySpriteTextures: []

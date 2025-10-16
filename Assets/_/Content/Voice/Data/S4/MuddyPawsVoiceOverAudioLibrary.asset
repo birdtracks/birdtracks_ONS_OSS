@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad3ada4e39e3e3c4c841739fdfdf8818, type: 3}
+  m_Name: MuddyPawsVoiceOverAudioLibrary
+  m_EditorClassIdentifier: 
+  ActiveLanguage: 0
+  VoiceOverPacks:
+  - ID: B-01
+    EnglishClip: {fileID: 8300000, guid: 13c8b89c7ee9cae41a9d20aa6d634582, type: 3}
+    SeswatiClip: {fileID: 8300000, guid: c7b4a8d5220c3424ab8c128d85dd862b, type: 3}
+  - ID: B-02
+    EnglishClip: {fileID: 8300000, guid: db9d79655677c7d42a172dbb7c62f0dc, type: 3}
+    SeswatiClip: {fileID: 8300000, guid: 3dfba8c44e3ad814ea604e81e6a1a3ae, type: 3}
+  - ID: B-11
+    EnglishClip: {fileID: 8300000, guid: b7d912376fe86f34595aa9b255168fc5, type: 3}
+    SeswatiClip: {fileID: 8300000, guid: 0eefd62fbcdf5af45b5fb7cdd953641d, type: 3}
+  - ID: B-12
+    EnglishClip: {fileID: 8300000, guid: d18a86db3ea181a468e5a53a3d53be01, type: 3}
+    SeswatiClip: {fileID: 8300000, guid: 20f986841b8e4ff4fabb8d2b1c0ff2d1, type: 3}
+  - ID: B-13
+    EnglishClip: {fileID: 8300000, guid: c788e51fa32a94d4eaaa118dfa7ae613, type: 3}
+    SeswatiClip: {fileID: 8300000, guid: f8d646ca59878014fb7eecb9cb34c847, type: 3}
+  - ID: B-14
+    EnglishClip: {fileID: 8300000, guid: e9d4f8c663e0ec04fa7201800318e5e9, type: 3}
+    SeswatiClip: {fileID: 8300000, guid: daff873851a415440ba0f6ca51de80be, type: 3}

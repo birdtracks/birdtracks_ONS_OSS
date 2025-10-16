@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00239477b0149f748b8e81a511ec9340, type: 3}
+  m_Name: QuestionData_S1_02
+  m_EditorClassIdentifier: 
+  questionText: Can you tell me, what was inside the nest?
+  ENGQuestionAudioClip: {fileID: 8300000, guid: 0cca820cc71e41741b9857de22c9e860,
+    type: 3}
+  SSWQuestionAudioClip: {fileID: 8300000, guid: 2a5e743d06af6ea45a3d1036a4ddcde7,
+    type: 3}
+  ENGPromptQuestionAudioClip: {fileID: 8300000, guid: bcd65b28e5315bb45b36ff7a47e88201,
+    type: 3}
+  SSWPromptQuestionAudioClip: {fileID: 8300000, guid: 9c939ef27d139d445b75b5b8c7583f59,
+    type: 3}
+  ENGAcknowledgeAnswerAudioClipP1: {fileID: 8300000, guid: f650fcbd3b9650d46abb6c5cd5467b56,
+    type: 3}
+  ENGAcknowledgeAnswerAudioClipP2: {fileID: 8300000, guid: c4cb679e957566f49b46e40dc9e2ee4e,
+    type: 3}
+  SSWAcknowledgeAnswerAudioClipP1: {fileID: 8300000, guid: 3c41514a676ab704e929179e1305fae1,
+    type: 3}
+  SSWAcknowledgeAnswerAudioClipP2: {fileID: 8300000, guid: 0a7cefc43b9b64f4198ffe49a8738b38,
+    type: 3}
+  questions:
+  - Image: {fileID: 21300000, guid: 57cab8cc5c0b5d74595ea93879a851be, type: 3}
+    IsCorrectAnswer: 0
+  - Image: {fileID: 21300000, guid: be807dbe9aaa26d43a1bff2a495cfb9e, type: 3}
+    IsCorrectAnswer: 1
+  - Image: {fileID: 21300000, guid: dde3adbb5f034494d9761b9c2215b61c, type: 3}
+    IsCorrectAnswer: 0
