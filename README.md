@@ -2,13 +2,13 @@
 
 ## Project Overview
 
-**ONS_OSS** (Object Naming Scenes - Open Source Software) is a Unity-based cognitive assessment game engine designed to be embedded within Flutter applications. The project provides voice-based assessment tasks where users describe visual scenes and stories, enabling evaluation of language production and cognitive abilities.
+**ONS_OSS** (Object Naming Scenes - Open Source Software) is a set of Unity-based cognitive assessment games designed to be embedded within Flutter applications. The project provides voice-based assessment tasks where users describe visual scenes and stories, enabling evaluation of language production and cognitive abilities.
 
 ### Game Description
 The application presents users with animated visual scenarios and prompts them to describe what they see. Each assessment consists of carefully designed scenes with accompanying video animations that tell short stories, requiring verbal responses from participants.
 
 ### Target Platforms
-- **iOS**: 12.0+
+
 - **Android**: API Level 22+ (Android 5.1 / Lollipop)
 
 ### Unity Version
@@ -102,8 +102,6 @@ Custom lightweight animation components:
 | **Unity Analytics** | 6.1.1 | Usage analytics and telemetry |
 | **Timeline** | 1.7.7 | Sequencing animations and cutscenes in assessment scenes |
 | **2D PSD Importer** | 8.1.1 | Import layered Photoshop files as sprite assets |
-| **Visual Scripting** | 1.9.4 | Node-based scripting (optional) |
-| **Collab Proxy** | 2.10.0 | Version control integration |
 
 ### Third-Party Libraries
 
@@ -116,7 +114,6 @@ Custom lightweight animation components:
 - **Cinemachine**: Animated camera movements in tutorial sequences
 - **Timeline**: Orchestrating assessment scene animations and timing
 - **TextMesh Pro**: All UI text rendering
-- **Unity Analytics**: Player behavior and session metrics
 
 ---
 
@@ -132,22 +129,12 @@ Custom lightweight animation components:
 
 When installing Unity 2022.3.62f2, ensure these modules are installed:
 
-- ✅ **iOS Build Support**
-  - iOS Build Support
-  - Xcode (Mac only)
+
 - ✅ **Android Build Support**
   - Android SDK & NDK Tools
   - OpenJDK
 - ✅ **Code Editor** (Visual Studio, Visual Studio Code, or Rider)
 
-### Platform-Specific Requirements
-
-#### For iOS Development:
-- **macOS** (required for iOS builds)
-- **Xcode 14.0+** with Command Line Tools installed
-- **Apple Developer Account** (free for development, paid for distribution)
-- **iOS Device or Simulator** running iOS 12.0+
-- **CocoaPods** (may be required for Flutter integration)
 
 #### For Android Development:
 - **Android SDK** (included via Unity or Android Studio)
@@ -277,36 +264,6 @@ This Unity project is designed as an embedded module within a Flutter applicatio
 2. Click **Build** or **Build And Run**
 3. Select output folder for APK
 4. Wait for build completion
-
-### iOS Build
-
-#### 1. Switch Platform
-1. Go to **File → Build Settings**
-2. Select **iOS**
-3. Click **Switch Platform**
-
-#### 2. Configure Player Settings
-1. In Build Settings, click **Player Settings**
-2. Navigate to **Player → Other Settings**:
-   - **Bundle Identifier**: `com.yourcompany.ons`
-   - **Target minimum iOS Version**: 12.0
-   - **Architecture**: ARM64
-   - **Requires ARKit support**: Disabled
-   - **Camera Usage Description**: (Add if using camera features)
-   - **Microphone Usage Description**: "This app requires microphone access for voice assessments"
-
-#### 3. Build Xcode Project
-1. Return to **File → Build Settings**
-2. Click **Build**
-3. Select output folder (e.g., `Build/iOS`)
-4. Unity generates an Xcode project
-
-#### 4. Configure and Build in Xcode
-1. Open `Unity-iPhone.xcodeproj` in Xcode
-2. Select your development team in **Signing & Capabilities**
-3. Enable **Automatically manage signing**
-4. Connect iOS device or select simulator
-5. Click **Run** (▶️) to build and deploy
 
 ### Export for Flutter Integration
 
@@ -455,7 +412,7 @@ Assets/
 
 #### In Unity Editor:
 
-1. Open `Assets/Scenes/SampleScene.unity`
+1. Open `Assets/_/Content/Core/Scenes/DebugPanel.unity`
 2. Press **Play** in the Unity Editor
 3. The game initializes with test `FlutterInitArgs` (configured in scene)
 4. Use debug UI to navigate between assessment scenes

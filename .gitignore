@@ -82,3 +82,6 @@ crashlytics-build.properties
 
 # Plastic SCM
 .plastic/
+
+# Claude AI
+.claude/

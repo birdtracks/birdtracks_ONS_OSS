@@ -49,7 +49,7 @@ namespace BirdTracks.Game.Core
                 yield break;
             }
 
-            1m_Dialog.Instance.FadeImage.enabled = true;
+            m_Dialog.Instance.FadeImage.enabled = true;
             m_Dialog.Instance.FadeImage.color = new Color(0f, 0f, 0f, 0f);
             m_Dialog.Instance.JJOverlay.color = new Color(0f, 0f, 0f, 1f);
 
